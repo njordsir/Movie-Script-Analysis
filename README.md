@@ -21,7 +21,7 @@ Extract scene and character details and store as jsons.
 until finished
 ```
 
-# Movie emotion/sentiment analysis
+### Movie emotion/sentiment analysis
 
 script: sentiment_bin.py
 
