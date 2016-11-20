@@ -1,0 +1,11591 @@
+(dp1
+S'ratings'
+p2
+(dp3
+S'Funny People'
+p4
+F6.4000000000000004
+sS'Road, The'
+p5
+F6.5
+sS'Limitless'
+p6
+F7.9000000000000004
+sS'Yes Man'
+p7
+F6.7999999999999998
+sS'English Patient, The'
+p8
+F7.4000000000000004
+sS'Gremlins'
+p9
+F7.2000000000000002
+sS'Lion King, The'
+p10
+F8.5
+sS'Crow, The'
+p11
+F7.5999999999999996
+sS'Moon'
+p12
+F7.9000000000000004
+sS"Smokin' Aces"
+p13
+F6.7000000000000002
+sS'Human Nature'
+p14
+F6.4000000000000004
+sS'Spider-Man'
+p15
+F7.2999999999999998
+sS'Cradle 2 the Grave'
+p16
+F5.7999999999999998
+sS'Snatch'
+p17
+F8.3000000000000007
+sS'Sherlock Holmes'
+p18
+F7.5999999999999996
+sS'Mulan'
+p19
+F7.5
+sS'Harold and Kumar Go to White Castle'
+p20
+F7.0999999999999996
+sS'Sideways'
+p21
+F7.5
+sS'Big White, The'
+p22
+F6.4000000000000004
+sS"Cirque du Freak: The Vampire's Assistan"
+p23
+F5.9000000000000004
+sS'Eight Legged Freaks'
+p24
+F5.4000000000000004
+sS'Citizen Kane'
+p25
+F8.4000000000000004
+sS'Spanglish'
+p26
+F6.4000000000000004
+sS'Newsies'
+p27
+F6.9000000000000004
+sS'Wall-E'
+p28
+F8.4000000000000004
+sS'Precious'
+p29
+F7.2999999999999998
+sS'Crazy, Stupid, Love'
+p30
+F7.4000000000000004
+sS'Dances with Wolves'
+p31
+F8
+sS'Win Win'
+p32
+F7.2000000000000002
+sS'1492: Conquest of Paradise'
+p33
+F6.5
+sS'Twiligh'
+p34
+F5.2000000000000002
+sS'Fair Game'
+p35
+F6.7999999999999998
+sS'Cold Mountain'
+p36
+F7.2000000000000002
+sS'An Education'
+p37
+F7.2999999999999998
+sS'Back to the Future'
+p38
+F8.5
+sS'Erin Brockovich'
+p39
+F7.2999999999999998
+sS'Blade Runner'
+p40
+F8.1999999999999993
+sS'Hannibal'
+p41
+F8.5999999999999996
+sS'Prophecy, The'
+p42
+F6.5999999999999996
+sS'Men in Black'
+p43
+F7.2999999999999998
+sS'Princess Bride, The'
+p44
+F8.0999999999999996
+sS'Ghost Ship'
+p45
+F5.5
+sS'Matrix, The'
+p46
+F8.6999999999999993
+sS'Mighty Morphin Power Rangers: The Movie'
+p47
+F5.0999999999999996
+sS'Family Man, The'
+p48
+F6.7000000000000002
+sS'Austin Powers - The Spy Who Shagged Me'
+p49
+F6.5999999999999996
+sS"Ocean's Eleven"
+p50
+F7.7999999999999998
+sS'Suspect Zero'
+p51
+F5.9000000000000004
+sS'Three Kings (Spoils of War)'
+p52
+F7.0999999999999996
+sS'Broken Arrow'
+p53
+F6
+sS'Paul'
+p54
+F7
+sS'Angels & Demons'
+p55
+F6.7000000000000002
+sS'Midnight Cowboy'
+p56
+F7.9000000000000004
+sS'Up in the Air'
+p57
+F7.4000000000000004
+sS'Descendants, The'
+p58
+F7.2999999999999998
+sS'Boondock Saints, The'
+p59
+F7.9000000000000004
+sS'Fabulous Baker Boys, The'
+p60
+F6.7999999999999998
+sS'Willow'
+p61
+F7.2999999999999998
+sS'Wag the Dog'
+p62
+F7.0999999999999996
+sS'Manchurian Candidate, The'
+p63
+F6.5999999999999996
+sS'Never Been Kissed'
+p64
+F6
+sS'Watchmen'
+p65
+F7.5999999999999996
+sS'Even Cowgirls Get the Blues'
+p66
+F4.2999999999999998
+sS'Swingers'
+p67
+F7.4000000000000004
+sS'Lake Placid'
+p68
+F5.5999999999999996
+sS'Total Recall'
+p69
+F7.5
+sS'Pokemon: Mewtwo Returns'
+p70
+F6.5
+sS'Bull Durham'
+p71
+F7.0999999999999996
+sS'Officer and a Gentleman, An'
+p72
+F7
+sS'Patriot, The'
+p73
+F7.0999999999999996
+sS'Gang Related'
+p74
+F7.5999999999999996
+sS'8 Mile'
+p75
+F7
+sS'True Romance'
+p76
+F8
+sS'American Psycho'
+p77
+F7.5999999999999996
+sS'Grosse Point Blank'
+p78
+F7.4000000000000004
+sS'Blue Valentine'
+p79
+F7.4000000000000004
+sS'Marty'
+p80
+F7.7000000000000002
+sS'John Q'
+p81
+F7
+sS'Big Blue, The'
+p82
+F7.5999999999999996
+sS'Made'
+p83
+F6.4000000000000004
+sS'TMNT'
+p84
+F6.2999999999999998
+sS'When Harry Met Sally'
+p85
+F7.5999999999999996
+sS"Something's Gotta Give"
+p86
+F6.7000000000000002
+sS'Up'
+p87
+F8.3000000000000007
+sS'My Girl'
+p88
+F6.7999999999999998
+sS'Insidious'
+p89
+F6.7999999999999998
+sS'Trainspotting'
+p90
+F8.1999999999999993
+sS'Anniversary Party, The'
+p91
+F6.4000000000000004
+sS'X-Men'
+p92
+F7.4000000000000004
+sS'Indiana Jones and the Last Crusade'
+p93
+F8.3000000000000007
+sS'Apollo 13'
+p94
+F7.5999999999999996
+sS'Sixth Sense, The'
+p95
+F8.0999999999999996
+sS'Station Wes'
+p96
+F6.7000000000000002
+sS'Tinker Tailor Soldier Spy'
+p97
+F7.0999999999999996
+sS'Orphan'
+p98
+F7
+sS'Breakfast Club, The'
+p99
+F7.9000000000000004
+sS'Changeling'
+p100
+F7.7999999999999998
+sS'Adventures of Buckaroo Banzai Across the Eighth Dimension, The'
+p101
+F6.4000000000000004
+sS'Bachelor Party, The'
+p102
+F6.2999999999999998
+sS'Confessions of a Dangerous Mind'
+p103
+F7.0999999999999996
+sS'Island, The'
+p104
+F6.9000000000000004
+sS'Apartment, The'
+p105
+F8.3000000000000007
+sS'Big'
+p106
+F7.2999999999999998
+sS'Queen of the Damned'
+p107
+F5.2000000000000002
+sS'Ninotchka'
+p108
+F8
+sS'White Ribbon, The'
+p109
+F7.7999999999999998
+sS'Twin Peaks'
+p110
+F8.9000000000000004
+sS'Four Feathers'
+p111
+F7.0999999999999996
+sS'Thelma & Louise'
+p112
+F7.4000000000000004
+sS'Bounty Hunter, The'
+p113
+F4.9000000000000004
+sS'Bad Teacher'
+p114
+F5.7000000000000002
+sS'Last Chance Harvey'
+p115
+F6.7000000000000002
+sS'Magnolia'
+p116
+F8
+sS'Star Wars: Return of the Jedi'
+p117
+F8.4000000000000004
+sS'Next Three Days, The'
+p118
+F7.4000000000000004
+sS'Roughshod'
+p119
+F6.7000000000000002
+sS'Basic'
+p120
+F6.5
+sS'It Happened One Nigh'
+p121
+F8.1999999999999993
+sS'Believer, The'
+p122
+F7.2000000000000002
+sS'Shipping News, The'
+p123
+F6.7999999999999998
+sS'Jurassic Park'
+p124
+F8.0999999999999996
+sS'Fighter, The'
+p125
+F7.9000000000000004
+sS'Sweet Hereafter, The'
+p126
+F7.7000000000000002
+sS'Crash'
+p127
+F7.9000000000000004
+sS"It's Complicated"
+p128
+F6.5999999999999996
+sS'Obsessed'
+p129
+F4.9000000000000004
+sS'Labyrinth'
+p130
+F7.4000000000000004
+sS'Kalifornia'
+p131
+F6.7000000000000002
+sS'Last of the Mohicans, The'
+p132
+F7.7999999999999998
+sS'Conan the Barbarian'
+p133
+F6.9000000000000004
+sS'Midnight Express'
+p134
+F7.7000000000000002
+sS'Legion'
+p135
+F6.5999999999999996
+sS'Ghost World'
+p136
+F7.4000000000000004
+sS'Machine Gun Preacher'
+p137
+F6.7999999999999998
+sS'Rocky Horror Picture Show, The'
+p138
+F7.4000000000000004
+sS'Repo Man'
+p139
+F6.9000000000000004
+sS'Final Destination'
+p140
+F6.7000000000000002
+sS'Scream'
+p141
+F7.2999999999999998
+sS'Gran Torino'
+p142
+F8.1999999999999993
+sS'Hellboy 2: The Golden Army'
+p143
+F7
+sS'Punch-Drunk Love'
+p144
+F7.2999999999999998
+sS'Blade II'
+p145
+F6.7000000000000002
+sS'Alone in the Dark'
+p146
+F2.2999999999999998
+sS'Glengarry Glen Gross'
+p147
+F7.7999999999999998
+sS"Logan's Run"
+p148
+F6.7999999999999998
+sS'St'
+p149
+F7.2999999999999998
+sS'War Horse'
+p150
+F7.2000000000000002
+sS'Back to the Future II & III'
+p151
+F8.5
+sS'Jason X'
+p152
+F4.4000000000000004
+sS'Intolerable Cruelty'
+p153
+F6.2999999999999998
+sS'Agnes of God'
+p154
+F6.5999999999999996
+sS'Hudson Hawk'
+p155
+F5.7000000000000002
+sS'Margin Call'
+p156
+F7.0999999999999996
+sS'Pacifier, The'
+p157
+F5.5
+sS'Nines, The'
+p158
+F8.3000000000000007
+sS'Grudge, The'
+p159
+F5.9000000000000004
+sS'Cast Away'
+p160
+F7.7000000000000002
+sS'Mirrors'
+p161
+F6.2000000000000002
+sS'Jackie Brown'
+p162
+F7.5
+sS'Death to Smoochy'
+p163
+F6.4000000000000004
+sS'Nick of Time'
+p164
+F6.2999999999999998
+sS'Jennifer Eigh'
+p165
+F5.0999999999999996
+sS'Reindeer Games'
+p166
+F5.7000000000000002
+sS'Shakespeare in Love'
+p167
+F7.2000000000000002
+sS'King of Comedy, The'
+p168
+F7.7999999999999998
+sS'Tin Men'
+p169
+F6.5
+sS'Neverending Story, The'
+p170
+F7.4000000000000004
+sS'My Week with Marilyn'
+p171
+F7
+sS'Sweet Smell of Success'
+p172
+F8.1999999999999993
+sS'Real Genius'
+p173
+F7
+sS'Bruce Almighty'
+p174
+F6.7000000000000002
+sS'Leaving Las Vegas'
+p175
+F7.5999999999999996
+sS'Ruins, The'
+p176
+F5.9000000000000004
+sS'Cruel Intentions'
+p177
+F6.9000000000000004
+sS'Antitrus'
+p178
+F6.0999999999999996
+sS'Jimmy and Judy'
+p179
+F6.2000000000000002
+sS'Ghostbusters 2'
+p180
+F6.5
+sS'Very Bad Things'
+p181
+F6.2999999999999998
+sS'King Kong'
+p182
+F7.2000000000000002
+sS'Simone'
+p183
+F6.0999999999999996
+sS'Who Framed Roger Rabbit?'
+p184
+F7.7000000000000002
+sS'Return of the Apes'
+p185
+F5.7000000000000002
+sS'Frances'
+p186
+F7.4000000000000004
+sS'Black Dahlia, The'
+p187
+F5.5999999999999996
+sS'Talented Mr'
+p188
+F7.2999999999999998
+sS'Wall Stree'
+p189
+F8.1999999999999993
+sS'Woodsman, The'
+p190
+F7.2000000000000002
+sS'From Dusk Till Dawn'
+p191
+F7
+sS'To Sleep with Anger'
+p192
+F7.0999999999999996
+sS'Pet Sematary II'
+p193
+F4.7000000000000002
+sS'Eternal Sunshine of the Spotless Mind'
+p194
+F8.3000000000000007
+sS'Hancock'
+p195
+F6.4000000000000004
+sS'Memento'
+p196
+F8.5
+sS'Terminator'
+p197
+F8
+sS'Wild Things'
+p198
+F6.5
+sS'Wild Hogs'
+p199
+F5.9000000000000004
+sS'Blade'
+p200
+F7.0999999999999996
+sS'Thunderhear'
+p201
+F6.7999999999999998
+sS'Sunshine Cleaning'
+p202
+F6.9000000000000004
+sS'After School Special'
+p203
+F4.7999999999999998
+sS"You've Got Mail"
+p204
+F6.5
+sS'Mrs'
+p205
+F7.9000000000000004
+sS'Mumford'
+p206
+F6.9000000000000004
+sS'Tombstone'
+p207
+F7.7999999999999998
+sS'I Love You Phillip Morris'
+p208
+F6.5999999999999996
+sS'Klute'
+p209
+F7.2000000000000002
+sS'Star Wars: The Phantom Menace'
+p210
+F6.5
+sS'Star Wars: A New Hope'
+p211
+F8.6999999999999993
+sS'Shrek'
+p212
+F7.9000000000000004
+sS'Godfather'
+p213
+F9.1999999999999993
+sS'Shining, The'
+p214
+F8.4000000000000004
+sS'Crouching Tiger, Hidden Dragon'
+p215
+F7.9000000000000004
+sS'Fantastic Four'
+p216
+F4.2999999999999998
+sS'Solaris'
+p217
+F8.0999999999999996
+sS'Storytelling'
+p218
+F6.9000000000000004
+sS'Ali'
+p219
+F6.7999999999999998
+sS'Cliffhanger'
+p220
+F6.4000000000000004
+sS'Highlander'
+p221
+F7.2000000000000002
+sS'Little Athens'
+p222
+F5.5999999999999996
+sS'Bad Santa'
+p223
+F7.0999999999999996
+sS'Sphere'
+p224
+F6
+sS'Mask, The'
+p225
+F6.9000000000000004
+sS'Get Low'
+p226
+F7.0999999999999996
+sS'Blues Brothers, The'
+p227
+F7.9000000000000004
+sS'Signs'
+p228
+F6.7000000000000002
+sS'Living in Oblivion'
+p229
+F7.5999999999999996
+sS'Fantastic Mr Fo'
+p230
+F7.7999999999999998
+sS'Arctic Blue'
+p231
+F5.0999999999999996
+sS'Chronicles of Narnia: The Lion, the Witch and the Wardrobe'
+p232
+F6.9000000000000004
+sS'JFK'
+p233
+F8
+sS'Devil in a Blue Dress'
+p234
+F6.7000000000000002
+sS'Star Trek II: The Wrath of Khan'
+p235
+F7.7000000000000002
+sS'Body Hea'
+p236
+F7.4000000000000004
+sS'Hotel Rwanda'
+p237
+F8.0999999999999996
+sS"My Best Friend's Wedding"
+p238
+F6.2999999999999998
+sS"Dave Barry's Complete Guide to Guys"
+p239
+F4.4000000000000004
+sS'Last Station, The'
+p240
+F7
+sS'At First Sigh'
+p241
+F5.9000000000000004
+sS'American Madness'
+p242
+F7.5
+sS'Broken Embraces'
+p243
+F7.2000000000000002
+sS'Hannah and Her Sisters'
+p244
+F8
+sS'Music of the Hear'
+p245
+F6.7999999999999998
+sS'Scream 3'
+p246
+F5.5
+sS'Scream 2'
+p247
+F6.0999999999999996
+sS'Beginners'
+p248
+F7.2000000000000002
+sS'Bodies, Rest & Motion'
+p249
+F5.5999999999999996
+sS'Charade'
+p250
+F8
+sS'Days of Heaven'
+p251
+F8
+sS'South Park'
+p252
+F8.8000000000000007
+sS'Dark City'
+p253
+F7.7000000000000002
+sS'City of Joy'
+p254
+F6.4000000000000004
+sS'Escape From New York'
+p255
+F7.2000000000000002
+sS'Kids'
+p256
+F7
+sS'Badlands'
+p257
+F8.0999999999999996
+sS'As Good As It Gets'
+p258
+F7.7000000000000002
+sS'L'
+F5.4000000000000004
+sS'Star Trek: Nemesis'
+p259
+F6.4000000000000004
+sS'Clerks'
+p260
+F7.7999999999999998
+sS'Wind Chill'
+p261
+F5.9000000000000004
+sS'Hellboy'
+p262
+F6.7999999999999998
+sS'Martha Marcy May Marlene'
+p263
+F6.9000000000000004
+sS'Elizabeth: The Golden Age'
+p264
+F6.9000000000000004
+sS'Revolutionary Road'
+p265
+F7.2999999999999998
+sS'Perfect Creature'
+p266
+F5.5
+sS'Killing Zoe'
+p267
+F6.5
+sS'Distinguished Gentleman, The'
+p268
+F5.7999999999999998
+sS'Birds, The'
+p269
+F7.7000000000000002
+sS'Rear Window'
+p270
+F8.5
+sS'Aliens'
+p271
+F8.4000000000000004
+sS"Jacob's Ladder"
+p272
+F7.5
+sS'Shame'
+p273
+F7.2999999999999998
+sS'Pariah'
+p274
+F7.2000000000000002
+sS'Hard Rain'
+p275
+F5.7999999999999998
+sS'Highlander: Endgame'
+p276
+F4.5999999999999996
+sS'Affliction'
+p277
+F7
+sS'Sneakers'
+p278
+F7.0999999999999996
+sS'Saw'
+p279
+F7.7000000000000002
+sS'Milk'
+p280
+F7.5999999999999996
+sS'A Serious Man'
+p281
+F7
+sS'Slumdog Millionaire'
+p282
+F8
+sS'Heavy Metal'
+p283
+F6.7000000000000002
+sS'Bachelor Party'
+p284
+F6.2999999999999998
+sS'X-Men Origins: Wolverine'
+p285
+F6.7000000000000002
+sS'Unknown'
+p286
+F6.9000000000000004
+sS'Toy Story'
+p287
+F8.3000000000000007
+sS'Donnie Brasco'
+p288
+F7.7999999999999998
+sS'American Pie'
+p289
+F7
+sS'Withnail and I'
+p290
+F7.7999999999999998
+sS'Lord of the Rings: Return of the King'
+p291
+F4.0999999999999996
+sS'Lost Horizon'
+p292
+F7.7999999999999998
+sS'Sister Ac'
+p293
+F6.2999999999999998
+sS'Babel'
+p294
+F7.5
+sS'Backdraf'
+p295
+F6.7000000000000002
+sS'Marley & Me'
+p296
+F7.0999999999999996
+sS'Mission Impossible II'
+p297
+F6.0999999999999996
+sS'Heis'
+p298
+F7.7000000000000002
+sS'Ghostbusters'
+p299
+F5.4000000000000004
+sS'Frankenstein'
+p300
+F6
+sS'Wonder Boys'
+p301
+F7.4000000000000004
+sS'Source Code'
+p302
+F7.5
+sS'Invention of Lying, The'
+p303
+F6.4000000000000004
+sS'G'
+F5
+sS'Fugitive, The'
+p304
+F7.7999999999999998
+sS'Siege, The'
+p305
+F7.4000000000000004
+sS'Iron Lady, The'
+p306
+F6.4000000000000004
+sS'Indiana Jones IV'
+p307
+F6.2000000000000002
+sS'Rush Hour 2'
+p308
+F6.5999999999999996
+sS'Thirteen Days'
+p309
+F7.2999999999999998
+sS'Heavenly Creatures'
+p310
+F7.4000000000000004
+sS'Psycho'
+p311
+F8.5
+sS'Star Trek: The Motion Picture'
+p312
+F6.4000000000000004
+sS'Bonnie and Clyde'
+p313
+F7.9000000000000004
+sS'RKO 281'
+p314
+F7.0999999999999996
+sS'Unbreakable'
+p315
+F7.2000000000000002
+sS'Peeping Tom'
+p316
+F7.7999999999999998
+sS'15 Minutes'
+p317
+F6.0999999999999996
+sS'Halloween: The Curse of Michael Myers'
+p318
+F4.9000000000000004
+sS'Mission to Mars'
+p319
+F5.5999999999999996
+sS'Pleasantville'
+p320
+F7.5
+sS'Ghost Rider'
+p321
+F5.2000000000000002
+sS"Who's Your Daddy"
+p322
+F4.9000000000000004
+sS'Walking Tall'
+p323
+F6.2000000000000002
+sS'Taking Lives'
+p324
+F6.2000000000000002
+sS'Interview with the Vampire'
+p325
+F7.5999999999999996
+sS'Custody'
+p326
+F8.3000000000000007
+sS"Pirates of the Caribbean: Dead Man's Ches"
+p327
+F7.2999999999999998
+sS'Brazil'
+p328
+F8
+sS'Reservoir Dogs'
+p329
+F8.4000000000000004
+sS'Blade: Trinity'
+p330
+F5.9000000000000004
+sS'Gothika'
+p331
+F5.7999999999999998
+sS'Cherry Falls'
+p332
+F5.0999999999999996
+sS'25th Hour'
+p333
+F7.7000000000000002
+sS'What Lies Beneath'
+p334
+F6.5999999999999996
+sS'Graduate, The'
+p335
+F8
+sS'Burning Annie'
+p336
+F5.5999999999999996
+sS"Jennifer's Body"
+p337
+F5.0999999999999996
+sS'Observe and Repor'
+p338
+F5.7999999999999998
+sS'Purple Rain'
+p339
+F6.5
+sS'Battle of Algiers, The'
+p340
+F8.0999999999999996
+sS'Addams Family, The'
+p341
+F6.7999999999999998
+sS'Walk to Remember, A'
+p342
+F7.4000000000000004
+sS'Excalibur'
+p343
+F7.4000000000000004
+sS'So I Married an Axe Murderer'
+p344
+F6.4000000000000004
+sS'Replacements, The'
+p345
+F6.5
+sS'Strangers on a Train'
+p346
+F8.0999999999999996
+sS'Jacket, The'
+p347
+F7.0999999999999996
+sS"All the President's Men"
+p348
+F8
+sS'V for Vendetta'
+p349
+F8.1999999999999993
+sS'Burlesque'
+p350
+F6.4000000000000004
+sS'Heathers'
+p351
+F7.2999999999999998
+sS'Blue Velve'
+p352
+F7.7999999999999998
+sS'187'
+p353
+F6.7000000000000002
+sS'eXistenZ'
+p354
+F6.7999999999999998
+sS'Getaway, The'
+p355
+F8.3000000000000007
+sS'Stuntman, The'
+p356
+F7.2999999999999998
+sS'Dog Day Afternoon'
+p357
+F8
+sS'Eastern Promises'
+p358
+F7.7000000000000002
+sS'Pulp Fiction'
+p359
+F8.9000000000000004
+sS'Rescuers Down Under, The'
+p360
+F6.9000000000000004
+sS'127 Hours'
+p361
+F7.5999999999999996
+sS'Cinema Paradiso'
+p362
+F8.5
+sS'Bodyguard'
+p363
+F6.0999999999999996
+sS'Silver Bulle'
+p364
+F6.4000000000000004
+sS'Warrior'
+p365
+F8.1999999999999993
+sS'We Own the Nigh'
+p366
+F6.9000000000000004
+sS'Collateral Damage'
+p367
+F5.5
+sS'A Few Good Men'
+p368
+F7.5999999999999996
+sS'Damned United, The'
+p369
+F7.5999999999999996
+sS'Mulholland Drive'
+p370
+F8
+sS'Above the Law'
+p371
+F5.9000000000000004
+sS'Serenity'
+p372
+F8
+sS'Croupier'
+p373
+F7.2000000000000002
+sS"Devil's Advocate"
+p374
+F7.5
+sS'Fifth Element, The'
+p375
+F7.7000000000000002
+sS'12'
+p376
+F5.7000000000000002
+sS'All About Steve'
+p377
+F4.7999999999999998
+sS'Private Life of Sherlock Holmes, The'
+p378
+F7.2000000000000002
+sS'Antz'
+p379
+F6.5999999999999996
+sS'Liar Liar'
+p380
+F6.7999999999999998
+sS'I Still Know What You Did Last Summer'
+p381
+F4.5999999999999996
+sS'Pirates of the Caribbean'
+p382
+F8.0999999999999996
+sS'Hesher'
+p383
+F7.0999999999999996
+sS'Frequency'
+p384
+F7.9000000000000004
+sS'Hudsucker Proxy, The'
+p385
+F7.2999999999999998
+sS'Mechanic, The'
+p386
+F6.5999999999999996
+sS'Analyze This'
+p387
+F6.7000000000000002
+sS'Help, The'
+p388
+F8.0999999999999996
+sS'Detroit Rock City'
+p389
+F6.7999999999999998
+sS'Rambling Rose'
+p390
+F6.7000000000000002
+sS'Debt, The'
+p391
+F6.9000000000000004
+sS'Day of the Dead'
+p392
+F7.2000000000000002
+sS'Black Swan'
+p393
+F8
+sS'Philadelphia'
+p394
+F8.8000000000000007
+sS'Austin Powers - International Man of Mystery'
+p395
+F7
+sS'Law Abiding Citizen'
+p396
+F7.4000000000000004
+sS'Assignment, The'
+p397
+F5.4000000000000004
+sS'Last Samurai, The'
+p398
+F7.7000000000000002
+sS'Haunting, The'
+p399
+F7.5999999999999996
+sS'Orgy of the Dead'
+p400
+F2.7000000000000002
+sS'Nurse Betty'
+p401
+F6.2999999999999998
+sS'Annie Hall'
+p402
+F8.0999999999999996
+sS'2001: A Space Odyssey'
+p403
+F8.3000000000000007
+sS'17 Again'
+p404
+F6.4000000000000004
+sS'Strange Days'
+p405
+F7.2000000000000002
+sS'Out of Sigh'
+p406
+F7
+sS'Batman'
+p407
+F7.5999999999999996
+sS'After'
+p408
+F5.4000000000000004
+sS'Predator'
+p409
+F7.7999999999999998
+sS'Absolute Power'
+p410
+F6.7000000000000002
+sS'Verdict, The'
+p411
+F7.7999999999999998
+sS'Air Force One'
+p412
+F6.4000000000000004
+sS'Youth in Revol'
+p413
+F6.5
+sS'They'
+p414
+F4.7999999999999998
+sS"Malibu's Most Wanted"
+p415
+F5.0999999999999996
+sS'Inventing the Abbotts'
+p416
+F6.4000000000000004
+sS'Ticker'
+p417
+F3.5
+sS'Forrest Gump'
+p418
+F8.8000000000000007
+sS"My Mother Dreams the Satan's Disciples in New York"
+p419
+F7.2000000000000002
+sS'Man on the Moon'
+p420
+F7.4000000000000004
+sS'Hebrew Hammer, The'
+p421
+F6.2000000000000002
+sS'New York Minute'
+p422
+F4.7999999999999998
+sS'Valkyrie'
+p423
+F7.0999999999999996
+sS'Frozen'
+p424
+F7.5999999999999996
+sS'Rambo: First Blood II: The Mission'
+p425
+F6.4000000000000004
+sS'Titanic'
+p426
+F7.7000000000000002
+sS'Hellraiser 3: Hell on Earth'
+p427
+F5.4000000000000004
+sS'Peggy Sue Got Married'
+p428
+F6.2999999999999998
+sS'Ginger Snaps'
+p429
+F6.7999999999999998
+sS'Gamer'
+p430
+F5.7999999999999998
+sS'Ides of March, The'
+p431
+F7.0999999999999996
+sS'Colombiana'
+p432
+F6.4000000000000004
+sS'Taking Sides'
+p433
+F7.2000000000000002
+sS'Miracle Worker, The'
+p434
+F8.0999999999999996
+sS'Bottle Rocke'
+p435
+F7.0999999999999996
+sS'Next Friday'
+p436
+F6.0999999999999996
+sS'Semi-Pro'
+p437
+F5.7999999999999998
+sS'Godzilla'
+p438
+F6.5
+sS'Sling Blade'
+p439
+F8
+sS'Pineapple Express'
+p440
+F7
+sS'Time Machine, The'
+p441
+F5.9000000000000004
+sS'Catch Me If You Can'
+p442
+F8
+sS'Star Wars: Revenge of the Sith'
+p443
+F7.5999999999999996
+sS'Kingdom, The'
+p444
+F8.4000000000000004
+sS'Bound'
+p445
+F7.4000000000000004
+sS'Postman, The'
+p446
+F6
+sS'Independence Day'
+p447
+F6.9000000000000004
+sS'Deep Rising'
+p448
+F6
+sS'Edward Scissorhands'
+p449
+F7.9000000000000004
+sS'Election'
+p450
+F7.2999999999999998
+sS'Finding Nemo'
+p451
+F8.1999999999999993
+sS'Limey, The'
+p452
+F7.0999999999999996
+sS'Under Fire'
+p453
+F7.0999999999999996
+sS'Code of Silence'
+p454
+F6
+sS'Armageddon'
+p455
+F6.5999999999999996
+sS'Speed'
+p456
+F7.2000000000000002
+sS'Rebel Without A Cause'
+p457
+F7.7999999999999998
+sS'12 and Holding'
+p458
+F7.5999999999999996
+sS'Jaws 2'
+p459
+F5.7000000000000002
+sS'Platoon'
+p460
+F8.0999999999999996
+sS'Indiana Jones and the Raiders of the Lost Ark'
+p461
+F8.5
+sS'Zerophilia'
+p462
+F6.2999999999999998
+sS'Coraline'
+p463
+F7.7000000000000002
+sS'Matrix Reloaded, The'
+p464
+F7.2000000000000002
+sS'Wild Things: Diamonds in the Rough'
+p465
+F4.5
+sS'Fracture'
+p466
+F7.2000000000000002
+sS'Meet Joe Black'
+p467
+F7.0999999999999996
+sS'Cincinnati Kid, The'
+p468
+F7.2999999999999998
+sS'Hangover, The'
+p469
+F7.7999999999999998
+sS'Drive Angry'
+p470
+F5.5
+sS'Adjustment Bureau, The'
+p471
+F7.0999999999999996
+sS"Henry's Crime"
+p472
+F6
+sS'Wizard of Oz, The'
+p473
+F8.0999999999999996
+sS'Hot Tub Time Machine'
+p474
+F6.4000000000000004
+sS'Dune'
+p475
+F6.5999999999999996
+sS'Dead Poets Society'
+p476
+F8
+sS'Being John Malkovich'
+p477
+F7.7999999999999998
+sS'Traffic'
+p478
+F7.5999999999999996
+sS'Virtuosity'
+p479
+F5.5
+sS'Fatal Instinc'
+p480
+F5.7000000000000002
+sS'Analyze Tha'
+p481
+F5.9000000000000004
+sS'Legend'
+p482
+F7
+sS'Red Plane'
+p483
+F5.7000000000000002
+sS'Darkman'
+p484
+F6.4000000000000004
+sS'Monkeybone'
+p485
+F4.7000000000000002
+sS'Ordinary People'
+p486
+F7.7999999999999998
+sS'Jurassic Park: The Lost World'
+p487
+F6.5
+sS'Alien 3'
+p488
+F6.4000000000000004
+sS'Crow: City of Angels, The'
+p489
+F4.5
+sS'Crow Salvation, The'
+p490
+F5
+sS'Lord of the Rings: The Two Towers'
+p491
+F7.2000000000000002
+sS'Cedar Rapids'
+p492
+F6.2999999999999998
+sS'American History X'
+p493
+F8.5999999999999996
+sS'Gods and Monsters'
+p494
+F7.5
+sS'Grand Hotel'
+p495
+F8.5
+sS'Mr Blandings Builds His Dream House'
+p496
+F7.4000000000000004
+sS'X'
+F7.7000000000000002
+sS'Bravehear'
+p497
+F8.4000000000000004
+sS'Apt Pupil'
+p498
+F6.7000000000000002
+sS'Little Nicky'
+p499
+F5.2999999999999998
+sS'While She Was Ou'
+p500
+F4.7999999999999998
+sS'Catwoman'
+p501
+F3.2999999999999998
+sS'Three Men and a Baby'
+p502
+F5.9000000000000004
+sS'Fletch'
+p503
+F6.9000000000000004
+sS'Wild Wild Wes'
+p504
+F4.7999999999999998
+sS'Lost Highway'
+p505
+F7.5999999999999996
+sS'Flintstones, The'
+p506
+F4.7999999999999998
+sS"Miller's Crossing"
+p507
+F7.9000000000000004
+sS'Bourne Identity, The'
+p508
+F7.9000000000000004
+sS'American Gangster'
+p509
+F7.7999999999999998
+sS'Ronin'
+p510
+F7.2999999999999998
+sS'Man Trouble'
+p511
+F4.5999999999999996
+sS'When a Stranger Calls'
+p512
+F5
+sS'Change-Up, The'
+p513
+F6.4000000000000004
+sS'Scary Movie 2'
+p514
+F5.2000000000000002
+sS'Jane Eyre'
+p515
+F7.4000000000000004
+sS"Hitchhiker's Guide to the Galaxy, The"
+p516
+F6.7999999999999998
+sS'Visitor, The'
+p517
+F7.7000000000000002
+sS'Clueless'
+p518
+F6.7999999999999998
+sS'Rush Hour'
+p519
+F6.9000000000000004
+sS'Aladdin'
+p520
+F8
+sS'Ringu'
+p521
+F7.2999999999999998
+sS'Platinum Blonde'
+p522
+F6.9000000000000004
+sS'Chaos'
+p523
+F6.5
+sS'Departed, The'
+p524
+F8.5
+sS'Avengers, The'
+p525
+F8.0999999999999996
+sS'Spare Me'
+p526
+F6.7999999999999998
+sS'Transformers: The Movie'
+p527
+F7.2999999999999998
+sS'30 Minutes or Less'
+p528
+F6.0999999999999996
+sS'Kramer vs Kramer'
+p529
+F7.7999999999999998
+sS'Alien vs'
+p530
+F8.5
+sS'Pi'
+p531
+F7.5
+sS'Italian Job, The'
+p532
+F7
+sS'Five Easy Pieces'
+p533
+F7.5
+sS'Friday the 13th Part VIII: Jason Takes Manhattan'
+p534
+F4.5
+sS'Double Indemnity'
+p535
+F8.4000000000000004
+sS'Power of One, The'
+p536
+F7.2000000000000002
+sS'Man Who Knew Too Much, The'
+p537
+F6.9000000000000004
+sS'Insomnia'
+p538
+F7.2000000000000002
+sS'Dragonslayer'
+p539
+F6.7000000000000002
+sS'I Am Number Four'
+p540
+F6.0999999999999996
+sS'Lord of Illusions'
+p541
+F6
+sS'Indiana Jones and the Temple of Doom'
+p542
+F7.5999999999999996
+sS'Public Enemies'
+p543
+F7
+sS'Elephant Man, The'
+p544
+F8.1999999999999993
+sS'Saving Private Ryan'
+p545
+F8.5999999999999996
+sS'Legally Blonde'
+p546
+F6.2000000000000002
+sS'Collateral'
+p547
+F7.5999999999999996
+sS'Nightmare on Elm Street, A'
+p548
+F7.5
+sS'Ninth Gate, The'
+p549
+F6.7000000000000002
+sS'Love and Basketball'
+p550
+F7.2000000000000002
+sS"Man Who Wasn't There, The"
+p551
+F7.5999999999999996
+sS'Soldier'
+p552
+F6
+sS'S'
+F6.2999999999999998
+sS'X-Files: Fight the Future, The'
+p553
+F7.0999999999999996
+sS'Mission Impossible'
+p554
+F7.0999999999999996
+sS'Sleepless in Seattle'
+p555
+F6.7999999999999998
+sS"She's Out of My League"
+p556
+F6.4000000000000004
+sS'Vanilla Sky'
+p557
+F6.9000000000000004
+sS'Angel Eyes'
+p558
+F5.5999999999999996
+sS'Meet John Doe'
+p559
+F7.7000000000000002
+sS'Dumb and Dumber'
+p560
+F7.2999999999999998
+sS'Crazylove'
+p561
+F6.2999999999999998
+sS'Natural Born Killers'
+p562
+F7.2999999999999998
+sS'Jaws'
+p563
+F8
+sS'Airplane 2: The Sequel'
+p564
+F6.0999999999999996
+sS'Timber Falls'
+p565
+F5.2999999999999998
+sS'Alien'
+p566
+F8.5
+sS'Cell, The'
+p567
+F4.2999999999999998
+sS'Gladiator'
+p568
+F8.5
+sS'Final Destination 2'
+p569
+F6.2000000000000002
+sS'Stir of Echoes'
+p570
+F7
+sS'Proposal, The'
+p571
+F6.7000000000000002
+sS'Escape From L'
+p572
+F5.7000000000000002
+sS'American Beauty'
+p573
+F8.4000000000000004
+sS'Hellraiser: Hellseeker'
+p574
+F5.0999999999999996
+sS'Wild Bunch, The'
+p575
+F8
+sS'Battle of Shaker Heights, The'
+p576
+F6.0999999999999996
+sS'Groundhog Day'
+p577
+F8.0999999999999996
+sS'Mr'
+p578
+F7.7000000000000002
+sS"He's Just Not That Into You"
+p579
+F6.4000000000000004
+sS'Office Space'
+p580
+F7.7999999999999998
+sS'Erik the Viking'
+p581
+F6.2000000000000002
+sS'Six Degrees of Separation'
+p582
+F6.9000000000000004
+sS'Lord of the Rings: Fellowship of the Ring, The'
+p583
+F8.8000000000000007
+sS'Hea'
+p584
+F7.7000000000000002
+sS'Cobb'
+p585
+F6.5
+sS'Go'
+p586
+F7.2999999999999998
+sS'Brick'
+p587
+F6.4000000000000004
+sS'Body of Evidence'
+p588
+F7.0999999999999996
+sS'El Mariachi'
+p589
+F6.9000000000000004
+sS'Burn After Reading'
+p590
+F7
+sS'Cooler, The'
+p591
+F7
+sS'Girl with the Dragon Tattoo, The'
+p592
+F7.7999999999999998
+sS'Sense and Sensibility'
+p593
+F7.7000000000000002
+sS'Usual Suspects, The'
+p594
+F8.5999999999999996
+sS'Grapes of Wrath, The'
+p595
+F8.0999999999999996
+sS'Get Shorty'
+p596
+F6.9000000000000004
+sS'Drag Me to Hell'
+p597
+F6.5999999999999996
+sS'Dogma'
+p598
+F7.4000000000000004
+sS'Wrestler, The'
+p599
+F7.9000000000000004
+sS'Last Flight, The'
+p600
+F7
+sS'Henry Fool'
+p601
+F7.2999999999999998
+sS'Terminator 2: Judgement Day'
+p602
+F8.5
+sS'Cowboys & Aliens'
+p603
+F6
+sS'Death at a Funeral'
+p604
+F7.4000000000000004
+sS'Losers, The'
+p605
+F6.4000000000000004
+sS'Crank'
+p606
+F7
+sS'Pretty Woman'
+p607
+F6.9000000000000004
+sS'French Connection, The'
+p608
+F7.7999999999999998
+sS'Ghos'
+p609
+F5.4000000000000004
+sS'Anonymous'
+p610
+F6.2000000000000002
+sS'Tristan and Isolde'
+p611
+F6.9000000000000004
+sS'Bad Lieutenan'
+p612
+F7.0999999999999996
+sS'Bourne Ultimatum, The'
+p613
+F8.0999999999999996
+sS'Autumn in New York'
+p614
+F5.5
+sS"This Boy's Life"
+p615
+F7.2999999999999998
+sS'Pianist, The'
+p616
+F8.5
+sS'Blood Simple'
+p617
+F5.7000000000000002
+sS'Serial Mom'
+p618
+F6.7000000000000002
+sS'Man in the Iron Mask'
+p619
+F5.5999999999999996
+sS'12 Monkeys'
+p620
+F7.5999999999999996
+sS'Misery'
+p621
+F7.7999999999999998
+sS'Red Riding Hood'
+p622
+F5.4000000000000004
+sS'Supergirl'
+p623
+F6.5
+sS'Se7en'
+p624
+F8.5999999999999996
+sS'Dark Star'
+p625
+F6.5
+sS'Romeo & Julie'
+p626
+F6.7999999999999998
+sS'Salton Sea, The'
+p627
+F7.2000000000000002
+sS'Beavis and Butt-head Do America'
+p628
+F6.7999999999999998
+sS'Hollow Man'
+p629
+F5.7000000000000002
+sS'Star Wars: Attack of the Clones'
+p630
+F6.7000000000000002
+sS'Grand Theft Parsons'
+p631
+F6.0999999999999996
+sS"All the King's Men"
+p632
+F6.2000000000000002
+sS'Mr Brooks'
+p633
+F7.4000000000000004
+sS'Petulia'
+p634
+F7.2999999999999998
+sS'Silence of the Lambs'
+p635
+F8.5999999999999996
+sS'Mary Poppins'
+p636
+F7.7999999999999998
+sS'Men Who Stare at Goats, The'
+p637
+F6.2000000000000002
+sS'Dry White Season, A'
+p638
+F7
+sS'2012'
+p639
+F5.7999999999999998
+sS'Frozen River'
+p640
+F7.2000000000000002
+sS"It's a Wonderful Life"
+p641
+F8.5999999999999996
+sS'Confidence'
+p642
+F6.7000000000000002
+sS'Juno'
+p643
+F7.5
+sS'Being Human'
+p644
+F7.7999999999999998
+sS'Napoleon Dynamite'
+p645
+F6.9000000000000004
+sS'Swordfish'
+p646
+F6.5
+sS'War of the Worlds'
+p647
+F6.5
+sS'Shivers'
+p648
+F6.5999999999999996
+sS'Man On Fire'
+p649
+F7.7000000000000002
+sS"One Flew Over the Cuckoo's Nes"
+p650
+F8.6999999999999993
+sS'Ninja Assassin'
+p651
+F6.4000000000000004
+sS'Abyss, The'
+p652
+F7.5999999999999996
+sS"Charlie's Angels"
+p653
+F5.5
+sS'Fast Times at Ridgemont High'
+p654
+F7.2000000000000002
+sS'Kiss of the Spider Woman'
+p655
+F7.4000000000000004
+sS'Star Trek: Generations'
+p656
+F6.5999999999999996
+sS'Gandhi'
+p657
+F8.0999999999999996
+sS'Kung Fu Panda'
+p658
+F7.5999999999999996
+sS'Inglourious Basterds'
+p659
+F8.3000000000000007
+sS'Panic Room'
+p660
+F6.7999999999999998
+sS'Kundun'
+p661
+F7
+sS'Pitch Black'
+p662
+F7.0999999999999996
+sS'Program, The'
+p663
+F6.5
+sS'Face Off'
+p664
+F7.2999999999999998
+sS'Event Horizon'
+p665
+F6.7000000000000002
+sS'Nashville'
+p666
+F7.7000000000000002
+sS'I am Sam'
+p667
+F7.5999999999999996
+sS'Megamind'
+p668
+F7.2999999999999998
+sS'Kill Bill Volume 1 & 2'
+p669
+F7.4000000000000004
+sS'Lone Star'
+p670
+F7.5999999999999996
+sS'Bean'
+p671
+F6.4000000000000004
+sS'Enemy of the State'
+p672
+F7.2999999999999998
+sS'Boondock Saints 2: All Saints Day'
+p673
+F6.2999999999999998
+sS"I'll Do Anything"
+p674
+F5.5999999999999996
+sS'9'
+F7.0999999999999996
+sS'Amelia'
+p675
+F8.4000000000000004
+sS"Avventura, L' (The Adventure)"
+p676
+F5.2999999999999998
+sS'Water for Elephants'
+p677
+F6.9000000000000004
+sS'U Turn'
+p678
+F6.7999999999999998
+sS'Ace Ventura: Pet Detective'
+p679
+F6.9000000000000004
+sS'American Graffiti'
+p680
+F7.5
+sS'Bringing Out the Dead'
+p681
+F6.7999999999999998
+sS'Diner'
+p682
+F7.2000000000000002
+sS'Synecdoche, New York'
+p683
+F7.5
+sS'Rushmore'
+p684
+F7.7000000000000002
+sS'Sugar'
+p685
+F7.2000000000000002
+sS'Shampoo'
+p686
+F6.2999999999999998
+sS'Sexual Life'
+p687
+F5.0999999999999996
+sS'Snow Falling On Cedars'
+p688
+F6.7999999999999998
+sS'Basquia'
+p689
+F6.9000000000000004
+sS'Avatar'
+p690
+F7.9000000000000004
+sS'Ed Wood'
+p691
+F7.9000000000000004
+sS'Hellraiser'
+p692
+F7
+sS'How to Train Your Dragon'
+p693
+F8.1999999999999993
+sS'Airplane'
+p694
+F7.7999999999999998
+sS'Defiance'
+p695
+F7
+sS'Cider House Rules, The'
+p696
+F7.4000000000000004
+sS'Tremors'
+p697
+F7.2000000000000002
+sS'Jerry Maguire'
+p698
+F7.2999999999999998
+sS'Sandlot Kids, The'
+p699
+F7.7999999999999998
+sS'House of 1000 Corpses'
+p700
+F6
+sS'Sex and the City'
+p701
+F7
+sS'Into the Wild'
+p702
+F8.1999999999999993
+sS'Blast from the Past, The'
+p703
+F6.5999999999999996
+sS'Minority Repor'
+p704
+F7.7000000000000002
+sS'Butterfly Effect, The'
+p705
+F7.7000000000000002
+sS'Nightbreed'
+p706
+F6.5
+sS'Surfer King, The'
+p707
+F3.8999999999999999
+sS'Evil Dead'
+p708
+F7.5999999999999996
+sS'Relic, The'
+p709
+F5.7000000000000002
+sS'Terminator Salvation'
+p710
+F6.5999999999999996
+sS'Buffy the Vampire Slayer'
+p711
+F8.1999999999999993
+sS'American Splendor'
+p712
+F7.5
+sS'Deception'
+p713
+F7.7999999999999998
+sS'American Outlaws'
+p714
+F6
+sS'Fear and Loathing in Las Vegas'
+p715
+F7.7000000000000002
+sS'Barton Fink'
+p716
+F7.7000000000000002
+sS'Runaway Bride'
+p717
+F5.5
+sS'Battle: Los Angeles'
+p718
+F5.7999999999999998
+sS'Jay and Silent Bob Strike Back'
+p719
+F6.9000000000000004
+sS'Beloved'
+p720
+F5.9000000000000004
+sS'Nightmare Before Christmas, The'
+p721
+F8
+sS'Mr Deeds Goes to Town'
+p722
+F8
+sS'American President, The'
+p723
+F6.7999999999999998
+sS'His Girl Friday'
+p724
+F8
+sS'Someone To Watch Over Me'
+p725
+F6.0999999999999996
+sS'Rocky'
+p726
+F8.0999999999999996
+sS'Star Trek: First Contac'
+p727
+F7.5999999999999996
+sS'In the Bedroom'
+p728
+F7.5
+sS'Evil Dead II: Dead by Dawn'
+p729
+F7.7999999999999998
+sS'Superfights'
+p730
+F5.2999999999999998
+sS'Star Wars: The Empire Strikes Back'
+p731
+F8.8000000000000007
+sS'Speed Racer'
+p732
+F6.0999999999999996
+sS'Quantum Projec'
+p733
+F6
+sS'Chasing Sleep'
+p734
+F6.4000000000000004
+sS'Sunset Blvd'
+p735
+F8.5
+sS'Rachel Getting Married'
+p736
+F6.7000000000000002
+sS'50-50'
+p737
+F5.7999999999999998
+sS'Shifty'
+p738
+F6.5
+sS'Cars 2'
+p739
+F6.2999999999999998
+sS'Ghost and the Darkness, The'
+p740
+F6.7999999999999998
+sS'Shawshank Redemption, The'
+p741
+F9.3000000000000007
+sS'Omega Man'
+p742
+F6.5999999999999996
+sS'Chinatown'
+p743
+F8.1999999999999993
+sS'In the Loop'
+p744
+F7.5
+sS'Pries'
+p745
+F7.7999999999999998
+sS'Thor'
+p746
+F7
+sS'Drop Dead Gorgeous'
+p747
+F6.5
+sS'Bourne Supremacy, The'
+p748
+F7.7999999999999998
+sS'Taxi Driver'
+p749
+F8.3000000000000007
+sS'Book of Eli, The'
+p750
+F6.9000000000000004
+sS'Pet Sematary'
+p751
+F6.5999999999999996
+sS'High Fidelity'
+p752
+F7.5
+sS'Mystery Men'
+p753
+F6
+sS'Basic Instinc'
+p754
+F6.9000000000000004
+sS'Big Lebowski, The'
+p755
+F8.1999999999999993
+sS'You Can Count On Me'
+p756
+F7.7000000000000002
+sS'Barry Lyndon'
+p757
+F8.0999999999999996
+sS'Gangs of New York'
+p758
+F7.5
+sS'Ice Storm, The'
+p759
+F7.5
+sS'Long Kiss Goodnight, The'
+p760
+F6.7000000000000002
+sS'Scott Pilgrim vs the World'
+p761
+F9.5999999999999996
+sS'Major League'
+p762
+F7.2000000000000002
+sS'Bones'
+p763
+F7.9000000000000004
+sS'Clockwork Orange, A'
+p764
+F8.3000000000000007
+sS'Feas'
+p765
+F4.7999999999999998
+sS'Witness'
+p766
+F7.4000000000000004
+sS'8MM'
+p767
+F6.5
+sS'Queen, The'
+p768
+F7.2000000000000002
+sS'Arcade'
+p769
+F5.4000000000000004
+sS'State and Main'
+p770
+F6.7999999999999998
+sS'Four Rooms'
+p771
+F6.7000000000000002
+sS'Capote'
+p772
+F7.4000000000000004
+sS'Assassins'
+p773
+F6.2999999999999998
+sS'Horrible Bosses'
+p774
+F6.9000000000000004
+sS'Margot at the Wedding'
+p775
+F6.0999999999999996
+sS'Fargo'
+p776
+F9
+sS'E'
+F6.7000000000000002
+sS'Moneyball'
+p777
+F7.5999999999999996
+sS'Ed TV'
+p778
+F6.0999999999999996
+sS'Breakdown'
+p779
+F6.9000000000000004
+sS'Light Sleeper'
+p780
+F6.7999999999999998
+sS'Cube'
+p781
+F7.2999999999999998
+sS'RocknRolla'
+p782
+F7.2999999999999998
+sS'Imaginarium of Doctor Parnassus, The'
+p783
+F6.7999999999999998
+sS'Hellraiser: Deader'
+p784
+F4.5999999999999996
+sS'Raging Bull'
+p785
+F8.3000000000000007
+sS'Starship Troopers'
+p786
+F7.2000000000000002
+sS'Stepmom'
+p787
+F6.7000000000000002
+sS'How to Lose Friends & Alienate People'
+p788
+F6.5
+sS'Green Mile, The'
+p789
+F8.5
+sS'Manhunter'
+p790
+F7.2000000000000002
+sS'Fight Club'
+p791
+F8.8000000000000007
+sS'Gremlins 2'
+p792
+F6.2999999999999998
+sS'Deer Hunter, The'
+p793
+F8.1999999999999993
+sS'Chasing Amy'
+p794
+F7.2999999999999998
+sS'Insider, The'
+p795
+F7.9000000000000004
+sS'Freddy vs'
+p796
+F5.7999999999999998
+sS'Horse Whisperer, The'
+p797
+F6.5999999999999996
+sS'Hellbound: Hellraiser II'
+p798
+F6.5
+sS'Batman 2'
+p799
+F7
+sS'Slither'
+p800
+F6.5
+sS'Doors, The'
+p801
+F7.2000000000000002
+sS'Birthday Girl'
+p802
+F6.0999999999999996
+sS'Gone in 60 Seconds'
+p803
+F6.5
+sS'Field of Dreams'
+p804
+F7.5
+sS'White Squall'
+p805
+F6.5999999999999996
+sS"Mini's First Time"
+p806
+F5.9000000000000004
+sS'Crying Game'
+p807
+F7.2999999999999998
+sS"Ocean's Twelve"
+p808
+F6.4000000000000004
+sS'Benny & Joon'
+p809
+F7.2000000000000002
+sS'Day the Earth Stood Still, The'
+p810
+F5.5
+sS'44 Inch Ches'
+p811
+F5.7999999999999998
+sS"Monster's Ball"
+p812
+F7.0999999999999996
+sS'Brothers Bloom, The'
+p813
+F6.9000000000000004
+sS'Alien Nation'
+p814
+F6.2999999999999998
+sS'Rock, The'
+p815
+F4.4000000000000004
+sS'Broadcast News'
+p816
+F7.2000000000000002
+sS'Shadow of the Vampire'
+p817
+F6.9000000000000004
+sS'Tin Cup'
+p818
+F6.2999999999999998
+sS'Jade'
+p819
+F5.0999999999999996
+sS'True Gri'
+p820
+F7.7000000000000002
+sS'Top Gun'
+p821
+F6.9000000000000004
+sS'Entrapmen'
+p822
+F6.2000000000000002
+sS'Hospital, The'
+p823
+F6.7999999999999998
+sS'Kafka'
+p824
+F7
+sS'Hostage'
+p825
+F6.5999999999999996
+sS'Shallow Grave'
+p826
+F7.4000000000000004
+sS'Tropic Thunder'
+p827
+F7
+sS'Scarface'
+p828
+F8.3000000000000007
+sS'All About Eve'
+p829
+F8.3000000000000007
+sS'World is not Enough, The'
+p830
+F6.4000000000000004
+sS'Constantine'
+p831
+F6.9000000000000004
+sS'Producer, The'
+p832
+F7.7000000000000002
+sS'Tomorrow Never Dies'
+p833
+F6.5
+sS'Dawn of the Dead'
+p834
+F7.4000000000000004
+sS'Big Fish'
+p835
+F8
+sS'Tamara Drewe'
+p836
+F6.2000000000000002
+sS'Ne'
+p837
+F7.4000000000000004
+sS'Raising Arizona'
+p838
+F7.4000000000000004
+sS'Star Trek'
+p839
+F8.4000000000000004
+sS'Being There'
+p840
+F8
+sS'Bridesmaids'
+p841
+F6.7999999999999998
+sS'48 Hrs'
+p842
+F6.9000000000000004
+sS"King's Speech, The"
+p843
+F8
+sS"Ferris Bueller's Day Off"
+p844
+F7.7999999999999998
+sS'Equilibrium'
+p845
+F7.5
+sS'Wild At Hear'
+p846
+F7.2000000000000002
+sS'Gattaca'
+p847
+F7.7999999999999998
+sS'Training Day'
+p848
+F7.7000000000000002
+sS'Resident Evil'
+p849
+F6.7000000000000002
+sS'Arthur'
+p850
+F7.4000000000000004
+sS'Die Hard'
+p851
+F8.1999999999999993
+sS'Happy Birthday, Wanda June'
+p852
+F6.0999999999999996
+sS'Grifters, The'
+p853
+F7
+sS'Lord of War'
+p854
+F7.5999999999999996
+sS'Break'
+p855
+F3.2000000000000002
+sS'Ladykillers, The'
+p856
+F6.2000000000000002
+sS'Last Boy Scout, The'
+p857
+F6.9000000000000004
+sS'Cable Guy'
+p858
+F6
+sS'True Lies'
+p859
+F7.2000000000000002
+sS'Game 6'
+p860
+F5.9000000000000004
+sS'Miami Vice'
+p861
+F7.5
+sS'Life of David Gale, The'
+p862
+F7.5
+sS'Wanted'
+p863
+F6.7000000000000002
+sS'Sting, The'
+p864
+F8.3000000000000007
+sS'Copyca'
+p865
+F6.5999999999999996
+sS'Pearl Harbor'
+p866
+F6.0999999999999996
+sS'Three Kings'
+p867
+F7.0999999999999996
+sS'Superbad'
+p868
+F7.5999999999999996
+sS'Extrac'
+p869
+F6.2000000000000002
+sS'I, Robo'
+p870
+F8.6999999999999993
+sS'Truman Show, The'
+p871
+F8.0999999999999996
+sS'Max Payne'
+p872
+F5.4000000000000004
+sS'Bad Boys'
+p873
+F6.7999999999999998
+sS'Leviathan'
+p874
+F7.5999999999999996
+sS'Anastasia'
+p875
+F7.0999999999999996
+sS'Hall Pass'
+p876
+F5.9000000000000004
+sS'Village, The'
+p877
+F6.5
+sS'TRON'
+p878
+F6.7999999999999998
+sS'Vertigo'
+p879
+F8.4000000000000004
+sS'Robocop'
+p880
+F7.5
+sS'Eagle Eye'
+p881
+F6.5999999999999996
+sS'Thing, The'
+p882
+F9
+sS'Malcolm X'
+p883
+F7.7000000000000002
+sS'Hackers'
+p884
+F6.2000000000000002
+sS'Get Carter'
+p885
+F5.0999999999999996
+sS'Apocalypse Now'
+p886
+F8.5
+sS'Fright Nigh'
+p887
+F7.0999999999999996
+sS"Schindler's Lis"
+p888
+F8.9000000000000004
+sS'Godfather Part III, The'
+p889
+F7.5999999999999996
+sS'Hard to Kill'
+p890
+F5.7000000000000002
+sS'Adaptation'
+p891
+F7.7000000000000002
+sS'Majestic, The (The Bijou)'
+p892
+F6.9000000000000004
+sS'Point Break'
+p893
+F5.2999999999999998
+sS'Life As A House'
+p894
+F7.5
+sS'Lock, Stock and Two Smoking Barrels'
+p895
+F8.1999999999999993
+sS'Blow'
+p896
+F7.5999999999999996
+sS"There's Something About Mary"
+p897
+F7.0999999999999996
+sS'Bamboozled'
+p898
+F6.5
+sS'Almost Famous'
+p899
+F7.9000000000000004
+sS'Good Will Hunting'
+p900
+F8.3000000000000007
+sS'Piano, The'
+p901
+F7.5999999999999996
+sS'Robin Hood: Prince of Thieves'
+p902
+F6.9000000000000004
+sS'Searchers, The'
+p903
+F8
+sS'Honeydripper'
+p904
+F6.7999999999999998
+sS'Tall in the Saddle'
+p905
+F7.0999999999999996
+sS'Twins'
+p906
+F6
+sS'Date Nigh'
+p907
+F6.2999999999999998
+sS'Sleepy Hollow'
+p908
+F7.4000000000000004
+sS'Alien: Resurrection'
+p909
+F6.2999999999999998
+sS'Perfect World, A'
+p910
+F7.5
+sS'Three Musketeers, The'
+p911
+F5.7999999999999998
+sS'What About Bob?'
+p912
+F7
+sS'Godfather Part II'
+p913
+F9
+sS'Jurassic Park III'
+p914
+F5.9000000000000004
+sS'Black Snake Moan'
+p915
+F7
+sS'Notting Hill'
+p916
+F7
+sS'Warm Springs'
+p917
+F7.7000000000000002
+sS'Remember Me'
+p918
+F7.2000000000000002
+sS'Phone Booth'
+p919
+F7.0999999999999996
+sS'Save the Last Dance'
+p920
+F6.2000000000000002
+sS'Moonstruck'
+p921
+F7.0999999999999996
+sS'Spartan'
+p922
+F6.5999999999999996
+sS'Whiteou'
+p923
+F5.5
+sS'Courage Under Fire'
+p924
+F6.5999999999999996
+sS'Reader, The'
+p925
+F7.5999999999999996
+sS'Clash of the Titans'
+p926
+F5.7999999999999998
+sS'Awakenings'
+p927
+F7.7999999999999998
+sS'Amadeus'
+p928
+F8.3000000000000007
+sS'Cellular'
+p929
+F6.5
+sS'Bad Day at Black Rock'
+p930
+F7.7999999999999998
+sS'Incredibles, The'
+p931
+F8
+sS'Crime Spree'
+p932
+F6.5999999999999996
+sS'Lost in Space'
+p933
+F5.0999999999999996
+sS'Curious Case of Benjamin Button, The'
+p934
+F7.7999999999999998
+sS'Army of Darkness'
+p935
+F7.5999999999999996
+sS'Casino'
+p936
+F8.1999999999999993
+sS'White Christmas'
+p937
+F7.5999999999999996
+sS'Saint, The'
+p938
+F7.9000000000000004
+sS'Metro'
+p939
+F5.5
+sS'Hanna'
+p940
+F6.7999999999999998
+sS'Twilight: New Moon'
+p941
+F4.5999999999999996
+sS'Land of the Dead'
+p942
+F6.2000000000000002
+sS'Drive'
+p943
+F7.7999999999999998
+sS'Game, The'
+p944
+F9.5
+sS'Tourist, The'
+p945
+F6
+sS'Larry Crowne'
+p946
+F6.0999999999999996
+sS'Planet of the Apes, The'
+p947
+F5.7000000000000002
+sS'Beach, The'
+p948
+F6.5999999999999996
+sS'500 Days of Summer'
+p949
+F7.7000000000000002
+sS'Deep Cover'
+p950
+F6.9000000000000004
+sS'American Shaolin: King of Kickboxers II'
+p951
+F5.7999999999999998
+sS'Duck Soup'
+p952
+F8
+sS'Disturbia'
+p953
+F6.9000000000000004
+sS'Boogie Nights'
+p954
+F7.9000000000000004
+sS'Sugar and Spice'
+p955
+F8.0999999999999996
+sS'Artist, The'
+p956
+F8
+sS'Do The Right Thing'
+p957
+F7.9000000000000004
+sS'Little Mermaid, The'
+p958
+F7.5999999999999996
+sS'Starman'
+p959
+F7
+sS'Good Girl, The'
+p960
+F7.7000000000000002
+sS'Year One'
+p961
+F4.9000000000000004
+sS'Lost in Translation'
+p962
+F7.7999999999999998
+sS'Kate & Leopold'
+p963
+F6.4000000000000004
+sS'Mariachi, El'
+p964
+F6.9000000000000004
+sS'Other Boleyn Girl, The'
+p965
+F6.7000000000000002
+sS'Mimic'
+p966
+F5.9000000000000004
+sS'Buried'
+p967
+F7
+sS'Seventh Seal, The'
+p968
+F8.1999999999999993
+sS'Two For The Money'
+p969
+F6.2000000000000002
+sS'Black Rain'
+p970
+F6.5999999999999996
+ssS'genres'
+p971
+(dp972
+S'Funny People'
+p973
+(lp974
+VComedy
+p975
+aVDrama
+p976
+asS'Road, The'
+p977
+(lp978
+VAdventure
+p979
+aVComedy
+p980
+asS'Limitless'
+p981
+(lp982
+VCrime
+p983
+aVDrama
+p984
+aVSci-Fi
+p985
+aVThriller
+p986
+asS'Yes Man'
+p987
+(lp988
+VComedy
+p989
+aVRomance
+p990
+asS'English Patient, The'
+p991
+(lp992
+VDrama
+p993
+aVRomance
+p994
+aVWar
+p995
+asS'Gremlins'
+p996
+(lp997
+VComedy
+p998
+aVFantasy
+p999
+aVHorror
+p1000
+asS'Lion King, The'
+p1001
+(lp1002
+VAnimation
+p1003
+aVAdventure
+p1004
+aVDrama
+p1005
+aVFamily
+p1006
+aVMusical
+p1007
+asS'Crow, The'
+p1008
+(lp1009
+VAction
+p1010
+aVDrama
+p1011
+aVFantasy
+p1012
+asS'Moon'
+p1013
+(lp1014
+VDrama
+p1015
+aVMystery
+p1016
+aVSci-Fi
+p1017
+asS"Smokin' Aces"
+p1018
+(lp1019
+VAction
+p1020
+aVCrime
+p1021
+aVDrama
+p1022
+aVThriller
+p1023
+asS'Human Nature'
+p1024
+(lp1025
+VComedy
+p1026
+aVDrama
+p1027
+aVMystery
+p1028
+asS'Spider-Man'
+p1029
+(lp1030
+VAction
+p1031
+aVAdventure
+p1032
+asS'Cradle 2 the Grave'
+p1033
+(lp1034
+VAction
+p1035
+aVCrime
+p1036
+aVDrama
+p1037
+aVThriller
+p1038
+asS'Snatch'
+p1039
+(lp1040
+VComedy
+p1041
+aVCrime
+p1042
+asS'Sherlock Holmes'
+p1043
+(lp1044
+VAction
+p1045
+aVAdventure
+p1046
+aVCrime
+p1047
+aVMystery
+p1048
+aVThriller
+p1049
+asS'Mulan'
+p1050
+(lp1051
+VAnimation
+p1052
+aVAdventure
+p1053
+aVFamily
+p1054
+aVFantasy
+p1055
+aVMusical
+p1056
+aVWar
+p1057
+asS'Harold and Kumar Go to White Castle'
+p1058
+(lp1059
+VAdventure
+p1060
+aVComedy
+p1061
+asS'Sideways'
+p1062
+(lp1063
+VComedy
+p1064
+aVDrama
+p1065
+aVRomance
+p1066
+asS'Big White, The'
+p1067
+(lp1068
+VComedy
+p1069
+aVCrime
+p1070
+aVDrama
+p1071
+asS"Cirque du Freak: The Vampire's Assistan"
+p1072
+(lp1073
+VAction
+p1074
+aVAdventure
+p1075
+aVFantasy
+p1076
+aVThriller
+p1077
+asS'Eight Legged Freaks'
+p1078
+(lp1079
+VAction
+p1080
+aVComedy
+p1081
+aVHorror
+p1082
+aVSci-Fi
+p1083
+aVThriller
+p1084
+asS'Citizen Kane'
+p1085
+(lp1086
+VDrama
+p1087
+aVMystery
+p1088
+asS'Spanglish'
+p1089
+(lp1090
+VComedy
+p1091
+aVDrama
+p1092
+aVRomance
+p1093
+asS'Newsies'
+p1094
+(lp1095
+VDrama
+p1096
+aVFamily
+p1097
+aVHistory
+p1098
+aVMusical
+p1099
+asS'Wall-E'
+p1100
+(lp1101
+VAnimation
+p1102
+aVAdventure
+p1103
+aVFamily
+p1104
+aVSci-Fi
+p1105
+asS'Precious'
+p1106
+(lp1107
+VDrama
+p1108
+asS'Crazy, Stupid, Love'
+p1109
+(lp1110
+VComedy
+p1111
+aVDrama
+p1112
+aVRomance
+p1113
+asS'Dances with Wolves'
+p1114
+(lp1115
+VAdventure
+p1116
+aVDrama
+p1117
+aVHistory
+p1118
+aVWestern
+p1119
+asS'Win Win'
+p1120
+(lp1121
+VComedy
+p1122
+aVDrama
+p1123
+aVSport
+p1124
+asS'1492: Conquest of Paradise'
+p1125
+(lp1126
+VAdventure
+p1127
+aVBiography
+p1128
+aVDrama
+p1129
+aVHistory
+p1130
+asS'Twiligh'
+p1131
+(lp1132
+VDrama
+p1133
+aVFantasy
+p1134
+aVRomance
+p1135
+asS'Fair Game'
+p1136
+(lp1137
+VBiography
+p1138
+aVDrama
+p1139
+aVThriller
+p1140
+asS'Cold Mountain'
+p1141
+(lp1142
+VAdventure
+p1143
+aVDrama
+p1144
+aVHistory
+p1145
+aVRomance
+p1146
+aVWar
+p1147
+asS'An Education'
+p1148
+(lp1149
+VDrama
+p1150
+asS'Back to the Future'
+p1151
+(lp1152
+VAdventure
+p1153
+aVComedy
+p1154
+aVSci-Fi
+p1155
+asS'Erin Brockovich'
+p1156
+(lp1157
+VBiography
+p1158
+aVDrama
+p1159
+asS'Blade Runner'
+p1160
+(lp1161
+VSci-Fi
+p1162
+aVThriller
+p1163
+asS'Hannibal'
+p1164
+(lp1165
+VCrime
+p1166
+aVDrama
+p1167
+aVHorror
+p1168
+aVMystery
+p1169
+aVThriller
+p1170
+asS'Prophecy, The'
+p1171
+(lp1172
+VAction
+p1173
+aVFantasy
+p1174
+aVHorror
+p1175
+aVMystery
+p1176
+aVThriller
+p1177
+asS'Men in Black'
+p1178
+(lp1179
+VAdventure
+p1180
+aVComedy
+p1181
+aVFamily
+p1182
+aVMystery
+p1183
+aVSci-Fi
+p1184
+asS'Princess Bride, The'
+p1185
+(lp1186
+VAdventure
+p1187
+aVFamily
+p1188
+aVFantasy
+p1189
+aVRomance
+p1190
+asS'Ghost Ship'
+p1191
+(lp1192
+VHorror
+p1193
+asS'Matrix, The'
+p1194
+(lp1195
+VAction
+p1196
+aVSci-Fi
+p1197
+asS'Mighty Morphin Power Rangers: The Movie'
+p1198
+(lp1199
+VAction
+p1200
+aVAdventure
+p1201
+aVFamily
+p1202
+aVSci-Fi
+p1203
+aVThriller
+p1204
+asS'Family Man, The'
+p1205
+(lp1206
+VComedy
+p1207
+aVDrama
+p1208
+aVFantasy
+p1209
+aVRomance
+p1210
+asS'Austin Powers - The Spy Who Shagged Me'
+p1211
+(lp1212
+VAction
+p1213
+aVAdventure
+p1214
+aVComedy
+p1215
+aVCrime
+p1216
+asS"Ocean's Eleven"
+p1217
+(lp1218
+VCrime
+p1219
+aVThriller
+p1220
+asS'Suspect Zero'
+p1221
+(lp1222
+VCrime
+p1223
+aVDrama
+p1224
+aVMystery
+p1225
+aVThriller
+p1226
+asS'Three Kings (Spoils of War)'
+p1227
+(lp1228
+VAction
+p1229
+aVAdventure
+p1230
+aVComedy
+p1231
+aVDrama
+p1232
+aVHistory
+p1233
+aVWar
+p1234
+asS'Broken Arrow'
+p1235
+(lp1236
+VAction
+p1237
+aVCrime
+p1238
+aVThriller
+p1239
+asS'Paul'
+p1240
+(lp1241
+VAdventure
+p1242
+aVComedy
+p1243
+aVSci-Fi
+p1244
+asS'Angels & Demons'
+p1245
+(lp1246
+VMystery
+p1247
+aVThriller
+p1248
+asS'Midnight Cowboy'
+p1249
+(lp1250
+VDrama
+p1251
+asS'Up in the Air'
+p1252
+(lp1253
+VDrama
+p1254
+aVRomance
+p1255
+asg58
+(lp1256
+S'genres'
+p1257
+asS'Boondock Saints, The'
+p1258
+(lp1259
+VAction
+p1260
+aVCrime
+p1261
+aVThriller
+p1262
+asS'Fabulous Baker Boys, The'
+p1263
+(lp1264
+VDrama
+p1265
+aVMusic
+p1266
+aVRomance
+p1267
+asS'Willow'
+p1268
+(lp1269
+VAction
+p1270
+aVAdventure
+p1271
+aVDrama
+p1272
+aVFantasy
+p1273
+aVRomance
+p1274
+asS'Wag the Dog'
+p1275
+(lp1276
+VComedy
+p1277
+aVDrama
+p1278
+asS'Manchurian Candidate, The'
+p1279
+(lp1280
+VDrama
+p1281
+aVMystery
+p1282
+aVSci-Fi
+p1283
+aVThriller
+p1284
+asS'Never Been Kissed'
+p1285
+(lp1286
+VComedy
+p1287
+aVDrama
+p1288
+aVRomance
+p1289
+asS'Watchmen'
+p1290
+(lp1291
+VAction
+p1292
+aVDrama
+p1293
+aVMystery
+p1294
+aVSci-Fi
+p1295
+asS'Even Cowgirls Get the Blues'
+p1296
+(lp1297
+VComedy
+p1298
+aVDrama
+p1299
+aVRomance
+p1300
+aVWestern
+p1301
+asS'Swingers'
+p1302
+(lp1303
+VComedy
+p1304
+aVDrama
+p1305
+asS'Lake Placid'
+p1306
+(lp1307
+VAction
+p1308
+aVComedy
+p1309
+aVHorror
+p1310
+asS'Total Recall'
+p1311
+(lp1312
+VAction
+p1313
+aVSci-Fi
+p1314
+asS'Pokemon: Mewtwo Returns'
+p1315
+(lp1316
+VAnimation
+p1317
+aVAction
+p1318
+aVAdventure
+p1319
+aVDrama
+p1320
+aVFamily
+p1321
+aVFantasy
+p1322
+aVSci-Fi
+p1323
+asS'Bull Durham'
+p1324
+(lp1325
+VComedy
+p1326
+aVRomance
+p1327
+aVSport
+p1328
+asS'Officer and a Gentleman, An'
+p1329
+(lp1330
+VDrama
+p1331
+aVRomance
+p1332
+asS'Patriot, The'
+p1333
+(lp1334
+VAction
+p1335
+aVDrama
+p1336
+aVHistory
+p1337
+aVWar
+p1338
+asS'Gang Related'
+p1339
+(lp1340
+VAction
+p1341
+aVCrime
+p1342
+aVDrama
+p1343
+aVThriller
+p1344
+asS'8 Mile'
+p1345
+(lp1346
+VDrama
+p1347
+aVMusic
+p1348
+asS'True Romance'
+p1349
+(lp1350
+VCrime
+p1351
+aVDrama
+p1352
+aVRomance
+p1353
+aVThriller
+p1354
+asS'American Psycho'
+p1355
+(lp1356
+VCrime
+p1357
+aVDrama
+p1358
+asS'Grosse Point Blank'
+p1359
+(lp1360
+VAction
+p1361
+aVComedy
+p1362
+aVCrime
+p1363
+aVRomance
+p1364
+aVThriller
+p1365
+asS'Blue Valentine'
+p1366
+(lp1367
+VDrama
+p1368
+aVRomance
+p1369
+asS'Marty'
+p1370
+(lp1371
+VDrama
+p1372
+aVRomance
+p1373
+asS'John Q'
+p1374
+(lp1375
+VCrime
+p1376
+aVDrama
+p1377
+aVThriller
+p1378
+asS'Big Blue, The'
+p1379
+(lp1380
+VAdventure
+p1381
+aVRomance
+p1382
+aVSport
+p1383
+asS'Made'
+p1384
+(lp1385
+VComedy
+p1386
+aVCrime
+p1387
+aVDrama
+p1388
+aVThriller
+p1389
+asS'TMNT'
+p1390
+(lp1391
+VAnimation
+p1392
+aVAction
+p1393
+aVAdventure
+p1394
+aVComedy
+p1395
+aVFamily
+p1396
+aVFantasy
+p1397
+aVSci-Fi
+p1398
+asS'When Harry Met Sally'
+p1399
+(lp1400
+VComedy
+p1401
+aVDrama
+p1402
+aVRomance
+p1403
+asS"Something's Gotta Give"
+p1404
+(lp1405
+VComedy
+p1406
+aVDrama
+p1407
+aVRomance
+p1408
+asS'Up'
+p1409
+(lp1410
+VAnimation
+p1411
+aVAdventure
+p1412
+aVComedy
+p1413
+aVFamily
+p1414
+asS'My Girl'
+p1415
+(lp1416
+VComedy
+p1417
+aVDrama
+p1418
+aVFamily
+p1419
+aVRomance
+p1420
+asS'Insidious'
+p1421
+(lp1422
+VHorror
+p1423
+aVMystery
+p1424
+aVThriller
+p1425
+asS'Trainspotting'
+p1426
+(lp1427
+VDrama
+p1428
+asS'Anniversary Party, The'
+p1429
+(lp1430
+VComedy
+p1431
+aVDrama
+p1432
+aVRomance
+p1433
+asS'X-Men'
+p1434
+(lp1435
+VAction
+p1436
+aVAdventure
+p1437
+aVSci-Fi
+p1438
+asS'Indiana Jones and the Last Crusade'
+p1439
+(lp1440
+VAction
+p1441
+aVAdventure
+p1442
+aVFantasy
+p1443
+asS'Apollo 13'
+p1444
+(lp1445
+VAdventure
+p1446
+aVDrama
+p1447
+aVHistory
+p1448
+asS'Sixth Sense, The'
+p1449
+(lp1450
+VDrama
+p1451
+aVMystery
+p1452
+aVThriller
+p1453
+asS'Station Wes'
+p1454
+(lp1455
+VAction
+p1456
+aVMystery
+p1457
+aVRomance
+p1458
+aVWestern
+p1459
+asS'Tinker Tailor Soldier Spy'
+p1460
+(lp1461
+VDrama
+p1462
+aVMystery
+p1463
+aVThriller
+p1464
+asS'Orphan'
+p1465
+(lp1466
+VHorror
+p1467
+aVMystery
+p1468
+aVThriller
+p1469
+asS'Breakfast Club, The'
+p1470
+(lp1471
+VComedy
+p1472
+aVDrama
+p1473
+asS'Changeling'
+p1474
+(lp1475
+VBiography
+p1476
+aVCrime
+p1477
+aVDrama
+p1478
+aVMystery
+p1479
+aVThriller
+p1480
+asS'Adventures of Buckaroo Banzai Across the Eighth Dimension, The'
+p1481
+(lp1482
+VAdventure
+p1483
+aVComedy
+p1484
+aVRomance
+p1485
+aVSci-Fi
+p1486
+asS'Bachelor Party, The'
+p1487
+(lp1488
+VComedy
+p1489
+asS'Confessions of a Dangerous Mind'
+p1490
+(lp1491
+VBiography
+p1492
+aVComedy
+p1493
+aVCrime
+p1494
+aVDrama
+p1495
+aVRomance
+p1496
+aVThriller
+p1497
+asS'Island, The'
+p1498
+(lp1499
+g1257
+asS'Apartment, The'
+p1500
+(lp1501
+VComedy
+p1502
+aVDrama
+p1503
+aVRomance
+p1504
+asS'Big'
+p1505
+(lp1506
+VComedy
+p1507
+aVDrama
+p1508
+aVFamily
+p1509
+aVFantasy
+p1510
+aVRomance
+p1511
+asS'Queen of the Damned'
+p1512
+(lp1513
+VDrama
+p1514
+aVFantasy
+p1515
+aVHorror
+p1516
+asS'Ninotchka'
+p1517
+(lp1518
+VComedy
+p1519
+aVRomance
+p1520
+asS'White Ribbon, The'
+p1521
+(lp1522
+VDrama
+p1523
+aVMystery
+p1524
+asS'Twin Peaks'
+p1525
+(lp1526
+VCrime
+p1527
+aVDrama
+p1528
+aVMystery
+p1529
+aVThriller
+p1530
+asS'Four Feathers'
+p1531
+(lp1532
+VDrama
+p1533
+asS'Thelma & Louise'
+p1534
+(lp1535
+VAdventure
+p1536
+aVCrime
+p1537
+aVDrama
+p1538
+asS'Bounty Hunter, The'
+p1539
+(lp1540
+VAction
+p1541
+aVComedy
+p1542
+aVRomance
+p1543
+asS'Bad Teacher'
+p1544
+(lp1545
+VComedy
+p1546
+asS'Last Chance Harvey'
+p1547
+(lp1548
+VDrama
+p1549
+aVRomance
+p1550
+asS'Magnolia'
+p1551
+(lp1552
+VDrama
+p1553
+asS'Star Wars: Return of the Jedi'
+p1554
+(lp1555
+VAction
+p1556
+aVAdventure
+p1557
+aVFantasy
+p1558
+aVSci-Fi
+p1559
+asS'Next Three Days, The'
+p1560
+(lp1561
+VCrime
+p1562
+aVDrama
+p1563
+aVRomance
+p1564
+aVThriller
+p1565
+asS'Roughshod'
+p1566
+(lp1567
+VRomance
+p1568
+aVWestern
+p1569
+asS'Basic'
+p1570
+(lp1571
+VAction
+p1572
+aVCrime
+p1573
+aVDrama
+p1574
+aVMystery
+p1575
+aVThriller
+p1576
+asS'It Happened One Nigh'
+p1577
+(lp1578
+VComedy
+p1579
+aVRomance
+p1580
+asS'Believer, The'
+p1581
+(lp1582
+VDrama
+p1583
+asS'Shipping News, The'
+p1584
+(lp1585
+VDrama
+p1586
+asS'Jurassic Park'
+p1587
+(lp1588
+VAdventure
+p1589
+aVSci-Fi
+p1590
+aVThriller
+p1591
+asS'Fighter, The'
+p1592
+(lp1593
+VBiography
+p1594
+aVDrama
+p1595
+aVHistory
+p1596
+aVSport
+p1597
+asS'Sweet Hereafter, The'
+p1598
+(lp1599
+VDrama
+p1600
+asS'Crash'
+p1601
+(lp1602
+VCrime
+p1603
+aVDrama
+p1604
+aVThriller
+p1605
+asS"It's Complicated"
+p1606
+(lp1607
+VComedy
+p1608
+aVDrama
+p1609
+aVRomance
+p1610
+asS'Obsessed'
+p1611
+(lp1612
+VDrama
+p1613
+aVRomance
+p1614
+aVThriller
+p1615
+asS'Labyrinth'
+p1616
+(lp1617
+VAdventure
+p1618
+aVFamily
+p1619
+aVFantasy
+p1620
+aVMusical
+p1621
+aVWestern
+p1622
+asS'Kalifornia'
+p1623
+(lp1624
+VCrime
+p1625
+aVDrama
+p1626
+aVHorror
+p1627
+aVThriller
+p1628
+asS'Last of the Mohicans, The'
+p1629
+(lp1630
+VAction
+p1631
+aVAdventure
+p1632
+aVDrama
+p1633
+aVHistory
+p1634
+aVRomance
+p1635
+aVWar
+p1636
+asS'Conan the Barbarian'
+p1637
+(lp1638
+VAdventure
+p1639
+aVFantasy
+p1640
+asS'Midnight Express'
+p1641
+(lp1642
+VBiography
+p1643
+aVCrime
+p1644
+aVDrama
+p1645
+aVThriller
+p1646
+asg135
+(lp1647
+VAction
+p1648
+aVAdventure
+p1649
+aVFantasy
+p1650
+aVSci-Fi
+p1651
+asS'Ghost World'
+p1652
+(lp1653
+VComedy
+p1654
+aVDrama
+p1655
+asS'Machine Gun Preacher'
+p1656
+(lp1657
+VAction
+p1658
+aVBiography
+p1659
+aVCrime
+p1660
+aVDrama
+p1661
+asS'Rocky Horror Picture Show, The'
+p1662
+(lp1663
+VComedy
+p1664
+aVMusical
+p1665
+asS'Repo Man'
+p1666
+(lp1667
+VComedy
+p1668
+aVCrime
+p1669
+aVSci-Fi
+p1670
+aVThriller
+p1671
+asS'Final Destination'
+p1672
+(lp1673
+VHorror
+p1674
+aVThriller
+p1675
+asS'Scream'
+p1676
+(lp1677
+VCrime
+p1678
+aVDrama
+p1679
+aVHorror
+p1680
+aVMystery
+p1681
+aVThriller
+p1682
+asS'Gran Torino'
+p1683
+(lp1684
+VDrama
+p1685
+asS'Hellboy 2: The Golden Army'
+p1686
+(lp1687
+VAction
+p1688
+aVAdventure
+p1689
+aVFantasy
+p1690
+aVHorror
+p1691
+aVSci-Fi
+p1692
+asS'Punch-Drunk Love'
+p1693
+(lp1694
+VComedy
+p1695
+aVDrama
+p1696
+aVRomance
+p1697
+aVThriller
+p1698
+asS'Blade II'
+p1699
+(lp1700
+VAction
+p1701
+aVHorror
+p1702
+aVSci-Fi
+p1703
+aVThriller
+p1704
+asS'Alone in the Dark'
+p1705
+(lp1706
+VHorror
+p1707
+aVSci-Fi
+p1708
+asS'Glengarry Glen Gross'
+p1709
+(lp1710
+VCrime
+p1711
+aVDrama
+p1712
+aVMystery
+p1713
+asS"Logan's Run"
+p1714
+(lp1715
+VAction
+p1716
+aVAdventure
+p1717
+aVSci-Fi
+p1718
+asS'St'
+p1719
+(lp1720
+VComedy
+p1721
+aVDrama
+p1722
+asS'War Horse'
+p1723
+(lp1724
+VDrama
+p1725
+aVWar
+p1726
+asS'Back to the Future II & III'
+p1727
+(lp1728
+VAdventure
+p1729
+aVComedy
+p1730
+aVSci-Fi
+p1731
+asS'Jason X'
+p1732
+(lp1733
+VAction
+p1734
+aVHorror
+p1735
+aVSci-Fi
+p1736
+aVThriller
+p1737
+asS'Intolerable Cruelty'
+p1738
+(lp1739
+VComedy
+p1740
+aVCrime
+p1741
+aVRomance
+p1742
+asS'Agnes of God'
+p1743
+(lp1744
+VDrama
+p1745
+aVMystery
+p1746
+asS'Hudson Hawk'
+p1747
+(lp1748
+VAction
+p1749
+aVAdventure
+p1750
+aVComedy
+p1751
+asS'Margin Call'
+p1752
+(lp1753
+VBiography
+p1754
+aVDrama
+p1755
+aVHistory
+p1756
+aVThriller
+p1757
+asS'Pacifier, The'
+p1758
+(lp1759
+VAction
+p1760
+aVComedy
+p1761
+aVDrama
+p1762
+aVFamily
+p1763
+aVThriller
+p1764
+asS'Nines, The'
+p1765
+(lp1766
+VComedy
+p1767
+aVCrime
+p1768
+asS'Grudge, The'
+p1769
+(lp1770
+VHorror
+p1771
+aVMystery
+p1772
+aVThriller
+p1773
+asS'Cast Away'
+p1774
+(lp1775
+VAdventure
+p1776
+aVDrama
+p1777
+aVRomance
+p1778
+asS'Mirrors'
+p1779
+(lp1780
+VHorror
+p1781
+aVMystery
+p1782
+asS'Jackie Brown'
+p1783
+(lp1784
+VCrime
+p1785
+aVThriller
+p1786
+asS'Death to Smoochy'
+p1787
+(lp1788
+VComedy
+p1789
+aVCrime
+p1790
+aVDrama
+p1791
+aVThriller
+p1792
+asS'Nick of Time'
+p1793
+(lp1794
+VAction
+p1795
+aVCrime
+p1796
+aVDrama
+p1797
+aVThriller
+p1798
+asS'Jennifer Eigh'
+p1799
+(lp1800
+VComedy
+p1801
+aVHorror
+p1802
+asS'Reindeer Games'
+p1803
+(lp1804
+VAction
+p1805
+aVAdventure
+p1806
+aVCrime
+p1807
+aVDrama
+p1808
+aVFamily
+p1809
+aVFantasy
+p1810
+aVRomance
+p1811
+aVThriller
+p1812
+asS'Shakespeare in Love'
+p1813
+(lp1814
+VComedy
+p1815
+aVDrama
+p1816
+aVRomance
+p1817
+asS'King of Comedy, The'
+p1818
+(lp1819
+VComedy
+p1820
+aVCrime
+p1821
+aVDrama
+p1822
+aVThriller
+p1823
+asS'Tin Men'
+p1824
+(lp1825
+VComedy
+p1826
+aVDrama
+p1827
+asS'Neverending Story, The'
+p1828
+(lp1829
+VAdventure
+p1830
+aVDrama
+p1831
+aVFamily
+p1832
+aVFantasy
+p1833
+asS'My Week with Marilyn'
+p1834
+(lp1835
+VBiography
+p1836
+aVDrama
+p1837
+asS'Sweet Smell of Success'
+p1838
+(lp1839
+VDrama
+p1840
+aVFilm-Noir
+p1841
+asS'Real Genius'
+p1842
+(lp1843
+VComedy
+p1844
+aVRomance
+p1845
+aVSci-Fi
+p1846
+asS'Bruce Almighty'
+p1847
+(lp1848
+VComedy
+p1849
+aVDrama
+p1850
+aVFantasy
+p1851
+asS'Leaving Las Vegas'
+p1852
+(lp1853
+VDrama
+p1854
+aVRomance
+p1855
+asS'Ruins, The'
+p1856
+(lp1857
+VHorror
+p1858
+asS'Cruel Intentions'
+p1859
+(lp1860
+VDrama
+p1861
+aVRomance
+p1862
+asS'Antitrus'
+p1863
+(lp1864
+VAction
+p1865
+aVCrime
+p1866
+aVDrama
+p1867
+aVThriller
+p1868
+asS'Jimmy and Judy'
+p1869
+(lp1870
+VCrime
+p1871
+aVDrama
+p1872
+aVThriller
+p1873
+asS'Ghostbusters 2'
+p1874
+(lp1875
+VAction
+p1876
+aVComedy
+p1877
+aVFantasy
+p1878
+aVSci-Fi
+p1879
+asS'Very Bad Things'
+p1880
+(lp1881
+VComedy
+p1882
+aVCrime
+p1883
+aVThriller
+p1884
+asS'King Kong'
+p1885
+(lp1886
+VAction
+p1887
+aVAdventure
+p1888
+aVDrama
+p1889
+aVRomance
+p1890
+asS'Simone'
+p1891
+(lp1892
+VComedy
+p1893
+aVDrama
+p1894
+aVSci-Fi
+p1895
+asS'Who Framed Roger Rabbit?'
+p1896
+(lp1897
+g1257
+asS'Return of the Apes'
+p1898
+(lp1899
+VAction
+p1900
+aVAdventure
+p1901
+aVSci-Fi
+p1902
+aVThriller
+p1903
+asS'Frances'
+p1904
+(lp1905
+VBiography
+p1906
+aVDrama
+p1907
+aVHistory
+p1908
+aVRomance
+p1909
+asS'Black Dahlia, The'
+p1910
+(lp1911
+VCrime
+p1912
+aVDrama
+p1913
+aVHistory
+p1914
+aVMystery
+p1915
+aVThriller
+p1916
+asS'Talented Mr'
+p1917
+(lp1918
+VCrime
+p1919
+aVDrama
+p1920
+aVThriller
+p1921
+asS'Wall Stree'
+p1922
+(lp1923
+VBiography
+p1924
+aVComedy
+p1925
+aVCrime
+p1926
+aVDrama
+p1927
+asS'Woodsman, The'
+p1928
+(lp1929
+VDrama
+p1930
+aVRomance
+p1931
+asS'From Dusk Till Dawn'
+p1932
+(lp1933
+VAction
+p1934
+aVCrime
+p1935
+aVHorror
+p1936
+asS'To Sleep with Anger'
+p1937
+(lp1938
+VDrama
+p1939
+asS'Pet Sematary II'
+p1940
+(lp1941
+VFantasy
+p1942
+aVHorror
+p1943
+asS'Eternal Sunshine of the Spotless Mind'
+p1944
+(lp1945
+VDrama
+p1946
+aVFantasy
+p1947
+aVRomance
+p1948
+aVSci-Fi
+p1949
+asS'Hancock'
+p1950
+(lp1951
+VAction
+p1952
+aVCrime
+p1953
+aVDrama
+p1954
+aVFantasy
+p1955
+asS'Memento'
+p1956
+(lp1957
+VMystery
+p1958
+aVThriller
+p1959
+asS'Terminator'
+p1960
+(lp1961
+VAction
+p1962
+aVSci-Fi
+p1963
+asS'Wild Things'
+p1964
+(lp1965
+VCrime
+p1966
+aVDrama
+p1967
+aVMystery
+p1968
+aVThriller
+p1969
+asS'Wild Hogs'
+p1970
+(lp1971
+VAction
+p1972
+aVAdventure
+p1973
+aVComedy
+p1974
+asS'Blade'
+p1975
+(lp1976
+VAction
+p1977
+aVHorror
+p1978
+asS'Thunderhear'
+p1979
+(lp1980
+VCrime
+p1981
+aVMystery
+p1982
+aVThriller
+p1983
+asS'Sunshine Cleaning'
+p1984
+(lp1985
+VComedy
+p1986
+aVDrama
+p1987
+asS'After School Special'
+p1988
+(lp1989
+VComedy
+p1990
+asS"You've Got Mail"
+p1991
+(lp1992
+VComedy
+p1993
+aVDrama
+p1994
+aVRomance
+p1995
+asg205
+(lp1996
+VCrime
+p1997
+aVDrama
+p1998
+aVMystery
+p1999
+aVThriller
+p2000
+aVWestern
+p2001
+asS'Mumford'
+p2002
+(lp2003
+VComedy
+p2004
+aVDrama
+p2005
+asS'Tombstone'
+p2006
+(lp2007
+VAction
+p2008
+aVBiography
+p2009
+aVDrama
+p2010
+aVHistory
+p2011
+aVRomance
+p2012
+aVWestern
+p2013
+asS'I Love You Phillip Morris'
+p2014
+(lp2015
+VBiography
+p2016
+aVComedy
+p2017
+aVCrime
+p2018
+aVDrama
+p2019
+aVRomance
+p2020
+asS'Klute'
+p2021
+(lp2022
+VCrime
+p2023
+aVMystery
+p2024
+aVThriller
+p2025
+asS'Star Wars: The Phantom Menace'
+p2026
+(lp2027
+g1257
+asS'Star Wars: A New Hope'
+p2028
+(lp2029
+VAction
+p2030
+aVAdventure
+p2031
+aVFantasy
+p2032
+aVSci-Fi
+p2033
+asS'Shrek'
+p2034
+(lp2035
+VAnimation
+p2036
+aVAdventure
+p2037
+aVComedy
+p2038
+aVFamily
+p2039
+aVFantasy
+p2040
+asS'Godfather'
+p2041
+(lp2042
+VCrime
+p2043
+aVDrama
+p2044
+asS'Shining, The'
+p2045
+(lp2046
+VDrama
+p2047
+aVHorror
+p2048
+asS'Crouching Tiger, Hidden Dragon'
+p2049
+(lp2050
+VAction
+p2051
+aVAdventure
+p2052
+aVFantasy
+p2053
+aVRomance
+p2054
+asS'Fantastic Four'
+p2055
+(lp2056
+VAction
+p2057
+aVAdventure
+p2058
+aVSci-Fi
+p2059
+asS'Solaris'
+p2060
+(lp2061
+VDrama
+p2062
+aVMystery
+p2063
+aVSci-Fi
+p2064
+asS'Storytelling'
+p2065
+(lp2066
+VComedy
+p2067
+aVDrama
+p2068
+aVRomance
+p2069
+asS'Ali'
+p2070
+(lp2071
+VBiography
+p2072
+aVDrama
+p2073
+aVSport
+p2074
+asS'Cliffhanger'
+p2075
+(lp2076
+VAction
+p2077
+aVAdventure
+p2078
+aVThriller
+p2079
+asS'Highlander'
+p2080
+(lp2081
+VAction
+p2082
+aVAdventure
+p2083
+aVFantasy
+p2084
+asS'Little Athens'
+p2085
+(lp2086
+VComedy
+p2087
+aVCrime
+p2088
+aVDrama
+p2089
+aVRomance
+p2090
+asS'Bad Santa'
+p2091
+(lp2092
+VComedy
+p2093
+aVCrime
+p2094
+aVDrama
+p2095
+asS'Sphere'
+p2096
+(lp2097
+VDrama
+p2098
+aVMystery
+p2099
+aVSci-Fi
+p2100
+aVThriller
+p2101
+asS'Mask, The'
+p2102
+(lp2103
+VComedy
+p2104
+aVFantasy
+p2105
+asS'Get Low'
+p2106
+(lp2107
+VDrama
+p2108
+aVMystery
+p2109
+asS'Blues Brothers, The'
+p2110
+(lp2111
+VAction
+p2112
+aVComedy
+p2113
+aVCrime
+p2114
+aVMusic
+p2115
+aVMusical
+p2116
+asS'Signs'
+p2117
+(lp2118
+VDrama
+p2119
+aVMystery
+p2120
+aVSci-Fi
+p2121
+aVThriller
+p2122
+asS'Living in Oblivion'
+p2123
+(lp2124
+VComedy
+p2125
+aVDrama
+p2126
+asS'Fantastic Mr Fo'
+p2127
+(lp2128
+VAnimation
+p2129
+aVAdventure
+p2130
+aVComedy
+p2131
+aVCrime
+p2132
+aVFamily
+p2133
+asS'Arctic Blue'
+p2134
+(lp2135
+VAction
+p2136
+aVThriller
+p2137
+asS'Chronicles of Narnia: The Lion, the Witch and the Wardrobe'
+p2138
+(lp2139
+VAdventure
+p2140
+aVFamily
+p2141
+aVFantasy
+p2142
+asS'JFK'
+p2143
+(lp2144
+VDrama
+p2145
+aVHistory
+p2146
+aVThriller
+p2147
+asS'Devil in a Blue Dress'
+p2148
+(lp2149
+VCrime
+p2150
+aVDrama
+p2151
+aVMystery
+p2152
+aVThriller
+p2153
+asS'Star Trek II: The Wrath of Khan'
+p2154
+(lp2155
+VAction
+p2156
+aVAdventure
+p2157
+aVSci-Fi
+p2158
+asS'Body Hea'
+p2159
+(lp2160
+VCrime
+p2161
+aVDrama
+p2162
+aVRomance
+p2163
+aVThriller
+p2164
+asS'Hotel Rwanda'
+p2165
+(lp2166
+VDrama
+p2167
+aVHistory
+p2168
+aVWar
+p2169
+asS"My Best Friend's Wedding"
+p2170
+(lp2171
+VComedy
+p2172
+aVRomance
+p2173
+asS"Dave Barry's Complete Guide to Guys"
+p2174
+(lp2175
+VComedy
+p2176
+asS'Last Station, The'
+p2177
+(lp2178
+VBiography
+p2179
+aVDrama
+p2180
+aVRomance
+p2181
+asS'At First Sigh'
+p2182
+(lp2183
+VDrama
+p2184
+aVRomance
+p2185
+asS'American Madness'
+p2186
+(lp2187
+VDrama
+p2188
+asS'Broken Embraces'
+p2189
+(lp2190
+VDrama
+p2191
+aVRomance
+p2192
+aVThriller
+p2193
+asS'Hannah and Her Sisters'
+p2194
+(lp2195
+VComedy
+p2196
+aVDrama
+p2197
+asS'Music of the Hear'
+p2198
+(lp2199
+VDrama
+p2200
+aVMusic
+p2201
+asS'Scream 3'
+p2202
+(lp2203
+VHorror
+p2204
+aVMystery
+p2205
+asS'Scream 2'
+p2206
+(lp2207
+VHorror
+p2208
+aVMystery
+p2209
+asS'Beginners'
+p2210
+(lp2211
+VComedy
+p2212
+aVDrama
+p2213
+aVRomance
+p2214
+asS'Bodies, Rest & Motion'
+p2215
+(lp2216
+VDrama
+p2217
+asS'Charade'
+p2218
+(lp2219
+VComedy
+p2220
+aVMystery
+p2221
+aVRomance
+p2222
+aVThriller
+p2223
+asS'Days of Heaven'
+p2224
+(lp2225
+VDrama
+p2226
+aVRomance
+p2227
+asS'South Park'
+p2228
+(lp2229
+VAnimation
+p2230
+aVComedy
+p2231
+asS'Dark City'
+p2232
+(lp2233
+VAction
+p2234
+aVDrama
+p2235
+aVFantasy
+p2236
+aVMystery
+p2237
+aVSci-Fi
+p2238
+aVThriller
+p2239
+asS'City of Joy'
+p2240
+(lp2241
+VDrama
+p2242
+asS'Escape From New York'
+p2243
+(lp2244
+VAction
+p2245
+aVSci-Fi
+p2246
+asS'Kids'
+p2247
+(lp2248
+VDrama
+p2249
+aVRomance
+p2250
+asS'Badlands'
+p2251
+(lp2252
+VAction
+p2253
+aVAdventure
+p2254
+aVDrama
+p2255
+asS'As Good As It Gets'
+p2256
+(lp2257
+VComedy
+p2258
+aVDrama
+p2259
+aVRomance
+p2260
+asS'L'
+(lp2261
+VComedy
+p2262
+aVDrama
+p2263
+asS'Star Trek: Nemesis'
+p2264
+(lp2265
+VAction
+p2266
+aVAdventure
+p2267
+aVSci-Fi
+p2268
+aVThriller
+p2269
+asS'Clerks'
+p2270
+(lp2271
+VComedy
+p2272
+asS'Wind Chill'
+p2273
+(lp2274
+VDrama
+p2275
+aVHorror
+p2276
+aVThriller
+p2277
+asS'Hellboy'
+p2278
+(lp2279
+VAction
+p2280
+aVFantasy
+p2281
+aVHorror
+p2282
+aVSci-Fi
+p2283
+asS'Martha Marcy May Marlene'
+p2284
+(lp2285
+VDrama
+p2286
+aVMystery
+p2287
+aVThriller
+p2288
+asS'Elizabeth: The Golden Age'
+p2289
+(lp2290
+VBiography
+p2291
+aVDrama
+p2292
+aVHistory
+p2293
+aVWar
+p2294
+asS'Revolutionary Road'
+p2295
+(lp2296
+VDrama
+p2297
+aVRomance
+p2298
+asS'Perfect Creature'
+p2299
+(lp2300
+VAction
+p2301
+aVDrama
+p2302
+aVFantasy
+p2303
+aVHorror
+p2304
+aVSci-Fi
+p2305
+asS'Killing Zoe'
+p2306
+(lp2307
+VCrime
+p2308
+aVThriller
+p2309
+asS'Distinguished Gentleman, The'
+p2310
+(lp2311
+VComedy
+p2312
+aVCrime
+p2313
+asS'Birds, The'
+p2314
+(lp2315
+VDrama
+p2316
+aVHorror
+p2317
+aVMystery
+p2318
+asS'Rear Window'
+p2319
+(lp2320
+VMystery
+p2321
+aVThriller
+p2322
+asS'Aliens'
+p2323
+(lp2324
+VAction
+p2325
+aVAdventure
+p2326
+aVSci-Fi
+p2327
+aVThriller
+p2328
+asS"Jacob's Ladder"
+p2329
+(lp2330
+VDrama
+p2331
+aVHorror
+p2332
+aVMystery
+p2333
+asS'Shame'
+p2334
+(lp2335
+VDrama
+p2336
+asS'Pariah'
+p2337
+(lp2338
+VDrama
+p2339
+asS'Hard Rain'
+p2340
+(lp2341
+VAction
+p2342
+aVCrime
+p2343
+aVDrama
+p2344
+aVThriller
+p2345
+asS'Highlander: Endgame'
+p2346
+(lp2347
+VAction
+p2348
+aVAdventure
+p2349
+aVFantasy
+p2350
+aVSci-Fi
+p2351
+asS'Affliction'
+p2352
+(lp2353
+VDrama
+p2354
+aVMystery
+p2355
+aVThriller
+p2356
+asS'Sneakers'
+p2357
+(lp2358
+VComedy
+p2359
+aVCrime
+p2360
+aVDrama
+p2361
+aVMystery
+p2362
+aVThriller
+p2363
+asS'Saw'
+p2364
+(lp2365
+VHorror
+p2366
+aVMystery
+p2367
+aVThriller
+p2368
+asS'Milk'
+p2369
+(lp2370
+VBiography
+p2371
+aVDrama
+p2372
+aVHistory
+p2373
+aVRomance
+p2374
+asS'A Serious Man'
+p2375
+(lp2376
+VComedy
+p2377
+aVDrama
+p2378
+asS'Slumdog Millionaire'
+p2379
+(lp2380
+VDrama
+p2381
+asS'Heavy Metal'
+p2382
+(lp2383
+VAnimation
+p2384
+aVAdventure
+p2385
+aVFantasy
+p2386
+aVHorror
+p2387
+aVSci-Fi
+p2388
+asS'Bachelor Party'
+p2389
+(lp2390
+VComedy
+p2391
+asS'X-Men Origins: Wolverine'
+p2392
+(lp2393
+VAction
+p2394
+aVAdventure
+p2395
+aVSci-Fi
+p2396
+aVThriller
+p2397
+asS'Unknown'
+p2398
+(lp2399
+VAction
+p2400
+aVMystery
+p2401
+aVThriller
+p2402
+asS'Toy Story'
+p2403
+(lp2404
+VAnimation
+p2405
+aVAdventure
+p2406
+aVComedy
+p2407
+aVFamily
+p2408
+aVFantasy
+p2409
+asS'Donnie Brasco'
+p2410
+(lp2411
+VBiography
+p2412
+aVCrime
+p2413
+aVDrama
+p2414
+asS'American Pie'
+p2415
+(lp2416
+VComedy
+p2417
+asS'Withnail and I'
+p2418
+(lp2419
+VComedy
+p2420
+aVDrama
+p2421
+asS'Lord of the Rings: Return of the King'
+p2422
+(lp2423
+VComedy
+p2424
+asS'Lost Horizon'
+p2425
+(lp2426
+VAdventure
+p2427
+aVDrama
+p2428
+aVFantasy
+p2429
+aVMystery
+p2430
+asS'Sister Ac'
+p2431
+(lp2432
+VComedy
+p2433
+aVCrime
+p2434
+aVMusic
+p2435
+asS'Babel'
+p2436
+(lp2437
+VDrama
+p2438
+asS'Backdraf'
+p2439
+(lp2440
+VAction
+p2441
+aVCrime
+p2442
+aVDrama
+p2443
+aVMystery
+p2444
+aVThriller
+p2445
+asS'Marley & Me'
+p2446
+(lp2447
+VComedy
+p2448
+aVDrama
+p2449
+aVFamily
+p2450
+asS'Mission Impossible II'
+p2451
+(lp2452
+VAction
+p2453
+aVAdventure
+p2454
+aVThriller
+p2455
+asS'Heis'
+p2456
+(lp2457
+VDrama
+p2458
+aVRomance
+p2459
+asS'Ghostbusters'
+p2460
+(lp2461
+VAction
+p2462
+aVComedy
+p2463
+aVFantasy
+p2464
+aVSci-Fi
+p2465
+asS'Frankenstein'
+p2466
+(lp2467
+VDrama
+p2468
+aVHorror
+p2469
+aVSci-Fi
+p2470
+aVThriller
+p2471
+asS'Wonder Boys'
+p2472
+(lp2473
+VComedy
+p2474
+aVDrama
+p2475
+asS'Source Code'
+p2476
+(lp2477
+VMystery
+p2478
+aVRomance
+p2479
+aVSci-Fi
+p2480
+aVThriller
+p2481
+asS'Invention of Lying, The'
+p2482
+(lp2483
+VComedy
+p2484
+aVFantasy
+p2485
+aVRomance
+p2486
+asS'G'
+(lp2487
+VDrama
+p2488
+aVRomance
+p2489
+asS'Fugitive, The'
+p2490
+(lp2491
+VAction
+p2492
+aVCrime
+p2493
+aVDrama
+p2494
+aVMystery
+p2495
+aVThriller
+p2496
+asS'Siege, The'
+p2497
+(lp2498
+VAction
+p2499
+aVDrama
+p2500
+aVThriller
+p2501
+aVWar
+p2502
+asS'Iron Lady, The'
+p2503
+(lp2504
+VBiography
+p2505
+aVDrama
+p2506
+asS'Indiana Jones IV'
+p2507
+(lp2508
+g1257
+asS'Rush Hour 2'
+p2509
+(lp2510
+VAction
+p2511
+aVComedy
+p2512
+aVCrime
+p2513
+aVThriller
+p2514
+asS'Thirteen Days'
+p2515
+(lp2516
+VDrama
+p2517
+aVHistory
+p2518
+aVThriller
+p2519
+asS'Heavenly Creatures'
+p2520
+(lp2521
+VBiography
+p2522
+aVCrime
+p2523
+aVDrama
+p2524
+aVThriller
+p2525
+asS'Psycho'
+p2526
+(lp2527
+VHorror
+p2528
+aVMystery
+p2529
+aVThriller
+p2530
+asS'Star Trek: The Motion Picture'
+p2531
+(lp2532
+VAdventure
+p2533
+aVMystery
+p2534
+aVSci-Fi
+p2535
+asS'Bonnie and Clyde'
+p2536
+(lp2537
+VAction
+p2538
+aVBiography
+p2539
+aVCrime
+p2540
+aVDrama
+p2541
+aVHistory
+p2542
+asS'RKO 281'
+p2543
+(lp2544
+VBiography
+p2545
+aVDrama
+p2546
+asS'Unbreakable'
+p2547
+(lp2548
+VDrama
+p2549
+aVMystery
+p2550
+aVSci-Fi
+p2551
+aVThriller
+p2552
+asS'Peeping Tom'
+p2553
+(lp2554
+VDrama
+p2555
+aVHorror
+p2556
+aVThriller
+p2557
+asS'15 Minutes'
+p2558
+(lp2559
+VAction
+p2560
+aVCrime
+p2561
+aVDrama
+p2562
+aVThriller
+p2563
+asS'Halloween: The Curse of Michael Myers'
+p2564
+(lp2565
+VHorror
+p2566
+aVThriller
+p2567
+asS'Mission to Mars'
+p2568
+(lp2569
+VAdventure
+p2570
+aVSci-Fi
+p2571
+aVThriller
+p2572
+asS'Pleasantville'
+p2573
+(lp2574
+VComedy
+p2575
+aVDrama
+p2576
+aVFantasy
+p2577
+asS'Ghost Rider'
+p2578
+(lp2579
+VAction
+p2580
+aVFantasy
+p2581
+aVThriller
+p2582
+asS"Who's Your Daddy"
+p2583
+(lp2584
+VComedy
+p2585
+aVCrime
+p2586
+aVRomance
+p2587
+asS'Walking Tall'
+p2588
+(lp2589
+VAction
+p2590
+aVCrime
+p2591
+asS'Taking Lives'
+p2592
+(lp2593
+VCrime
+p2594
+aVMystery
+p2595
+aVThriller
+p2596
+asS'Interview with the Vampire'
+p2597
+(lp2598
+VDrama
+p2599
+aVHorror
+p2600
+asS'Custody'
+p2601
+(lp2602
+VDrama
+p2603
+asS"Pirates of the Caribbean: Dead Man's Ches"
+p2604
+(lp2605
+VAction
+p2606
+aVAdventure
+p2607
+aVFantasy
+p2608
+asS'Brazil'
+p2609
+(lp2610
+VDrama
+p2611
+aVSci-Fi
+p2612
+asS'Reservoir Dogs'
+p2613
+(lp2614
+VCrime
+p2615
+aVDrama
+p2616
+aVThriller
+p2617
+asS'Blade: Trinity'
+p2618
+(lp2619
+VAction
+p2620
+aVAdventure
+p2621
+aVHorror
+p2622
+aVSci-Fi
+p2623
+aVThriller
+p2624
+asS'Gothika'
+p2625
+(lp2626
+VHorror
+p2627
+aVMystery
+p2628
+aVThriller
+p2629
+asS'Cherry Falls'
+p2630
+(lp2631
+VHorror
+p2632
+aVMystery
+p2633
+aVRomance
+p2634
+aVThriller
+p2635
+asS'25th Hour'
+p2636
+(lp2637
+VDrama
+p2638
+asS'What Lies Beneath'
+p2639
+(lp2640
+VDrama
+p2641
+aVFantasy
+p2642
+aVHorror
+p2643
+aVMystery
+p2644
+aVThriller
+p2645
+asS'Graduate, The'
+p2646
+(lp2647
+VComedy
+p2648
+aVDrama
+p2649
+asS'Burning Annie'
+p2650
+(lp2651
+VComedy
+p2652
+aVDrama
+p2653
+aVRomance
+p2654
+asS"Jennifer's Body"
+p2655
+(lp2656
+VComedy
+p2657
+aVHorror
+p2658
+asS'Observe and Repor'
+p2659
+(lp2660
+VComedy
+p2661
+aVCrime
+p2662
+aVDrama
+p2663
+asS'Purple Rain'
+p2664
+(lp2665
+VDrama
+p2666
+aVMusic
+p2667
+aVMusical
+p2668
+aVRomance
+p2669
+asS'Battle of Algiers, The'
+p2670
+(lp2671
+VDrama
+p2672
+aVHistory
+p2673
+aVWar
+p2674
+asS'Addams Family, The'
+p2675
+(lp2676
+VComedy
+p2677
+aVFantasy
+p2678
+asS'Walk to Remember, A'
+p2679
+(lp2680
+VDrama
+p2681
+aVRomance
+p2682
+asS'Excalibur'
+p2683
+(lp2684
+VAdventure
+p2685
+aVDrama
+p2686
+aVFantasy
+p2687
+aVRomance
+p2688
+asS'So I Married an Axe Murderer'
+p2689
+(lp2690
+VComedy
+p2691
+aVRomance
+p2692
+asS'Replacements, The'
+p2693
+(lp2694
+VComedy
+p2695
+aVSport
+p2696
+asS'Strangers on a Train'
+p2697
+(lp2698
+VCrime
+p2699
+aVFilm-Noir
+p2700
+aVThriller
+p2701
+asS'Jacket, The'
+p2702
+(lp2703
+VDrama
+p2704
+aVMystery
+p2705
+aVSci-Fi
+p2706
+aVThriller
+p2707
+asS"All the President's Men"
+p2708
+(lp2709
+VDrama
+p2710
+aVHistory
+p2711
+aVThriller
+p2712
+asS'V for Vendetta'
+p2713
+(lp2714
+VAction
+p2715
+aVDrama
+p2716
+aVThriller
+p2717
+asS'Burlesque'
+p2718
+(lp2719
+VDrama
+p2720
+aVMusic
+p2721
+aVMusical
+p2722
+aVRomance
+p2723
+asS'Heathers'
+p2724
+(lp2725
+VComedy
+p2726
+aVCrime
+p2727
+aVDrama
+p2728
+aVThriller
+p2729
+asS'Blue Velve'
+p2730
+(lp2731
+VDrama
+p2732
+aVMystery
+p2733
+aVThriller
+p2734
+asS'187'
+p2735
+(lp2736
+VDrama
+p2737
+aVThriller
+p2738
+asS'eXistenZ'
+p2739
+(lp2740
+VAction
+p2741
+aVHorror
+p2742
+aVSci-Fi
+p2743
+aVThriller
+p2744
+asS'Getaway, The'
+p2745
+(lp2746
+VCrime
+p2747
+aVDrama
+p2748
+aVMystery
+p2749
+aVThriller
+p2750
+asS'Stuntman, The'
+p2751
+(lp2752
+VAction
+p2753
+aVComedy
+p2754
+aVDrama
+p2755
+aVRomance
+p2756
+aVThriller
+p2757
+asS'Dog Day Afternoon'
+p2758
+(lp2759
+VCrime
+p2760
+aVDrama
+p2761
+asS'Eastern Promises'
+p2762
+(lp2763
+VCrime
+p2764
+aVMystery
+p2765
+aVThriller
+p2766
+asS'Pulp Fiction'
+p2767
+(lp2768
+VCrime
+p2769
+aVDrama
+p2770
+asS'Rescuers Down Under, The'
+p2771
+(lp2772
+VAnimation
+p2773
+aVAdventure
+p2774
+aVCrime
+p2775
+aVDrama
+p2776
+aVFamily
+p2777
+aVFantasy
+p2778
+aVMystery
+p2779
+asS'127 Hours'
+p2780
+(lp2781
+VAdventure
+p2782
+aVBiography
+p2783
+aVDrama
+p2784
+aVThriller
+p2785
+asS'Cinema Paradiso'
+p2786
+(lp2787
+VDrama
+p2788
+asS'Bodyguard'
+p2789
+(lp2790
+VAction
+p2791
+aVDrama
+p2792
+aVMusic
+p2793
+aVRomance
+p2794
+asS'Silver Bulle'
+p2795
+(lp2796
+VHorror
+p2797
+asS'Warrior'
+p2798
+(lp2799
+VDrama
+p2800
+aVSport
+p2801
+asS'We Own the Nigh'
+p2802
+(lp2803
+VCrime
+p2804
+aVDrama
+p2805
+aVThriller
+p2806
+asS'Collateral Damage'
+p2807
+(lp2808
+VAction
+p2809
+aVDrama
+p2810
+aVThriller
+p2811
+asS'A Few Good Men'
+p2812
+(lp2813
+VDrama
+p2814
+aVThriller
+p2815
+asS'Damned United, The'
+p2816
+(lp2817
+VBiography
+p2818
+aVDrama
+p2819
+aVHistory
+p2820
+aVSport
+p2821
+asS'Mulholland Drive'
+p2822
+(lp2823
+VDrama
+p2824
+aVMystery
+p2825
+aVThriller
+p2826
+asS'Above the Law'
+p2827
+(lp2828
+VAction
+p2829
+aVCrime
+p2830
+aVMystery
+p2831
+aVThriller
+p2832
+asS'Serenity'
+p2833
+(lp2834
+VAction
+p2835
+aVAdventure
+p2836
+aVSci-Fi
+p2837
+aVThriller
+p2838
+asS'Croupier'
+p2839
+(lp2840
+VCrime
+p2841
+aVDrama
+p2842
+asS"Devil's Advocate"
+p2843
+(lp2844
+VDrama
+p2845
+aVMystery
+p2846
+aVThriller
+p2847
+asS'Fifth Element, The'
+p2848
+(lp2849
+VAction
+p2850
+aVAdventure
+p2851
+aVSci-Fi
+p2852
+asS'12'
+p2853
+(lp2854
+VAction
+p2855
+aVCrime
+p2856
+aVDrama
+p2857
+aVThriller
+p2858
+asS'All About Steve'
+p2859
+(lp2860
+VAdventure
+p2861
+aVComedy
+p2862
+aVRomance
+p2863
+asS'Private Life of Sherlock Holmes, The'
+p2864
+(lp2865
+VAdventure
+p2866
+aVComedy
+p2867
+aVCrime
+p2868
+aVMystery
+p2869
+aVRomance
+p2870
+aVThriller
+p2871
+asS'Antz'
+p2872
+(lp2873
+VAnimation
+p2874
+aVAdventure
+p2875
+aVComedy
+p2876
+aVFamily
+p2877
+asS'Liar Liar'
+p2878
+(lp2879
+VComedy
+p2880
+aVFantasy
+p2881
+asS'I Still Know What You Did Last Summer'
+p2882
+(lp2883
+VHorror
+p2884
+aVMystery
+p2885
+asS'Pirates of the Caribbean'
+p2886
+(lp2887
+VAction
+p2888
+aVAdventure
+p2889
+aVFantasy
+p2890
+asS'Hesher'
+p2891
+(lp2892
+VComedy
+p2893
+aVDrama
+p2894
+asS'Frequency'
+p2895
+(lp2896
+VDrama
+p2897
+aVFantasy
+p2898
+aVMystery
+p2899
+aVSci-Fi
+p2900
+aVThriller
+p2901
+asS'Hudsucker Proxy, The'
+p2902
+(lp2903
+VComedy
+p2904
+aVFantasy
+p2905
+asS'Mechanic, The'
+p2906
+(lp2907
+VAction
+p2908
+aVCrime
+p2909
+aVThriller
+p2910
+asS'Analyze This'
+p2911
+(lp2912
+VComedy
+p2913
+aVCrime
+p2914
+asS'Help, The'
+p2915
+(lp2916
+VDrama
+p2917
+asS'Detroit Rock City'
+p2918
+(lp2919
+VComedy
+p2920
+aVMusic
+p2921
+asS'Rambling Rose'
+p2922
+(lp2923
+VDrama
+p2924
+asS'Debt, The'
+p2925
+(lp2926
+VDrama
+p2927
+aVThriller
+p2928
+asS'Day of the Dead'
+p2929
+(lp2930
+VAction
+p2931
+aVDrama
+p2932
+aVHorror
+p2933
+aVThriller
+p2934
+asS'Black Swan'
+p2935
+(lp2936
+VDrama
+p2937
+aVThriller
+p2938
+asS'Philadelphia'
+p2939
+(lp2940
+VComedy
+p2941
+asS'Austin Powers - International Man of Mystery'
+p2942
+(lp2943
+VComedy
+p2944
+aVCrime
+p2945
+asS'Law Abiding Citizen'
+p2946
+(lp2947
+VCrime
+p2948
+aVDrama
+p2949
+aVThriller
+p2950
+asS'Assignment, The'
+p2951
+(lp2952
+VAction
+p2953
+aVThriller
+p2954
+asS'Last Samurai, The'
+p2955
+(lp2956
+VAction
+p2957
+aVDrama
+p2958
+aVHistory
+p2959
+aVWar
+p2960
+asS'Haunting, The'
+p2961
+(lp2962
+VHorror
+p2963
+asS'Orgy of the Dead'
+p2964
+(lp2965
+VFantasy
+p2966
+aVHorror
+p2967
+asS'Nurse Betty'
+p2968
+(lp2969
+VComedy
+p2970
+aVCrime
+p2971
+aVDrama
+p2972
+aVRomance
+p2973
+asS'Annie Hall'
+p2974
+(lp2975
+VComedy
+p2976
+aVRomance
+p2977
+asS'2001: A Space Odyssey'
+p2978
+(lp2979
+VAdventure
+p2980
+aVMystery
+p2981
+aVSci-Fi
+p2982
+asS'17 Again'
+p2983
+(lp2984
+VComedy
+p2985
+aVDrama
+p2986
+aVFamily
+p2987
+aVFantasy
+p2988
+asS'Strange Days'
+p2989
+(lp2990
+VAction
+p2991
+aVCrime
+p2992
+aVDrama
+p2993
+aVSci-Fi
+p2994
+aVThriller
+p2995
+asS'Out of Sigh'
+p2996
+(lp2997
+VCrime
+p2998
+aVDrama
+p2999
+aVRomance
+p3000
+aVThriller
+p3001
+asS'Batman'
+p3002
+(lp3003
+VAction
+p3004
+aVAdventure
+p3005
+asS'After'
+p3006
+(lp3007
+VFantasy
+p3008
+aVHorror
+p3009
+aVMystery
+p3010
+aVThriller
+p3011
+asS'Predator'
+p3012
+(lp3013
+VAction
+p3014
+aVHorror
+p3015
+aVSci-Fi
+p3016
+aVThriller
+p3017
+asS'Absolute Power'
+p3018
+(lp3019
+VAction
+p3020
+aVCrime
+p3021
+aVDrama
+p3022
+aVThriller
+p3023
+asS'Verdict, The'
+p3024
+(lp3025
+VDrama
+p3026
+asg412
+(lp3027
+VAction
+p3028
+aVAdventure
+p3029
+aVDrama
+p3030
+aVRomance
+p3031
+aVThriller
+p3032
+asS'Youth in Revol'
+p3033
+(lp3034
+VComedy
+p3035
+aVDrama
+p3036
+aVRomance
+p3037
+asS'They'
+p3038
+(lp3039
+VHorror
+p3040
+aVMystery
+p3041
+aVThriller
+p3042
+asS"Malibu's Most Wanted"
+p3043
+(lp3044
+VComedy
+p3045
+aVCrime
+p3046
+asS'Inventing the Abbotts'
+p3047
+(lp3048
+VDrama
+p3049
+aVRomance
+p3050
+asS'Ticker'
+p3051
+(lp3052
+VAction
+p3053
+aVCrime
+p3054
+aVThriller
+p3055
+asS'Forrest Gump'
+p3056
+(lp3057
+VComedy
+p3058
+aVDrama
+p3059
+asS"My Mother Dreams the Satan's Disciples in New York"
+p3060
+(lp3061
+VShort
+p3062
+asS'Man on the Moon'
+p3063
+(lp3064
+VBiography
+p3065
+aVComedy
+p3066
+aVDrama
+p3067
+asS'Hebrew Hammer, The'
+p3068
+(lp3069
+VComedy
+p3070
+asS'New York Minute'
+p3071
+(lp3072
+VComedy
+p3073
+aVCrime
+p3074
+aVFamily
+p3075
+aVRomance
+p3076
+asS'Valkyrie'
+p3077
+(lp3078
+VDrama
+p3079
+aVHistory
+p3080
+aVThriller
+p3081
+aVWar
+p3082
+asS'Frozen'
+p3083
+(lp3084
+VAnimation
+p3085
+aVAdventure
+p3086
+aVComedy
+p3087
+aVFamily
+p3088
+aVFantasy
+p3089
+aVMusical
+p3090
+asS'Rambo: First Blood II: The Mission'
+p3091
+(lp3092
+VAction
+p3093
+aVAdventure
+p3094
+aVThriller
+p3095
+aVWar
+p3096
+asS'Titanic'
+p3097
+(lp3098
+VDrama
+p3099
+aVRomance
+p3100
+asS'Hellraiser 3: Hell on Earth'
+p3101
+(lp3102
+VHorror
+p3103
+asS'Peggy Sue Got Married'
+p3104
+(lp3105
+VComedy
+p3106
+aVDrama
+p3107
+aVFantasy
+p3108
+aVRomance
+p3109
+asS'Ginger Snaps'
+p3110
+(lp3111
+VDrama
+p3112
+aVFantasy
+p3113
+aVHorror
+p3114
+asS'Gamer'
+p3115
+(lp3116
+VAction
+p3117
+aVSci-Fi
+p3118
+aVThriller
+p3119
+asS'Ides of March, The'
+p3120
+(lp3121
+VDrama
+p3122
+asS'Colombiana'
+p3123
+(lp3124
+VAction
+p3125
+aVCrime
+p3126
+aVDrama
+p3127
+aVThriller
+p3128
+asS'Taking Sides'
+p3129
+(lp3130
+VDrama
+p3131
+aVMusic
+p3132
+aVWar
+p3133
+asS'Miracle Worker, The'
+p3134
+(lp3135
+VBiography
+p3136
+aVDrama
+p3137
+aVHistory
+p3138
+asS'Bottle Rocke'
+p3139
+(lp3140
+VComedy
+p3141
+aVCrime
+p3142
+aVDrama
+p3143
+asS'Next Friday'
+p3144
+(lp3145
+VComedy
+p3146
+asS'Semi-Pro'
+p3147
+(lp3148
+VComedy
+p3149
+aVSport
+p3150
+asS'Godzilla'
+p3151
+(lp3152
+VAction
+p3153
+aVAdventure
+p3154
+aVSci-Fi
+p3155
+aVThriller
+p3156
+asS'Sling Blade'
+p3157
+(lp3158
+VDrama
+p3159
+asS'Pineapple Express'
+p3160
+(lp3161
+VAction
+p3162
+aVComedy
+p3163
+aVCrime
+p3164
+asS'Time Machine, The'
+p3165
+(lp3166
+VSci-Fi
+p3167
+aVAdventure
+p3168
+aVAction
+p3169
+asS'Catch Me If You Can'
+p3170
+(lp3171
+VBiography
+p3172
+aVCrime
+p3173
+aVDrama
+p3174
+asS'Star Wars: Revenge of the Sith'
+p3175
+(lp3176
+VAction
+p3177
+aVAdventure
+p3178
+aVFantasy
+p3179
+aVSci-Fi
+p3180
+asS'Kingdom, The'
+p3181
+(lp3182
+VDrama
+p3183
+asS'Bound'
+p3184
+(lp3185
+VCrime
+p3186
+aVRomance
+p3187
+aVThriller
+p3188
+asS'Postman, The'
+p3189
+(lp3190
+VAction
+p3191
+aVAdventure
+p3192
+aVDrama
+p3193
+aVSci-Fi
+p3194
+asS'Independence Day'
+p3195
+(lp3196
+VAction
+p3197
+aVAdventure
+p3198
+aVSci-Fi
+p3199
+asS'Deep Rising'
+p3200
+(lp3201
+VAction
+p3202
+aVAdventure
+p3203
+aVHorror
+p3204
+aVSci-Fi
+p3205
+asS'Edward Scissorhands'
+p3206
+(lp3207
+VDrama
+p3208
+aVFantasy
+p3209
+aVRomance
+p3210
+asS'Election'
+p3211
+(lp3212
+VComedy
+p3213
+aVDrama
+p3214
+aVRomance
+p3215
+asS'Finding Nemo'
+p3216
+(lp3217
+VAnimation
+p3218
+aVAdventure
+p3219
+aVComedy
+p3220
+aVFamily
+p3221
+asS'Limey, The'
+p3222
+(lp3223
+VCrime
+p3224
+aVDrama
+p3225
+aVMystery
+p3226
+aVThriller
+p3227
+asS'Under Fire'
+p3228
+(lp3229
+VDrama
+p3230
+aVWar
+p3231
+asS'Code of Silence'
+p3232
+(lp3233
+VAction
+p3234
+aVCrime
+p3235
+aVDrama
+p3236
+aVThriller
+p3237
+asS'Armageddon'
+p3238
+(lp3239
+VAction
+p3240
+aVAdventure
+p3241
+aVSci-Fi
+p3242
+aVThriller
+p3243
+asS'Speed'
+p3244
+(lp3245
+VAction
+p3246
+aVAdventure
+p3247
+aVCrime
+p3248
+aVThriller
+p3249
+asS'Rebel Without A Cause'
+p3250
+(lp3251
+VDrama
+p3252
+asS'12 and Holding'
+p3253
+(lp3254
+VDrama
+p3255
+asS'Jaws 2'
+p3256
+(lp3257
+VAdventure
+p3258
+aVHorror
+p3259
+aVThriller
+p3260
+asS'Platoon'
+p3261
+(lp3262
+VDrama
+p3263
+aVWar
+p3264
+asS'Indiana Jones and the Raiders of the Lost Ark'
+p3265
+(lp3266
+VAction
+p3267
+aVAdventure
+p3268
+asS'Zerophilia'
+p3269
+(lp3270
+VComedy
+p3271
+aVRomance
+p3272
+asS'Coraline'
+p3273
+(lp3274
+VAnimation
+p3275
+aVFamily
+p3276
+aVFantasy
+p3277
+asS'Matrix Reloaded, The'
+p3278
+(lp3279
+VAction
+p3280
+aVSci-Fi
+p3281
+asS'Wild Things: Diamonds in the Rough'
+p3282
+(lp3283
+VCrime
+p3284
+aVDrama
+p3285
+aVMystery
+p3286
+aVThriller
+p3287
+asS'Fracture'
+p3288
+(lp3289
+VCrime
+p3290
+aVDrama
+p3291
+aVMystery
+p3292
+aVThriller
+p3293
+asS'Meet Joe Black'
+p3294
+(lp3295
+VDrama
+p3296
+aVFantasy
+p3297
+aVRomance
+p3298
+asS'Cincinnati Kid, The'
+p3299
+(lp3300
+VDrama
+p3301
+asS'Hangover, The'
+p3302
+(lp3303
+VComedy
+p3304
+asS'Drive Angry'
+p3305
+(lp3306
+VAction
+p3307
+aVFantasy
+p3308
+aVThriller
+p3309
+asS'Adjustment Bureau, The'
+p3310
+(lp3311
+VRomance
+p3312
+aVSci-Fi
+p3313
+aVThriller
+p3314
+asS"Henry's Crime"
+p3315
+(lp3316
+VComedy
+p3317
+aVCrime
+p3318
+aVDrama
+p3319
+aVRomance
+p3320
+asS'Wizard of Oz, The'
+p3321
+(lp3322
+VAdventure
+p3323
+aVFamily
+p3324
+aVFantasy
+p3325
+aVMusical
+p3326
+asS'Hot Tub Time Machine'
+p3327
+(lp3328
+VComedy
+p3329
+aVSci-Fi
+p3330
+asS'Dune'
+p3331
+(lp3332
+VAction
+p3333
+aVAdventure
+p3334
+aVSci-Fi
+p3335
+asS'Dead Poets Society'
+p3336
+(lp3337
+VComedy
+p3338
+aVDrama
+p3339
+asS'Being John Malkovich'
+p3340
+(lp3341
+VComedy
+p3342
+aVDrama
+p3343
+aVFantasy
+p3344
+asS'Traffic'
+p3345
+(lp3346
+VCrime
+p3347
+aVDrama
+p3348
+aVThriller
+p3349
+asS'Virtuosity'
+p3350
+(lp3351
+VAction
+p3352
+aVCrime
+p3353
+aVSci-Fi
+p3354
+aVThriller
+p3355
+asS'Fatal Instinc'
+p3356
+(lp3357
+VComedy
+p3358
+aVCrime
+p3359
+aVThriller
+p3360
+asS'Analyze Tha'
+p3361
+(lp3362
+VComedy
+p3363
+aVCrime
+p3364
+asS'Legend'
+p3365
+(lp3366
+VBiography
+p3367
+aVCrime
+p3368
+aVDrama
+p3369
+aVHistory
+p3370
+aVThriller
+p3371
+asS'Red Plane'
+p3372
+(lp3373
+VAction
+p3374
+aVSci-Fi
+p3375
+aVThriller
+p3376
+asS'Darkman'
+p3377
+(lp3378
+VAction
+p3379
+aVCrime
+p3380
+aVFantasy
+p3381
+aVSci-Fi
+p3382
+aVThriller
+p3383
+asS'Monkeybone'
+p3384
+(lp3385
+VAnimation
+p3386
+aVComedy
+p3387
+aVFantasy
+p3388
+asS'Ordinary People'
+p3389
+(lp3390
+VDrama
+p3391
+asS'Jurassic Park: The Lost World'
+p3392
+(lp3393
+VAction
+p3394
+aVAdventure
+p3395
+aVSci-Fi
+p3396
+asS'Alien 3'
+p3397
+(lp3398
+VAction
+p3399
+aVHorror
+p3400
+aVSci-Fi
+p3401
+asS'Crow: City of Angels, The'
+p3402
+(lp3403
+VAction
+p3404
+aVFantasy
+p3405
+aVThriller
+p3406
+aVCrime
+p3407
+asS'Crow Salvation, The'
+p3408
+(lp3409
+VAction
+p3410
+aVCrime
+p3411
+aVFantasy
+p3412
+aVMystery
+p3413
+aVThriller
+p3414
+asS'Lord of the Rings: The Two Towers'
+p3415
+(lp3416
+VAdventure
+p3417
+aVFantasy
+p3418
+asS'Cedar Rapids'
+p3419
+(lp3420
+VComedy
+p3421
+asS'American History X'
+p3422
+(lp3423
+VCrime
+p3424
+aVDrama
+p3425
+asS'Gods and Monsters'
+p3426
+(lp3427
+VBiography
+p3428
+aVDrama
+p3429
+asS'Grand Hotel'
+p3430
+(lp3431
+VCrime
+p3432
+aVDrama
+p3433
+aVMystery
+p3434
+asS'Mr Blandings Builds His Dream House'
+p3435
+(lp3436
+VComedy
+p3437
+aVRomance
+p3438
+asS'X'
+(lp3439
+VBiography
+p3440
+aVDrama
+p3441
+aVHistory
+p3442
+aVRomance
+p3443
+asS'Bravehear'
+p3444
+(lp3445
+VBiography
+p3446
+aVDrama
+p3447
+aVHistory
+p3448
+aVWar
+p3449
+asS'Apt Pupil'
+p3450
+(lp3451
+VCrime
+p3452
+aVDrama
+p3453
+aVThriller
+p3454
+asS'Little Nicky'
+p3455
+(lp3456
+VComedy
+p3457
+aVFantasy
+p3458
+asS'While She Was Ou'
+p3459
+(lp3460
+VCrime
+p3461
+aVDrama
+p3462
+aVThriller
+p3463
+asS'Catwoman'
+p3464
+(lp3465
+VAction
+p3466
+aVCrime
+p3467
+aVFantasy
+p3468
+aVThriller
+p3469
+asS'Three Men and a Baby'
+p3470
+(lp3471
+VComedy
+p3472
+aVDrama
+p3473
+aVFamily
+p3474
+asS'Fletch'
+p3475
+(lp3476
+VComedy
+p3477
+aVCrime
+p3478
+aVMystery
+p3479
+asS'Wild Wild Wes'
+p3480
+(lp3481
+VAction
+p3482
+aVComedy
+p3483
+aVSci-Fi
+p3484
+aVWestern
+p3485
+asS'Lost Highway'
+p3486
+(lp3487
+VMystery
+p3488
+aVThriller
+p3489
+asS'Flintstones, The'
+p3490
+(lp3491
+VComedy
+p3492
+aVFamily
+p3493
+aVFantasy
+p3494
+asS"Miller's Crossing"
+p3495
+(lp3496
+VCrime
+p3497
+aVDrama
+p3498
+aVThriller
+p3499
+asS'Bourne Identity, The'
+p3500
+(lp3501
+VAction
+p3502
+aVMystery
+p3503
+aVThriller
+p3504
+asS'American Gangster'
+p3505
+(lp3506
+VBiography
+p3507
+aVCrime
+p3508
+aVDrama
+p3509
+aVHistory
+p3510
+asS'Ronin'
+p3511
+(lp3512
+VAction
+p3513
+aVAdventure
+p3514
+aVCrime
+p3515
+aVThriller
+p3516
+asS'Man Trouble'
+p3517
+(lp3518
+VComedy
+p3519
+aVRomance
+p3520
+asS'When a Stranger Calls'
+p3521
+(lp3522
+VHorror
+p3523
+aVThriller
+p3524
+asS'Change-Up, The'
+p3525
+(lp3526
+VComedy
+p3527
+aVFantasy
+p3528
+asS'Scary Movie 2'
+p3529
+(lp3530
+VComedy
+p3531
+asS'Jane Eyre'
+p3532
+(lp3533
+VDrama
+p3534
+aVRomance
+p3535
+asS"Hitchhiker's Guide to the Galaxy, The"
+p3536
+(lp3537
+VAdventure
+p3538
+aVComedy
+p3539
+aVSci-Fi
+p3540
+asS'Visitor, The'
+p3541
+(lp3542
+VDrama
+p3543
+asS'Clueless'
+p3544
+(lp3545
+VComedy
+p3546
+aVRomance
+p3547
+asS'Rush Hour'
+p3548
+(lp3549
+VAction
+p3550
+aVComedy
+p3551
+aVCrime
+p3552
+aVThriller
+p3553
+asS'Aladdin'
+p3554
+(lp3555
+VAnimation
+p3556
+aVAdventure
+p3557
+aVComedy
+p3558
+aVFamily
+p3559
+aVFantasy
+p3560
+aVMusical
+p3561
+aVRomance
+p3562
+asS'Ringu'
+p3563
+(lp3564
+VHorror
+p3565
+aVMystery
+p3566
+aVSci-Fi
+p3567
+asS'Platinum Blonde'
+p3568
+(lp3569
+VComedy
+p3570
+aVRomance
+p3571
+asS'Chaos'
+p3572
+(lp3573
+VAction
+p3574
+aVCrime
+p3575
+aVDrama
+p3576
+aVThriller
+p3577
+asS'Departed, The'
+p3578
+(lp3579
+VCrime
+p3580
+aVDrama
+p3581
+aVThriller
+p3582
+asS'Avengers, The'
+p3583
+(lp3584
+VAction
+p3585
+aVSci-Fi
+p3586
+aVThriller
+p3587
+asS'Spare Me'
+p3588
+(lp3589
+VThriller
+p3590
+asS'Transformers: The Movie'
+p3591
+(lp3592
+VAnimation
+p3593
+aVAction
+p3594
+aVAdventure
+p3595
+aVFamily
+p3596
+aVSci-Fi
+p3597
+asS'30 Minutes or Less'
+p3598
+(lp3599
+VAction
+p3600
+aVComedy
+p3601
+aVCrime
+p3602
+asS'Kramer vs Kramer'
+p3603
+(lp3604
+VDrama
+p3605
+asS'Alien vs'
+p3606
+(lp3607
+VHorror
+p3608
+aVSci-Fi
+p3609
+asS'Pi'
+p3610
+(lp3611
+VDrama
+p3612
+aVMystery
+p3613
+aVSci-Fi
+p3614
+aVThriller
+p3615
+asS'Italian Job, The'
+p3616
+(lp3617
+VAction
+p3618
+aVCrime
+p3619
+aVThriller
+p3620
+asS'Five Easy Pieces'
+p3621
+(lp3622
+VDrama
+p3623
+asS'Friday the 13th Part VIII: Jason Takes Manhattan'
+p3624
+(lp3625
+VAdventure
+p3626
+aVHorror
+p3627
+asS'Double Indemnity'
+p3628
+(lp3629
+VCrime
+p3630
+aVDrama
+p3631
+aVFilm-Noir
+p3632
+aVMystery
+p3633
+aVThriller
+p3634
+asS'Power of One, The'
+p3635
+(lp3636
+VDrama
+p3637
+asS'Man Who Knew Too Much, The'
+p3638
+(lp3639
+VCrime
+p3640
+aVFilm-Noir
+p3641
+aVMystery
+p3642
+aVThriller
+p3643
+asS'Insomnia'
+p3644
+(lp3645
+VDrama
+p3646
+aVMystery
+p3647
+aVThriller
+p3648
+asS'Dragonslayer'
+p3649
+(lp3650
+VAction
+p3651
+aVAdventure
+p3652
+aVFantasy
+p3653
+asS'I Am Number Four'
+p3654
+(lp3655
+VAction
+p3656
+aVAdventure
+p3657
+aVSci-Fi
+p3658
+aVThriller
+p3659
+asS'Lord of Illusions'
+p3660
+(lp3661
+VHorror
+p3662
+aVMystery
+p3663
+aVThriller
+p3664
+asS'Indiana Jones and the Temple of Doom'
+p3665
+(lp3666
+VAction
+p3667
+aVAdventure
+p3668
+asS'Public Enemies'
+p3669
+(lp3670
+VBiography
+p3671
+aVCrime
+p3672
+aVDrama
+p3673
+aVHistory
+p3674
+aVRomance
+p3675
+asS'Elephant Man, The'
+p3676
+(lp3677
+VBiography
+p3678
+aVDrama
+p3679
+asS'Saving Private Ryan'
+p3680
+(lp3681
+VAction
+p3682
+aVDrama
+p3683
+aVWar
+p3684
+asS'Legally Blonde'
+p3685
+(lp3686
+VComedy
+p3687
+aVRomance
+p3688
+asS'Collateral'
+p3689
+(lp3690
+VCrime
+p3691
+aVDrama
+p3692
+aVThriller
+p3693
+asS'Nightmare on Elm Street, A'
+p3694
+(lp3695
+VHorror
+p3696
+asS'Ninth Gate, The'
+p3697
+(lp3698
+VMystery
+p3699
+aVThriller
+p3700
+asS'Love and Basketball'
+p3701
+(lp3702
+VDrama
+p3703
+aVRomance
+p3704
+aVSport
+p3705
+asS"Man Who Wasn't There, The"
+p3706
+(lp3707
+VCrime
+p3708
+aVDrama
+p3709
+asS'Soldier'
+p3710
+(lp3711
+VAction
+p3712
+aVDrama
+p3713
+aVSci-Fi
+p3714
+asS'S'
+(lp3715
+VHorror
+p3716
+aVSci-Fi
+p3717
+asS'X-Files: Fight the Future, The'
+p3718
+(lp3719
+VDocumentary
+p3720
+aVSci-Fi
+p3721
+aVShort
+p3722
+asS'Mission Impossible'
+p3723
+(lp3724
+VAction
+p3725
+aVAdventure
+p3726
+aVThriller
+p3727
+asS'Sleepless in Seattle'
+p3728
+(lp3729
+VComedy
+p3730
+aVDrama
+p3731
+aVRomance
+p3732
+asS"She's Out of My League"
+p3733
+(lp3734
+VComedy
+p3735
+aVRomance
+p3736
+asS'Vanilla Sky'
+p3737
+(lp3738
+VFantasy
+p3739
+aVMystery
+p3740
+aVRomance
+p3741
+aVSci-Fi
+p3742
+aVThriller
+p3743
+asS'Angel Eyes'
+p3744
+(lp3745
+VDrama
+p3746
+aVRomance
+p3747
+asS'Meet John Doe'
+p3748
+(lp3749
+VComedy
+p3750
+aVDrama
+p3751
+aVRomance
+p3752
+asS'Dumb and Dumber'
+p3753
+(lp3754
+VComedy
+p3755
+asS'Crazylove'
+p3756
+(lp3757
+VComedy
+p3758
+aVDrama
+p3759
+aVRomance
+p3760
+asS'Natural Born Killers'
+p3761
+(lp3762
+VCrime
+p3763
+aVDrama
+p3764
+asS'Jaws'
+p3765
+(lp3766
+VAdventure
+p3767
+aVDrama
+p3768
+aVThriller
+p3769
+asS'Airplane 2: The Sequel'
+p3770
+(lp3771
+VComedy
+p3772
+aVSci-Fi
+p3773
+asS'Timber Falls'
+p3774
+(lp3775
+VHorror
+p3776
+aVThriller
+p3777
+asS'Alien'
+p3778
+(lp3779
+VHorror
+p3780
+aVSci-Fi
+p3781
+asS'Cell, The'
+p3782
+(lp3783
+VHorror
+p3784
+aVSci-Fi
+p3785
+aVThriller
+p3786
+asS'Gladiator'
+p3787
+(lp3788
+VAction
+p3789
+aVAdventure
+p3790
+aVDrama
+p3791
+asS'Final Destination 2'
+p3792
+(lp3793
+VHorror
+p3794
+aVThriller
+p3795
+asS'Stir of Echoes'
+p3796
+(lp3797
+VHorror
+p3798
+aVMystery
+p3799
+aVThriller
+p3800
+asS'Proposal, The'
+p3801
+(lp3802
+VComedy
+p3803
+aVDrama
+p3804
+aVRomance
+p3805
+asS'Escape From L'
+p3806
+(lp3807
+VAction
+p3808
+aVAdventure
+p3809
+aVSci-Fi
+p3810
+aVThriller
+p3811
+asS'American Beauty'
+p3812
+(lp3813
+VDrama
+p3814
+aVRomance
+p3815
+asS'Hellraiser: Hellseeker'
+p3816
+(lp3817
+VHorror
+p3818
+aVMystery
+p3819
+aVThriller
+p3820
+asS'Wild Bunch, The'
+p3821
+(lp3822
+VAction
+p3823
+aVAdventure
+p3824
+aVWestern
+p3825
+asS'Battle of Shaker Heights, The'
+p3826
+(lp3827
+VDrama
+p3828
+aVRomance
+p3829
+aVComedy
+p3830
+asS'Groundhog Day'
+p3831
+(lp3832
+VComedy
+p3833
+aVFantasy
+p3834
+aVRomance
+p3835
+asg578
+(lp3836
+VAction
+p3837
+aVCrime
+p3838
+aVDrama
+p3839
+aVThriller
+p3840
+asS"He's Just Not That Into You"
+p3841
+(lp3842
+VComedy
+p3843
+aVDrama
+p3844
+aVRomance
+p3845
+asS'Office Space'
+p3846
+(lp3847
+VComedy
+p3848
+asS'Erik the Viking'
+p3849
+(lp3850
+VComedy
+p3851
+aVAdventure
+p3852
+aVFantasy
+p3853
+asS'Six Degrees of Separation'
+p3854
+(lp3855
+VComedy
+p3856
+aVDrama
+p3857
+aVMystery
+p3858
+asS'Lord of the Rings: Fellowship of the Ring, The'
+p3859
+(lp3860
+VAdventure
+p3861
+aVDrama
+p3862
+aVFantasy
+p3863
+asS'Hea'
+p3864
+(lp3865
+VAction
+p3866
+aVCrime
+p3867
+aVDrama
+p3868
+aVThriller
+p3869
+asS'Cobb'
+p3870
+(lp3871
+VBiography
+p3872
+aVDrama
+p3873
+aVSport
+p3874
+asS'Go'
+p3875
+(lp3876
+VComedy
+p3877
+aVCrime
+p3878
+asS'Brick'
+p3879
+(lp3880
+VAdventure
+p3881
+aVFamily
+p3882
+aVFantasy
+p3883
+asS'Body of Evidence'
+p3884
+(lp3885
+VCrime
+p3886
+aVDrama
+p3887
+asS'El Mariachi'
+p3888
+(lp3889
+VAction
+p3890
+aVThriller
+p3891
+asS'Burn After Reading'
+p3892
+(lp3893
+VComedy
+p3894
+aVDrama
+p3895
+asS'Cooler, The'
+p3896
+(lp3897
+VCrime
+p3898
+aVDrama
+p3899
+aVFantasy
+p3900
+aVRomance
+p3901
+asS'Girl with the Dragon Tattoo, The'
+p3902
+(lp3903
+VCrime
+p3904
+aVDrama
+p3905
+aVMystery
+p3906
+aVThriller
+p3907
+asS'Sense and Sensibility'
+p3908
+(lp3909
+VDrama
+p3910
+aVRomance
+p3911
+asS'Usual Suspects, The'
+p3912
+(lp3913
+VCrime
+p3914
+aVDrama
+p3915
+aVMystery
+p3916
+aVThriller
+p3917
+asS'Grapes of Wrath, The'
+p3918
+(lp3919
+VDrama
+p3920
+aVHistory
+p3921
+asS'Get Shorty'
+p3922
+(lp3923
+VComedy
+p3924
+aVCrime
+p3925
+aVThriller
+p3926
+asS'Drag Me to Hell'
+p3927
+(lp3928
+VComedy
+p3929
+aVHorror
+p3930
+aVThriller
+p3931
+asS'Dogma'
+p3932
+(lp3933
+VAdventure
+p3934
+aVComedy
+p3935
+aVDrama
+p3936
+aVFantasy
+p3937
+asS'Wrestler, The'
+p3938
+(lp3939
+VDrama
+p3940
+aVSport
+p3941
+asS'Last Flight, The'
+p3942
+(lp3943
+VAction
+p3944
+aVHistory
+p3945
+asS'Henry Fool'
+p3946
+(lp3947
+VComedy
+p3948
+aVDrama
+p3949
+asg602
+(lp3950
+g1257
+asS'Cowboys & Aliens'
+p3951
+(lp3952
+VAction
+p3953
+aVSci-Fi
+p3954
+aVThriller
+p3955
+aVWestern
+p3956
+asS'Death at a Funeral'
+p3957
+(lp3958
+VComedy
+p3959
+asS'Losers, The'
+p3960
+(lp3961
+VAction
+p3962
+aVCrime
+p3963
+aVDrama
+p3964
+aVMystery
+p3965
+aVThriller
+p3966
+asS'Crank'
+p3967
+(lp3968
+VAction
+p3969
+aVCrime
+p3970
+aVThriller
+p3971
+asS'Pretty Woman'
+p3972
+(lp3973
+VComedy
+p3974
+aVRomance
+p3975
+asS'French Connection, The'
+p3976
+(lp3977
+VAction
+p3978
+aVCrime
+p3979
+aVDrama
+p3980
+aVThriller
+p3981
+asS'Ghos'
+p3982
+(lp3983
+VAction
+p3984
+aVComedy
+p3985
+aVFantasy
+p3986
+aVSci-Fi
+p3987
+asS'Anonymous'
+p3988
+(lp3989
+VCrime
+p3990
+aVDrama
+p3991
+aVThriller
+p3992
+asS'Tristan and Isolde'
+p3993
+(lp3994
+VDrama
+p3995
+aVHistory
+p3996
+aVRomance
+p3997
+asS'Bad Lieutenan'
+p3998
+(lp3999
+VCrime
+p4000
+aVDrama
+p4001
+aVThriller
+p4002
+asS'Bourne Ultimatum, The'
+p4003
+(lp4004
+VAction
+p4005
+aVMystery
+p4006
+aVThriller
+p4007
+asS'Autumn in New York'
+p4008
+(lp4009
+VDrama
+p4010
+aVRomance
+p4011
+asS"This Boy's Life"
+p4012
+(lp4013
+VBiography
+p4014
+aVDrama
+p4015
+asS'Pianist, The'
+p4016
+(lp4017
+VBiography
+p4018
+aVDrama
+p4019
+aVHistory
+p4020
+aVWar
+p4021
+asS'Blood Simple'
+p4022
+(lp4023
+VComedy
+p4024
+aVDrama
+p4025
+asS'Serial Mom'
+p4026
+(lp4027
+VComedy
+p4028
+aVCrime
+p4029
+aVThriller
+p4030
+asS'Man in the Iron Mask'
+p4031
+(lp4032
+VComedy
+p4033
+asS'12 Monkeys'
+p4034
+(lp4035
+VAdventure
+p4036
+aVDrama
+p4037
+aVMystery
+p4038
+aVSci-Fi
+p4039
+aVThriller
+p4040
+asS'Misery'
+p4041
+(lp4042
+VCrime
+p4043
+aVDrama
+p4044
+aVThriller
+p4045
+asS'Red Riding Hood'
+p4046
+(lp4047
+VFantasy
+p4048
+aVHorror
+p4049
+aVMystery
+p4050
+aVThriller
+p4051
+asS'Supergirl'
+p4052
+(lp4053
+VAction
+p4054
+aVAdventure
+p4055
+aVDrama
+p4056
+aVSci-Fi
+p4057
+asS'Se7en'
+p4058
+(lp4059
+VCrime
+p4060
+aVDrama
+p4061
+aVMystery
+p4062
+aVThriller
+p4063
+asS'Dark Star'
+p4064
+(lp4065
+VComedy
+p4066
+aVSci-Fi
+p4067
+asS'Romeo & Julie'
+p4068
+(lp4069
+VDrama
+p4070
+aVRomance
+p4071
+asS'Salton Sea, The'
+p4072
+(lp4073
+VCrime
+p4074
+aVDrama
+p4075
+aVMystery
+p4076
+aVThriller
+p4077
+asS'Beavis and Butt-head Do America'
+p4078
+(lp4079
+VAnimation
+p4080
+aVAdventure
+p4081
+aVComedy
+p4082
+aVCrime
+p4083
+aVMusic
+p4084
+asS'Hollow Man'
+p4085
+(lp4086
+VAction
+p4087
+aVHorror
+p4088
+aVSci-Fi
+p4089
+aVThriller
+p4090
+asS'Star Wars: Attack of the Clones'
+p4091
+(lp4092
+g1257
+asS'Grand Theft Parsons'
+p4093
+(lp4094
+VAdventure
+p4095
+aVComedy
+p4096
+aVDrama
+p4097
+asS"All the King's Men"
+p4098
+(lp4099
+VDrama
+p4100
+aVThriller
+p4101
+asS'Mr Brooks'
+p4102
+(lp4103
+VCrime
+p4104
+aVDrama
+p4105
+aVThriller
+p4106
+asS'Petulia'
+p4107
+(lp4108
+VDrama
+p4109
+aVRomance
+p4110
+asS'Silence of the Lambs'
+p4111
+(lp4112
+VCrime
+p4113
+aVDrama
+p4114
+aVThriller
+p4115
+asS'Mary Poppins'
+p4116
+(lp4117
+VComedy
+p4118
+aVFamily
+p4119
+aVFantasy
+p4120
+aVMusical
+p4121
+asS'Men Who Stare at Goats, The'
+p4122
+(lp4123
+VComedy
+p4124
+aVWar
+p4125
+asS'Dry White Season, A'
+p4126
+(lp4127
+VDrama
+p4128
+aVThriller
+p4129
+asS'2012'
+p4130
+(lp4131
+VAction
+p4132
+aVAdventure
+p4133
+aVSci-Fi
+p4134
+asS'Frozen River'
+p4135
+(lp4136
+VCrime
+p4137
+aVDrama
+p4138
+asS"It's a Wonderful Life"
+p4139
+(lp4140
+VDrama
+p4141
+aVFamily
+p4142
+aVFantasy
+p4143
+asS'Confidence'
+p4144
+(lp4145
+VCrime
+p4146
+aVThriller
+p4147
+asS'Juno'
+p4148
+(lp4149
+VComedy
+p4150
+aVDrama
+p4151
+asS'Being Human'
+p4152
+(lp4153
+VComedy
+p4154
+aVDrama
+p4155
+aVFantasy
+p4156
+aVHorror
+p4157
+asS'Napoleon Dynamite'
+p4158
+(lp4159
+VComedy
+p4160
+asS'Swordfish'
+p4161
+(lp4162
+VAction
+p4163
+aVCrime
+p4164
+aVThriller
+p4165
+asS'War of the Worlds'
+p4166
+(lp4167
+VAdventure
+p4168
+aVSci-Fi
+p4169
+aVThriller
+p4170
+asS'Shivers'
+p4171
+(lp4172
+VHorror
+p4173
+aVSci-Fi
+p4174
+asS'Man On Fire'
+p4175
+(lp4176
+VAction
+p4177
+aVCrime
+p4178
+aVDrama
+p4179
+aVThriller
+p4180
+asS"One Flew Over the Cuckoo's Nes"
+p4181
+(lp4182
+VDrama
+p4183
+asS'Ninja Assassin'
+p4184
+(lp4185
+VAction
+p4186
+aVCrime
+p4187
+aVThriller
+p4188
+asS'Abyss, The'
+p4189
+(lp4190
+VAdventure
+p4191
+aVDrama
+p4192
+aVSci-Fi
+p4193
+aVThriller
+p4194
+asS"Charlie's Angels"
+p4195
+(lp4196
+VAction
+p4197
+aVAdventure
+p4198
+aVComedy
+p4199
+aVCrime
+p4200
+aVThriller
+p4201
+asS'Fast Times at Ridgemont High'
+p4202
+(lp4203
+VComedy
+p4204
+aVDrama
+p4205
+asS'Kiss of the Spider Woman'
+p4206
+(lp4207
+VDrama
+p4208
+asS'Star Trek: Generations'
+p4209
+(lp4210
+VAction
+p4211
+aVAdventure
+p4212
+aVMystery
+p4213
+aVSci-Fi
+p4214
+aVThriller
+p4215
+asS'Gandhi'
+p4216
+(lp4217
+VBiography
+p4218
+aVDrama
+p4219
+aVHistory
+p4220
+asS'Kung Fu Panda'
+p4221
+(lp4222
+VAnimation
+p4223
+aVAction
+p4224
+aVAdventure
+p4225
+aVComedy
+p4226
+aVFamily
+p4227
+asS'Inglourious Basterds'
+p4228
+(lp4229
+VAdventure
+p4230
+aVDrama
+p4231
+aVWar
+p4232
+asS'Panic Room'
+p4233
+(lp4234
+VCrime
+p4235
+aVDrama
+p4236
+aVThriller
+p4237
+asS'Kundun'
+p4238
+(lp4239
+VBiography
+p4240
+aVDrama
+p4241
+aVHistory
+p4242
+aVWar
+p4243
+asS'Pitch Black'
+p4244
+(lp4245
+VHorror
+p4246
+aVSci-Fi
+p4247
+asS'Program, The'
+p4248
+(lp4249
+VBiography
+p4250
+aVDrama
+p4251
+aVSport
+p4252
+asS'Face Off'
+p4253
+(lp4254
+VAction
+p4255
+aVCrime
+p4256
+aVSci-Fi
+p4257
+aVThriller
+p4258
+asS'Event Horizon'
+p4259
+(lp4260
+VHorror
+p4261
+aVSci-Fi
+p4262
+aVThriller
+p4263
+asS'Nashville'
+p4264
+(lp4265
+VDrama
+p4266
+aVMusic
+p4267
+aVRomance
+p4268
+asS'I am Sam'
+p4269
+(lp4270
+VDrama
+p4271
+asS'Megamind'
+p4272
+(lp4273
+VAnimation
+p4274
+aVAction
+p4275
+aVComedy
+p4276
+aVFamily
+p4277
+aVSci-Fi
+p4278
+asg669
+(lp4279
+VComedy
+p4280
+aVMusic
+p4281
+asS'Lone Star'
+p4282
+(lp4283
+VCrime
+p4284
+aVDrama
+p4285
+aVMystery
+p4286
+asS'Bean'
+p4287
+(lp4288
+VAdventure
+p4289
+aVComedy
+p4290
+asS'Enemy of the State'
+p4291
+(lp4292
+VAction
+p4293
+aVCrime
+p4294
+aVDrama
+p4295
+aVMystery
+p4296
+aVThriller
+p4297
+asS'Boondock Saints 2: All Saints Day'
+p4298
+(lp4299
+VAction
+p4300
+aVCrime
+p4301
+aVThriller
+p4302
+asS"I'll Do Anything"
+p4303
+(lp4304
+VComedy
+p4305
+aVDrama
+p4306
+asS'9'
+(lp4307
+VAnimation
+p4308
+aVAction
+p4309
+aVAdventure
+p4310
+aVDrama
+p4311
+aVMystery
+p4312
+aVSci-Fi
+p4313
+aVThriller
+p4314
+asS'Amelia'
+p4315
+(lp4316
+VComedy
+p4317
+aVRomance
+p4318
+asS"Avventura, L' (The Adventure)"
+p4319
+(lp4320
+VDocumentary
+p4321
+asS'Water for Elephants'
+p4322
+(lp4323
+VDrama
+p4324
+aVRomance
+p4325
+asS'U Turn'
+p4326
+(lp4327
+VCrime
+p4328
+aVDrama
+p4329
+aVThriller
+p4330
+asS'Ace Ventura: Pet Detective'
+p4331
+(lp4332
+VComedy
+p4333
+asS'American Graffiti'
+p4334
+(lp4335
+VComedy
+p4336
+aVDrama
+p4337
+aVMusic
+p4338
+asS'Bringing Out the Dead'
+p4339
+(lp4340
+VDrama
+p4341
+aVThriller
+p4342
+asS'Diner'
+p4343
+(lp4344
+VComedy
+p4345
+aVDrama
+p4346
+asS'Synecdoche, New York'
+p4347
+(lp4348
+VComedy
+p4349
+aVDrama
+p4350
+asS'Rushmore'
+p4351
+(lp4352
+VComedy
+p4353
+aVDrama
+p4354
+asS'Sugar'
+p4355
+(lp4356
+VDrama
+p4357
+aVSport
+p4358
+asS'Shampoo'
+p4359
+(lp4360
+VComedy
+p4361
+aVDrama
+p4362
+asS'Sexual Life'
+p4363
+(lp4364
+VComedy
+p4365
+aVDrama
+p4366
+asS'Snow Falling On Cedars'
+p4367
+(lp4368
+VDrama
+p4369
+aVMystery
+p4370
+aVRomance
+p4371
+aVThriller
+p4372
+asS'Basquia'
+p4373
+(lp4374
+VBiography
+p4375
+aVDrama
+p4376
+asS'Avatar'
+p4377
+(lp4378
+VAction
+p4379
+aVAdventure
+p4380
+aVFantasy
+p4381
+aVSci-Fi
+p4382
+asS'Ed Wood'
+p4383
+(lp4384
+VBiography
+p4385
+aVComedy
+p4386
+aVDrama
+p4387
+asS'Hellraiser'
+p4388
+(lp4389
+VHorror
+p4390
+aVThriller
+p4391
+asS'How to Train Your Dragon'
+p4392
+(lp4393
+VAnimation
+p4394
+aVAction
+p4395
+aVAdventure
+p4396
+aVComedy
+p4397
+aVFamily
+p4398
+aVFantasy
+p4399
+asg694
+(lp4400
+VComedy
+p4401
+asS'Defiance'
+p4402
+(lp4403
+VAction
+p4404
+aVDrama
+p4405
+aVSci-Fi
+p4406
+asS'Cider House Rules, The'
+p4407
+(lp4408
+VDrama
+p4409
+aVRomance
+p4410
+asS'Tremors'
+p4411
+(lp4412
+VComedy
+p4413
+aVHorror
+p4414
+asS'Jerry Maguire'
+p4415
+(lp4416
+VComedy
+p4417
+aVDrama
+p4418
+aVRomance
+p4419
+aVSport
+p4420
+asS'Sandlot Kids, The'
+p4421
+(lp4422
+VComedy
+p4423
+aVDrama
+p4424
+aVFamily
+p4425
+aVSport
+p4426
+asS'House of 1000 Corpses'
+p4427
+(lp4428
+VHorror
+p4429
+asS'Sex and the City'
+p4430
+(lp4431
+VComedy
+p4432
+aVRomance
+p4433
+asS'Into the Wild'
+p4434
+(lp4435
+VAdventure
+p4436
+aVBiography
+p4437
+aVDrama
+p4438
+asS'Blast from the Past, The'
+p4439
+(lp4440
+VComedy
+p4441
+aVDrama
+p4442
+aVRomance
+p4443
+aVSci-Fi
+p4444
+asS'Minority Repor'
+p4445
+(lp4446
+VAction
+p4447
+aVMystery
+p4448
+aVSci-Fi
+p4449
+aVThriller
+p4450
+asS'Butterfly Effect, The'
+p4451
+(lp4452
+VSci-Fi
+p4453
+aVThriller
+p4454
+asS'Nightbreed'
+p4455
+(lp4456
+VAction
+p4457
+aVFantasy
+p4458
+aVHorror
+p4459
+asS'Surfer King, The'
+p4460
+(lp4461
+VComedy
+p4462
+asS'Evil Dead'
+p4463
+(lp4464
+VHorror
+p4465
+aVThriller
+p4466
+asS'Relic, The'
+p4467
+(lp4468
+VHorror
+p4469
+aVMystery
+p4470
+aVSci-Fi
+p4471
+aVThriller
+p4472
+asS'Terminator Salvation'
+p4473
+(lp4474
+VAction
+p4475
+aVAdventure
+p4476
+aVSci-Fi
+p4477
+asS'Buffy the Vampire Slayer'
+p4478
+(lp4479
+VAction
+p4480
+aVDrama
+p4481
+aVFantasy
+p4482
+aVRomance
+p4483
+asS'American Splendor'
+p4484
+(lp4485
+VBiography
+p4486
+aVComedy
+p4487
+aVDrama
+p4488
+asS'Deception'
+p4489
+(lp4490
+VCrime
+p4491
+aVDrama
+p4492
+aVMystery
+p4493
+aVRomance
+p4494
+asS'American Outlaws'
+p4495
+(lp4496
+VAction
+p4497
+aVWestern
+p4498
+asS'Fear and Loathing in Las Vegas'
+p4499
+(lp4500
+VAdventure
+p4501
+aVComedy
+p4502
+aVDrama
+p4503
+asS'Barton Fink'
+p4504
+(lp4505
+VComedy
+p4506
+aVDrama
+p4507
+asS'Runaway Bride'
+p4508
+(lp4509
+VComedy
+p4510
+aVRomance
+p4511
+asS'Battle: Los Angeles'
+p4512
+(lp4513
+VAction
+p4514
+aVSci-Fi
+p4515
+asS'Jay and Silent Bob Strike Back'
+p4516
+(lp4517
+VComedy
+p4518
+asS'Beloved'
+p4519
+(lp4520
+VDrama
+p4521
+aVHistory
+p4522
+aVHorror
+p4523
+asS'Nightmare Before Christmas, The'
+p4524
+(lp4525
+VAnimation
+p4526
+aVFamily
+p4527
+aVFantasy
+p4528
+aVMusical
+p4529
+asS'Mr Deeds Goes to Town'
+p4530
+(lp4531
+VComedy
+p4532
+aVDrama
+p4533
+aVRomance
+p4534
+asS'American President, The'
+p4535
+(lp4536
+VComedy
+p4537
+aVDrama
+p4538
+aVRomance
+p4539
+asS'His Girl Friday'
+p4540
+(lp4541
+VComedy
+p4542
+aVDrama
+p4543
+aVRomance
+p4544
+asS'Someone To Watch Over Me'
+p4545
+(lp4546
+VCrime
+p4547
+aVDrama
+p4548
+aVRomance
+p4549
+aVThriller
+p4550
+asS'Rocky'
+p4551
+(lp4552
+VDrama
+p4553
+aVSport
+p4554
+asS'Star Trek: First Contac'
+p4555
+(lp4556
+VAction
+p4557
+aVAdventure
+p4558
+aVDrama
+p4559
+aVSci-Fi
+p4560
+aVThriller
+p4561
+asS'In the Bedroom'
+p4562
+(lp4563
+VCrime
+p4564
+aVDrama
+p4565
+asg729
+(lp4566
+g1257
+asS'Superfights'
+p4567
+(lp4568
+VAction
+p4569
+aVCrime
+p4570
+aVDrama
+p4571
+aVThriller
+p4572
+asS'Star Wars: The Empire Strikes Back'
+p4573
+(lp4574
+VAction
+p4575
+aVAdventure
+p4576
+aVFantasy
+p4577
+aVSci-Fi
+p4578
+asS'Speed Racer'
+p4579
+(lp4580
+VAction
+p4581
+aVFamily
+p4582
+aVSci-Fi
+p4583
+aVSport
+p4584
+asS'Quantum Projec'
+p4585
+(lp4586
+VShort
+p4587
+aVAdventure
+p4588
+aVDrama
+p4589
+aVRomance
+p4590
+asS'Chasing Sleep'
+p4591
+(lp4592
+VHorror
+p4593
+aVMystery
+p4594
+aVThriller
+p4595
+asg735
+(lp4596
+VDrama
+p4597
+aVFilm-Noir
+p4598
+asS'Rachel Getting Married'
+p4599
+(lp4600
+VDrama
+p4601
+aVRomance
+p4602
+asS'50-50'
+p4603
+(lp4604
+VAction
+p4605
+aVAdventure
+p4606
+aVComedy
+p4607
+asS'Shifty'
+p4608
+(lp4609
+VThriller
+p4610
+asS'Cars 2'
+p4611
+(lp4612
+VAnimation
+p4613
+aVAdventure
+p4614
+aVComedy
+p4615
+aVFamily
+p4616
+aVSport
+p4617
+asS'Ghost and the Darkness, The'
+p4618
+(lp4619
+VAdventure
+p4620
+aVDrama
+p4621
+aVHorror
+p4622
+aVThriller
+p4623
+asS'Shawshank Redemption, The'
+p4624
+(lp4625
+VCrime
+p4626
+aVDrama
+p4627
+asS'Omega Man'
+p4628
+(lp4629
+VAction
+p4630
+aVSci-Fi
+p4631
+asS'Chinatown'
+p4632
+(lp4633
+VDrama
+p4634
+aVMystery
+p4635
+aVThriller
+p4636
+asS'In the Loop'
+p4637
+(lp4638
+VComedy
+p4639
+asS'Pries'
+p4640
+(lp4641
+VDrama
+p4642
+aVFantasy
+p4643
+aVHorror
+p4644
+aVMystery
+p4645
+aVRomance
+p4646
+aVThriller
+p4647
+asS'Thor'
+p4648
+(lp4649
+VAction
+p4650
+aVAdventure
+p4651
+aVFantasy
+p4652
+aVSci-Fi
+p4653
+asS'Drop Dead Gorgeous'
+p4654
+(lp4655
+VComedy
+p4656
+aVRomance
+p4657
+aVThriller
+p4658
+asS'Bourne Supremacy, The'
+p4659
+(lp4660
+VAction
+p4661
+aVMystery
+p4662
+aVThriller
+p4663
+asS'Taxi Driver'
+p4664
+(lp4665
+VCrime
+p4666
+aVDrama
+p4667
+asS'Book of Eli, The'
+p4668
+(lp4669
+VAction
+p4670
+aVAdventure
+p4671
+aVDrama
+p4672
+aVThriller
+p4673
+asS'Pet Sematary'
+p4674
+(lp4675
+VHorror
+p4676
+aVThriller
+p4677
+asS'High Fidelity'
+p4678
+(lp4679
+VComedy
+p4680
+aVDrama
+p4681
+aVMusic
+p4682
+aVRomance
+p4683
+asS'Mystery Men'
+p4684
+(lp4685
+VAction
+p4686
+aVComedy
+p4687
+aVFantasy
+p4688
+aVSci-Fi
+p4689
+asS'Basic Instinc'
+p4690
+(lp4691
+VCrime
+p4692
+aVDrama
+p4693
+aVMystery
+p4694
+aVThriller
+p4695
+asS'Big Lebowski, The'
+p4696
+(lp4697
+VComedy
+p4698
+aVCrime
+p4699
+asS'You Can Count On Me'
+p4700
+(lp4701
+VDrama
+p4702
+asS'Barry Lyndon'
+p4703
+(lp4704
+VAdventure
+p4705
+aVDrama
+p4706
+aVHistory
+p4707
+aVWar
+p4708
+asS'Gangs of New York'
+p4709
+(lp4710
+VCrime
+p4711
+aVDrama
+p4712
+aVHistory
+p4713
+asS'Ice Storm, The'
+p4714
+(lp4715
+VDrama
+p4716
+asS'Long Kiss Goodnight, The'
+p4717
+(lp4718
+VAction
+p4719
+aVCrime
+p4720
+aVDrama
+p4721
+aVMystery
+p4722
+aVThriller
+p4723
+asg761
+(lp4724
+VComedy
+p4725
+aVMusic
+p4726
+aVTalk-Show
+p4727
+asS'Major League'
+p4728
+(lp4729
+VComedy
+p4730
+aVSport
+p4731
+asS'Bones'
+p4732
+(lp4733
+VComedy
+p4734
+aVCrime
+p4735
+aVDrama
+p4736
+aVMystery
+p4737
+aVRomance
+p4738
+asS'Clockwork Orange, A'
+p4739
+(lp4740
+VCrime
+p4741
+aVDrama
+p4742
+aVSci-Fi
+p4743
+asg765
+(lp4744
+VDrama
+p4745
+aVThriller
+p4746
+asS'Witness'
+p4747
+(lp4748
+VCrime
+p4749
+aVDrama
+p4750
+aVRomance
+p4751
+aVThriller
+p4752
+asS'8MM'
+p4753
+(lp4754
+VMystery
+p4755
+aVThriller
+p4756
+asS'Queen, The'
+p4757
+(lp4758
+VComedy
+p4759
+aVHorror
+p4760
+aVMystery
+p4761
+asS'Arcade'
+p4762
+(lp4763
+VHorror
+p4764
+aVSci-Fi
+p4765
+asS'State and Main'
+p4766
+(lp4767
+VComedy
+p4768
+aVDrama
+p4769
+asS'Four Rooms'
+p4770
+(lp4771
+VComedy
+p4772
+asS'Capote'
+p4773
+(lp4774
+VBiography
+p4775
+aVCrime
+p4776
+aVDrama
+p4777
+asS'Assassins'
+p4778
+(lp4779
+VAction
+p4780
+aVCrime
+p4781
+aVThriller
+p4782
+asS'Horrible Bosses'
+p4783
+(lp4784
+VComedy
+p4785
+aVCrime
+p4786
+asS'Margot at the Wedding'
+p4787
+(lp4788
+VComedy
+p4789
+aVDrama
+p4790
+asS'Fargo'
+p4791
+(lp4792
+VCrime
+p4793
+aVDrama
+p4794
+aVThriller
+p4795
+asS'E'
+(lp4796
+VAction
+p4797
+aVDrama
+p4798
+aVThriller
+p4799
+asS'Moneyball'
+p4800
+(lp4801
+VBiography
+p4802
+aVDrama
+p4803
+aVSport
+p4804
+asS'Ed TV'
+p4805
+(lp4806
+VComedy
+p4807
+aVDrama
+p4808
+asS'Breakdown'
+p4809
+(lp4810
+VAction
+p4811
+aVCrime
+p4812
+aVDrama
+p4813
+aVMystery
+p4814
+aVThriller
+p4815
+asS'Light Sleeper'
+p4816
+(lp4817
+VCrime
+p4818
+aVDrama
+p4819
+asS'Cube'
+p4820
+(lp4821
+VMystery
+p4822
+aVSci-Fi
+p4823
+aVThriller
+p4824
+asS'RocknRolla'
+p4825
+(lp4826
+VAction
+p4827
+aVCrime
+p4828
+aVThriller
+p4829
+asS'Imaginarium of Doctor Parnassus, The'
+p4830
+(lp4831
+VAdventure
+p4832
+aVFantasy
+p4833
+aVMystery
+p4834
+asS'Hellraiser: Deader'
+p4835
+(lp4836
+VHorror
+p4837
+aVMystery
+p4838
+aVThriller
+p4839
+asS'Raging Bull'
+p4840
+(lp4841
+VBiography
+p4842
+aVDrama
+p4843
+aVSport
+p4844
+asS'Starship Troopers'
+p4845
+(lp4846
+VAction
+p4847
+aVSci-Fi
+p4848
+asS'Stepmom'
+p4849
+(lp4850
+VComedy
+p4851
+aVDrama
+p4852
+asS'How to Lose Friends & Alienate People'
+p4853
+(lp4854
+VBiography
+p4855
+aVComedy
+p4856
+aVDrama
+p4857
+aVRomance
+p4858
+asS'Green Mile, The'
+p4859
+(lp4860
+VCrime
+p4861
+aVDrama
+p4862
+aVFantasy
+p4863
+aVMystery
+p4864
+asg790
+(lp4865
+VCrime
+p4866
+aVHorror
+p4867
+aVMystery
+p4868
+aVThriller
+p4869
+asS'Fight Club'
+p4870
+(lp4871
+VDrama
+p4872
+asS'Gremlins 2'
+p4873
+(lp4874
+VComedy
+p4875
+aVFantasy
+p4876
+aVHorror
+p4877
+asS'Deer Hunter, The'
+p4878
+(lp4879
+VDrama
+p4880
+aVHistory
+p4881
+aVWar
+p4882
+asS'Chasing Amy'
+p4883
+(lp4884
+VComedy
+p4885
+aVDrama
+p4886
+aVRomance
+p4887
+asS'Insider, The'
+p4888
+(lp4889
+VBiography
+p4890
+aVDrama
+p4891
+aVThriller
+p4892
+asS'Freddy vs'
+p4893
+(lp4894
+VAction
+p4895
+aVHorror
+p4896
+aVThriller
+p4897
+asS'Horse Whisperer, The'
+p4898
+(lp4899
+VDrama
+p4900
+aVRomance
+p4901
+aVWestern
+p4902
+asS'Hellbound: Hellraiser II'
+p4903
+(lp4904
+VHorror
+p4905
+aVThriller
+p4906
+asS'Batman 2'
+p4907
+(lp4908
+VAction
+p4909
+asS'Slither'
+p4910
+(lp4911
+VComedy
+p4912
+aVHorror
+p4913
+aVSci-Fi
+p4914
+asS'Doors, The'
+p4915
+(lp4916
+g1257
+asS'Birthday Girl'
+p4917
+(lp4918
+VComedy
+p4919
+aVCrime
+p4920
+aVThriller
+p4921
+asS'Gone in 60 Seconds'
+p4922
+(lp4923
+VAction
+p4924
+aVCrime
+p4925
+aVThriller
+p4926
+asS'Field of Dreams'
+p4927
+(lp4928
+VDrama
+p4929
+aVFamily
+p4930
+aVFantasy
+p4931
+aVSport
+p4932
+asS'White Squall'
+p4933
+(lp4934
+VAdventure
+p4935
+aVDrama
+p4936
+asS"Mini's First Time"
+p4937
+(lp4938
+VComedy
+p4939
+aVCrime
+p4940
+aVDrama
+p4941
+asS'Crying Game'
+p4942
+(lp4943
+VCrime
+p4944
+aVDrama
+p4945
+aVRomance
+p4946
+aVThriller
+p4947
+asS"Ocean's Twelve"
+p4948
+(lp4949
+VCrime
+p4950
+aVThriller
+p4951
+asS'Benny & Joon'
+p4952
+(lp4953
+VComedy
+p4954
+aVDrama
+p4955
+aVRomance
+p4956
+asS'Day the Earth Stood Still, The'
+p4957
+(lp4958
+VDrama
+p4959
+aVSci-Fi
+p4960
+aVThriller
+p4961
+asS'44 Inch Ches'
+p4962
+(lp4963
+VCrime
+p4964
+aVDrama
+p4965
+asS"Monster's Ball"
+p4966
+(lp4967
+VDrama
+p4968
+aVRomance
+p4969
+asS'Brothers Bloom, The'
+p4970
+(lp4971
+VAdventure
+p4972
+aVComedy
+p4973
+aVDrama
+p4974
+aVRomance
+p4975
+asS'Alien Nation'
+p4976
+(lp4977
+VAction
+p4978
+aVCrime
+p4979
+aVSci-Fi
+p4980
+asS'Rock, The'
+p4981
+(lp4982
+g1257
+asS'Broadcast News'
+p4983
+(lp4984
+VComedy
+p4985
+aVDrama
+p4986
+aVRomance
+p4987
+asS'Shadow of the Vampire'
+p4988
+(lp4989
+VDrama
+p4990
+aVHorror
+p4991
+asS'Tin Cup'
+p4992
+(lp4993
+VComedy
+p4994
+aVDrama
+p4995
+aVRomance
+p4996
+aVSport
+p4997
+asS'Jade'
+p4998
+(lp4999
+VCrime
+p5000
+aVDrama
+p5001
+aVThriller
+p5002
+asS'True Gri'
+p5003
+(lp5004
+VAdventure
+p5005
+aVDrama
+p5006
+aVWestern
+p5007
+asS'Top Gun'
+p5008
+(lp5009
+VAction
+p5010
+aVDrama
+p5011
+aVRomance
+p5012
+asS'Entrapmen'
+p5013
+(lp5014
+VAction
+p5015
+aVCrime
+p5016
+aVRomance
+p5017
+aVThriller
+p5018
+asS'Hospital, The'
+p5019
+(lp5020
+VDrama
+p5021
+aVRomance
+p5022
+asS'Kafka'
+p5023
+(lp5024
+VDrama
+p5025
+aVMystery
+p5026
+aVSci-Fi
+p5027
+aVThriller
+p5028
+asS'Hostage'
+p5029
+(lp5030
+VAction
+p5031
+aVCrime
+p5032
+aVDrama
+p5033
+aVMystery
+p5034
+aVThriller
+p5035
+asS'Shallow Grave'
+p5036
+(lp5037
+VCrime
+p5038
+aVThriller
+p5039
+asS'Tropic Thunder'
+p5040
+(lp5041
+VAction
+p5042
+aVComedy
+p5043
+asS'Scarface'
+p5044
+(lp5045
+VCrime
+p5046
+aVDrama
+p5047
+asS'All About Eve'
+p5048
+(lp5049
+VDrama
+p5050
+asS'World is not Enough, The'
+p5051
+(lp5052
+VAction
+p5053
+aVAdventure
+p5054
+aVThriller
+p5055
+asS'Constantine'
+p5056
+(lp5057
+VDrama
+p5058
+aVFantasy
+p5059
+aVHorror
+p5060
+aVThriller
+p5061
+asS'Producer, The'
+p5062
+(lp5063
+VComedy
+p5064
+asS'Tomorrow Never Dies'
+p5065
+(lp5066
+VAction
+p5067
+aVAdventure
+p5068
+aVThriller
+p5069
+asS'Dawn of the Dead'
+p5070
+(lp5071
+VAction
+p5072
+aVHorror
+p5073
+aVThriller
+p5074
+asS'Big Fish'
+p5075
+(lp5076
+VAdventure
+p5077
+aVDrama
+p5078
+aVFantasy
+p5079
+asS'Tamara Drewe'
+p5080
+(lp5081
+VComedy
+p5082
+aVDrama
+p5083
+aVRomance
+p5084
+asS'Ne'
+p5085
+(lp5086
+VDrama
+p5087
+asS'Raising Arizona'
+p5088
+(lp5089
+VComedy
+p5090
+aVCrime
+p5091
+asS'Star Trek'
+p5092
+(lp5093
+VAction
+p5094
+aVAdventure
+p5095
+aVMystery
+p5096
+aVSci-Fi
+p5097
+asS'Being There'
+p5098
+(lp5099
+VComedy
+p5100
+aVDrama
+p5101
+asS'Bridesmaids'
+p5102
+(lp5103
+VComedy
+p5104
+aVRomance
+p5105
+asS'48 Hrs'
+p5106
+(lp5107
+VAction
+p5108
+aVComedy
+p5109
+aVCrime
+p5110
+aVDrama
+p5111
+aVMystery
+p5112
+aVThriller
+p5113
+asS"King's Speech, The"
+p5114
+(lp5115
+VBiography
+p5116
+aVDrama
+p5117
+aVHistory
+p5118
+asS"Ferris Bueller's Day Off"
+p5119
+(lp5120
+VComedy
+p5121
+asS'Equilibrium'
+p5122
+(lp5123
+VAction
+p5124
+aVDrama
+p5125
+aVSci-Fi
+p5126
+aVThriller
+p5127
+asS'Wild At Hear'
+p5128
+(lp5129
+VComedy
+p5130
+aVCrime
+p5131
+aVDrama
+p5132
+aVThriller
+p5133
+asS'Gattaca'
+p5134
+(lp5135
+VDrama
+p5136
+aVSci-Fi
+p5137
+aVThriller
+p5138
+asS'Training Day'
+p5139
+(lp5140
+VCrime
+p5141
+aVDrama
+p5142
+aVThriller
+p5143
+asS'Resident Evil'
+p5144
+(lp5145
+VAction
+p5146
+aVHorror
+p5147
+aVSci-Fi
+p5148
+asS'Arthur'
+p5149
+(lp5150
+VAnimation
+p5151
+aVComedy
+p5152
+aVFamily
+p5153
+asS'Die Hard'
+p5154
+(lp5155
+VAction
+p5156
+aVThriller
+p5157
+asS'Happy Birthday, Wanda June'
+p5158
+(lp5159
+VComedy
+p5160
+aVDrama
+p5161
+asS'Grifters, The'
+p5162
+(lp5163
+VCrime
+p5164
+aVDrama
+p5165
+aVThriller
+p5166
+asS'Lord of War'
+p5167
+(lp5168
+VCrime
+p5169
+aVDrama
+p5170
+aVThriller
+p5171
+asS'Break'
+p5172
+(lp5173
+VHorror
+p5174
+asS'Ladykillers, The'
+p5175
+(lp5176
+VComedy
+p5177
+aVCrime
+p5178
+aVThriller
+p5179
+asS'Last Boy Scout, The'
+p5180
+(lp5181
+VAction
+p5182
+aVThriller
+p5183
+asS'Cable Guy'
+p5184
+(lp5185
+VComedy
+p5186
+aVDrama
+p5187
+aVThriller
+p5188
+asS'True Lies'
+p5189
+(lp5190
+VAction
+p5191
+aVComedy
+p5192
+aVThriller
+p5193
+asS'Game 6'
+p5194
+(lp5195
+VComedy
+p5196
+aVDrama
+p5197
+aVSport
+p5198
+asS'Miami Vice'
+p5199
+(lp5200
+VAction
+p5201
+aVCrime
+p5202
+aVDrama
+p5203
+aVMystery
+p5204
+aVThriller
+p5205
+asS'Life of David Gale, The'
+p5206
+(lp5207
+VCrime
+p5208
+aVDrama
+p5209
+aVThriller
+p5210
+asS'Wanted'
+p5211
+(lp5212
+VAction
+p5213
+aVCrime
+p5214
+aVFantasy
+p5215
+aVThriller
+p5216
+asS'Sting, The'
+p5217
+(lp5218
+VComedy
+p5219
+aVCrime
+p5220
+aVDrama
+p5221
+asS'Copyca'
+p5222
+(lp5223
+VCrime
+p5224
+aVDrama
+p5225
+aVMystery
+p5226
+aVThriller
+p5227
+asS'Pearl Harbor'
+p5228
+(lp5229
+VAction
+p5230
+aVDrama
+p5231
+aVHistory
+p5232
+aVRomance
+p5233
+aVWar
+p5234
+asS'Three Kings'
+p5235
+(lp5236
+VAction
+p5237
+aVAdventure
+p5238
+aVComedy
+p5239
+aVDrama
+p5240
+aVHistory
+p5241
+aVWar
+p5242
+asS'Superbad'
+p5243
+(lp5244
+VComedy
+p5245
+asS'Extrac'
+p5246
+(lp5247
+VComedy
+p5248
+aVCrime
+p5249
+aVRomance
+p5250
+asS'I, Robo'
+p5251
+(lp5252
+VCrime
+p5253
+aVDrama
+p5254
+aVThriller
+p5255
+asS'Truman Show, The'
+p5256
+(lp5257
+VComedy
+p5258
+aVDrama
+p5259
+aVSci-Fi
+p5260
+asS'Max Payne'
+p5261
+(lp5262
+VAction
+p5263
+aVCrime
+p5264
+aVDrama
+p5265
+aVMystery
+p5266
+aVThriller
+p5267
+asS'Bad Boys'
+p5268
+(lp5269
+VAction
+p5270
+aVComedy
+p5271
+aVCrime
+p5272
+aVDrama
+p5273
+aVThriller
+p5274
+asS'Leviathan'
+p5275
+(lp5276
+VDrama
+p5277
+asS'Anastasia'
+p5278
+(lp5279
+VAnimation
+p5280
+aVAdventure
+p5281
+aVDrama
+p5282
+aVFamily
+p5283
+aVFantasy
+p5284
+aVMusical
+p5285
+aVMystery
+p5286
+aVRomance
+p5287
+asS'Hall Pass'
+p5288
+(lp5289
+VComedy
+p5290
+aVRomance
+p5291
+asS'Village, The'
+p5292
+(lp5293
+VDrama
+p5294
+aVMystery
+p5295
+aVThriller
+p5296
+asS'TRON'
+p5297
+(lp5298
+VAction
+p5299
+aVAdventure
+p5300
+aVSci-Fi
+p5301
+asS'Vertigo'
+p5302
+(lp5303
+VMystery
+p5304
+aVRomance
+p5305
+aVThriller
+p5306
+asS'Robocop'
+p5307
+(lp5308
+VAction
+p5309
+aVCrime
+p5310
+aVSci-Fi
+p5311
+aVThriller
+p5312
+asS'Eagle Eye'
+p5313
+(lp5314
+VAction
+p5315
+aVMystery
+p5316
+aVThriller
+p5317
+asS'Thing, The'
+p5318
+(lp5319
+VDrama
+p5320
+aVHorror
+p5321
+aVMystery
+p5322
+aVRomance
+p5323
+aVSci-Fi
+p5324
+aVThriller
+p5325
+asS'Malcolm X'
+p5326
+(lp5327
+VBiography
+p5328
+aVDrama
+p5329
+aVHistory
+p5330
+aVRomance
+p5331
+asS'Hackers'
+p5332
+(lp5333
+VComedy
+p5334
+aVCrime
+p5335
+aVDrama
+p5336
+aVThriller
+p5337
+asS'Get Carter'
+p5338
+(lp5339
+VAction
+p5340
+aVCrime
+p5341
+aVDrama
+p5342
+aVThriller
+p5343
+asS'Apocalypse Now'
+p5344
+(lp5345
+VDrama
+p5346
+aVWar
+p5347
+asS'Fright Nigh'
+p5348
+(lp5349
+VHorror
+p5350
+aVThriller
+p5351
+asS"Schindler's Lis"
+p5352
+(lp5353
+VBiography
+p5354
+aVDrama
+p5355
+aVHistory
+p5356
+asS'Godfather Part III, The'
+p5357
+(lp5358
+VCrime
+p5359
+aVDrama
+p5360
+asS'Hard to Kill'
+p5361
+(lp5362
+VAction
+p5363
+aVCrime
+p5364
+aVDrama
+p5365
+aVThriller
+p5366
+asS'Adaptation'
+p5367
+(lp5368
+VComedy
+p5369
+aVDrama
+p5370
+asS'Majestic, The (The Bijou)'
+p5371
+(lp5372
+VDrama
+p5373
+aVRomance
+p5374
+asS'Point Break'
+p5375
+(lp5376
+VAction
+p5377
+aVCrime
+p5378
+aVSport
+p5379
+aVThriller
+p5380
+asS'Life As A House'
+p5381
+(lp5382
+VDrama
+p5383
+asS'Lock, Stock and Two Smoking Barrels'
+p5384
+(lp5385
+VComedy
+p5386
+aVCrime
+p5387
+asS'Blow'
+p5388
+(lp5389
+VBiography
+p5390
+aVCrime
+p5391
+aVDrama
+p5392
+aVHistory
+p5393
+asS"There's Something About Mary"
+p5394
+(lp5395
+VComedy
+p5396
+aVRomance
+p5397
+asS'Bamboozled'
+p5398
+(lp5399
+VComedy
+p5400
+aVDrama
+p5401
+aVMusic
+p5402
+asS'Almost Famous'
+p5403
+(lp5404
+VAdventure
+p5405
+aVComedy
+p5406
+aVDrama
+p5407
+aVMusic
+p5408
+asS'Good Will Hunting'
+p5409
+(lp5410
+VDrama
+p5411
+asS'Piano, The'
+p5412
+(lp5413
+VDrama
+p5414
+aVMusic
+p5415
+aVRomance
+p5416
+asS'Robin Hood: Prince of Thieves'
+p5417
+(lp5418
+VAction
+p5419
+aVAdventure
+p5420
+aVDrama
+p5421
+aVHistory
+p5422
+aVRomance
+p5423
+asS'Searchers, The'
+p5424
+(lp5425
+VAdventure
+p5426
+aVDrama
+p5427
+aVWestern
+p5428
+asS'Honeydripper'
+p5429
+(lp5430
+VCrime
+p5431
+aVDrama
+p5432
+aVHistory
+p5433
+aVMusic
+p5434
+aVMusical
+p5435
+asS'Tall in the Saddle'
+p5436
+(lp5437
+VMystery
+p5438
+aVWestern
+p5439
+aVRomance
+p5440
+asS'Twins'
+p5441
+(lp5442
+VComedy
+p5443
+aVCrime
+p5444
+asS'Date Nigh'
+p5445
+(lp5446
+VComedy
+p5447
+aVCrime
+p5448
+aVRomance
+p5449
+aVThriller
+p5450
+asS'Sleepy Hollow'
+p5451
+(lp5452
+VFantasy
+p5453
+aVHistory
+p5454
+aVHorror
+p5455
+aVMystery
+p5456
+asS'Alien: Resurrection'
+p5457
+(lp5458
+VAction
+p5459
+aVHorror
+p5460
+aVSci-Fi
+p5461
+asS'Perfect World, A'
+p5462
+(lp5463
+VCrime
+p5464
+aVDrama
+p5465
+aVThriller
+p5466
+asS'Three Musketeers, The'
+p5467
+(lp5468
+VAction
+p5469
+aVAdventure
+p5470
+aVHistory
+p5471
+aVRomance
+p5472
+asS'What About Bob?'
+p5473
+(lp5474
+VComedy
+p5475
+asS'Godfather Part II'
+p5476
+(lp5477
+VCrime
+p5478
+aVDrama
+p5479
+asS'Jurassic Park III'
+p5480
+(lp5481
+VAction
+p5482
+aVAdventure
+p5483
+aVSci-Fi
+p5484
+aVThriller
+p5485
+asS'Black Snake Moan'
+p5486
+(lp5487
+VDrama
+p5488
+aVMusic
+p5489
+asS'Notting Hill'
+p5490
+(lp5491
+VComedy
+p5492
+aVDrama
+p5493
+aVRomance
+p5494
+asS'Warm Springs'
+p5495
+(lp5496
+VBiography
+p5497
+aVDrama
+p5498
+asS'Remember Me'
+p5499
+(lp5500
+VDrama
+p5501
+aVRomance
+p5502
+asS'Phone Booth'
+p5503
+(lp5504
+VCrime
+p5505
+aVThriller
+p5506
+asS'Save the Last Dance'
+p5507
+(lp5508
+VDrama
+p5509
+aVMusic
+p5510
+aVRomance
+p5511
+asS'Moonstruck'
+p5512
+(lp5513
+VComedy
+p5514
+aVDrama
+p5515
+aVRomance
+p5516
+asS'Spartan'
+p5517
+(lp5518
+VAction
+p5519
+aVCrime
+p5520
+aVDrama
+p5521
+aVMystery
+p5522
+aVThriller
+p5523
+asS'Whiteou'
+p5524
+(lp5525
+VAction
+p5526
+aVCrime
+p5527
+aVMystery
+p5528
+aVThriller
+p5529
+asS'Courage Under Fire'
+p5530
+(lp5531
+VAction
+p5532
+aVDrama
+p5533
+aVMystery
+p5534
+aVThriller
+p5535
+aVWar
+p5536
+asS'Reader, The'
+p5537
+(lp5538
+VDrama
+p5539
+aVRomance
+p5540
+asS'Clash of the Titans'
+p5541
+(lp5542
+VAction
+p5543
+aVAdventure
+p5544
+aVFantasy
+p5545
+asS'Awakenings'
+p5546
+(lp5547
+VBiography
+p5548
+aVDrama
+p5549
+asS'Amadeus'
+p5550
+(lp5551
+VBiography
+p5552
+aVDrama
+p5553
+aVHistory
+p5554
+aVMusic
+p5555
+asS'Cellular'
+p5556
+(lp5557
+VAction
+p5558
+aVCrime
+p5559
+aVThriller
+p5560
+asS'Bad Day at Black Rock'
+p5561
+(lp5562
+VCrime
+p5563
+aVDrama
+p5564
+aVMystery
+p5565
+aVThriller
+p5566
+aVWestern
+p5567
+asS'Incredibles, The'
+p5568
+(lp5569
+VAnimation
+p5570
+aVAction
+p5571
+aVAdventure
+p5572
+aVFamily
+p5573
+asS'Crime Spree'
+p5574
+(lp5575
+VAction
+p5576
+aVComedy
+p5577
+aVCrime
+p5578
+asS'Lost in Space'
+p5579
+(lp5580
+VAction
+p5581
+aVAdventure
+p5582
+aVFamily
+p5583
+aVSci-Fi
+p5584
+aVThriller
+p5585
+asS'Curious Case of Benjamin Button, The'
+p5586
+(lp5587
+VDrama
+p5588
+aVFantasy
+p5589
+aVRomance
+p5590
+asS'Army of Darkness'
+p5591
+(lp5592
+VComedy
+p5593
+aVFantasy
+p5594
+aVHorror
+p5595
+asS'Casino'
+p5596
+(lp5597
+VBiography
+p5598
+aVCrime
+p5599
+aVDrama
+p5600
+asS'White Christmas'
+p5601
+(lp5602
+VComedy
+p5603
+aVMusical
+p5604
+aVRomance
+p5605
+asS'Saint, The'
+p5606
+(lp5607
+VAction
+p5608
+aVCrime
+p5609
+aVThriller
+p5610
+asS'Metro'
+p5611
+(lp5612
+VAction
+p5613
+aVComedy
+p5614
+aVCrime
+p5615
+aVDrama
+p5616
+aVThriller
+p5617
+asS'Hanna'
+p5618
+(lp5619
+VAction
+p5620
+aVDrama
+p5621
+aVThriller
+p5622
+asS'Twilight: New Moon'
+p5623
+(lp5624
+VAdventure
+p5625
+aVDrama
+p5626
+aVFantasy
+p5627
+aVRomance
+p5628
+asS'Land of the Dead'
+p5629
+(lp5630
+VAction
+p5631
+aVDrama
+p5632
+aVHorror
+p5633
+aVThriller
+p5634
+asS'Drive'
+p5635
+(lp5636
+VCrime
+p5637
+aVDrama
+p5638
+asS'Game, The'
+p5639
+(lp5640
+VAdventure
+p5641
+aVDrama
+p5642
+aVFantasy
+p5643
+aVRomance
+p5644
+asS'Tourist, The'
+p5645
+(lp5646
+VAction
+p5647
+aVRomance
+p5648
+aVThriller
+p5649
+asS'Larry Crowne'
+p5650
+(lp5651
+VComedy
+p5652
+aVDrama
+p5653
+aVRomance
+p5654
+asS'Planet of the Apes, The'
+p5655
+(lp5656
+VAction
+p5657
+aVAdventure
+p5658
+aVSci-Fi
+p5659
+aVThriller
+p5660
+asS'Beach, The'
+p5661
+(lp5662
+VAdventure
+p5663
+aVDrama
+p5664
+aVRomance
+p5665
+aVThriller
+p5666
+asS'500 Days of Summer'
+p5667
+(lp5668
+VComedy
+p5669
+aVDrama
+p5670
+aVRomance
+p5671
+asS'Deep Cover'
+p5672
+(lp5673
+VAction
+p5674
+aVCrime
+p5675
+aVThriller
+p5676
+asS'American Shaolin: King of Kickboxers II'
+p5677
+(lp5678
+VAction
+p5679
+asS'Duck Soup'
+p5680
+(lp5681
+VComedy
+p5682
+aVMusical
+p5683
+aVWar
+p5684
+asS'Disturbia'
+p5685
+(lp5686
+VDrama
+p5687
+aVMystery
+p5688
+aVThriller
+p5689
+asS'Boogie Nights'
+p5690
+(lp5691
+VDrama
+p5692
+asS'Sugar and Spice'
+p5693
+(lp5694
+VComedy
+p5695
+aVDrama
+p5696
+aVFamily
+p5697
+asS'Artist, The'
+p5698
+(lp5699
+VComedy
+p5700
+aVDrama
+p5701
+aVRomance
+p5702
+asS'Do The Right Thing'
+p5703
+(lp5704
+VComedy
+p5705
+aVDrama
+p5706
+asS'Little Mermaid, The'
+p5707
+(lp5708
+VAnimation
+p5709
+aVFamily
+p5710
+aVFantasy
+p5711
+aVMusical
+p5712
+aVRomance
+p5713
+asS'Starman'
+p5714
+(lp5715
+VRomance
+p5716
+aVSci-Fi
+p5717
+asS'Good Girl, The'
+p5718
+(lp5719
+VDrama
+p5720
+asS'Year One'
+p5721
+(lp5722
+VAdventure
+p5723
+aVComedy
+p5724
+aVHistory
+p5725
+asS'Lost in Translation'
+p5726
+(lp5727
+VDrama
+p5728
+asS'Kate & Leopold'
+p5729
+(lp5730
+VComedy
+p5731
+aVFantasy
+p5732
+aVRomance
+p5733
+asS'Mariachi, El'
+p5734
+(lp5735
+VAction
+p5736
+aVThriller
+p5737
+asS'Other Boleyn Girl, The'
+p5738
+(lp5739
+VBiography
+p5740
+aVDrama
+p5741
+aVHistory
+p5742
+aVRomance
+p5743
+asS'Mimic'
+p5744
+(lp5745
+VHorror
+p5746
+aVSci-Fi
+p5747
+asS'Buried'
+p5748
+(lp5749
+VDrama
+p5750
+aVMystery
+p5751
+aVThriller
+p5752
+asS'Seventh Seal, The'
+p5753
+(lp5754
+VDrama
+p5755
+aVFantasy
+p5756
+aVHistory
+p5757
+asS'Two For The Money'
+p5758
+(lp5759
+VDrama
+p5760
+aVSport
+p5761
+aVThriller
+p5762
+asS'Black Rain'
+p5763
+(lp5764
+VAction
+p5765
+aVCrime
+p5766
+aVThriller
+p5767
+assS'missing'
+p5768
+(lp5769
+S'Nightmare on Elm Street: The Final Chapter'
+p5770
+aS'Day the Clown Cried, The'
+p5771
+aS'O Brother Where Art Thou?'
+p5772
+aS'Bonfire of the Vanities'
+p5773
+aS'Sex, Lies and Videotape'
+p5774
+aS'Labor of Love'
+p5775
+aS'Mummy, The'
+p5776
+aS'American Werewolf in London'
+p5777
+aS'Life'
+p5778
+aS'White Jazz'
+p5779
+aS'Friday the 13th'
+p5780
+as.

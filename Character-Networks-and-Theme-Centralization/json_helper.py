@@ -1,0 +1,89 @@
+"""
+Input format:
+script_dict : dictionary obtained from the json for a movie script
+scene : any entry from script_dict (ex. script_dict[0] for the first scene)
+char_name : string for character name (ex. 'TYLER')
+"""
+
+import json
+
+def get_description_for_scene(scene):
+    scene_desc = " ".join(desc[1] for desc in scene['scene_descriptons_list'])  
+    return ' '.join(scene_desc.split())
+
+def get_description_for_script(script_dict):
+    #append all scene descriptions
+    script_desc = " ".join(get_description_for_scene(script_dict[key]) for key in script_dict)
+    return ' '.join(script_desc.split())
+
+def get_all_dialogues_for_scene(scene):
+    dialogues = " ".join(dia[2] for dia in scene['char_dialogues'])  
+    return ' '.join(dialogues.split())
+
+def get_all_dialogues_for_script(script_dict):
+    all_dialogues = " ".join(get_all_dialogues_for_scene(script_dict[key]) for key in script_dict)
+    return ' '.join(all_dialogues.split())
+
+####################################################################################################33
+
+def get_all_char_from_script(script_dict):
+    chars = set()
+    for key in script_dict: #foreach scene in script
+        for dialogue in script_dict[key]['char_dialogues']:
+            chars.add(dialogue[1]) #get the speaker of the dialogue
+    return list(chars)
+
+def get_all_dialogues_for_char_for_scene(scene, char_name):
+    dialogues = ""
+    for d in scene['char_dialogues']:
+        if d[1] == char_name:
+            dialogues += " " + d[2]
+    if dialogues == "":
+        #print "No dialogues present for the given character"
+        pass
+    return ' '.join(dialogues.split())  #remove multiple white spaces to one
+
+def get_all_dialogues_for_char_for_script(script_dict, char_name):
+    dialogues = ""
+    for key in script_dict:
+        scene = script_dict[key]
+        dialogues += " " + get_all_dialogues_for_char_for_scene(scene, char_name)
+    return ' '.join(dialogues.split())
+
+#######################################################################################################3
+
+def find_all_scenes_with_char_mention(script_dict, char_name):
+    scene_ids = set()
+    for scene_id in script_dict:
+        for scene_desc in script_dict[scene_id]['scene_descriptons_list']:
+            if char_name in scene_desc[1]:
+                scene_ids.add(scene_id)
+        for dialogue in script_dict[scene_id]['char_dialogues']:
+            if char_name in dialogue[2]:
+                scene_ids.add(scene_id)
+    return [script_dict[scene_id] for scene_id in scene_ids]
+
+def find_all_scenes_with_char_as_speaker(script_dict, char_name):
+    scene_ids = []
+    for scene_id in script_dict:
+        for dialogue in script_dict[scene_id]['char_dialogues']:
+            if char_name == dialogue[1]:
+                scene_ids.append(scene_id)
+    return [script_dict[scene_id] for scene_id in scene_ids]
+
+############################################################################################################
+
+
+"""
+#usage example
+import json_helper.py as jhlp
+
+with open('/home/vishi/imsdb/json/A Few Good Men.json') as f:
+    script_dict = json.loads(f.read())
+    
+all_char_list = jhlp.get_all_char_from_script(script_data)
+for char in all_char_list:
+    char_dialogues = jhlp.get_all_dialogues_for_char_for_script(script_dict, 'TYLER')
+"""
+
+
