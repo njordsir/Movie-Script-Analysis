@@ -64,7 +64,7 @@ Pickle files containing the metrics obtained for two methods of graph formation 
 
 Sample Output
 
-<img src="https://raw.githubusercontent.com/njordsir/Movie-Script-Analysis/master/Images/char_n1.png" height="200px">
+<img src="https://raw.githubusercontent.com/njordsir/Movie-Script-Analysis/master/Images/char_n1.png" height="500px">
 
  
 
