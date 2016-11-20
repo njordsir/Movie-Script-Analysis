@@ -20,25 +20,32 @@ Extract scene and character details and store as jsons.
 ```
 until finished
 ```
-
 ### Movie emotion/sentiment analysis
 
-script: sentiment_bin.py
+corresponding script: sentiment_bin.py
 
 Emotion quotient is obtained by normalizing word count by total word count of 
 emotion words. Similarly for sentiment word count is normalized by total word 
 count of sentiment keywords.
-
--------------------------------------INPUT----------------------------------
+#### INPUT
 
 dirpath:    Directory where movie scripts are stored. (.txt format)
 nrc_lex:    NRC lexicon for sentiment/emotion keywords (.csv format)
 N:          Number of bins in which movie script is to be divided
 
-------------------------------------OUTPUT----------------------------------
+#### OUTPUT
 
 emotion_dict:   Dictionary with movie names as keys and doctionary of 
                 sentiment/emotion quotient as values
+                
+
+### Theme Centralization
+corresponding script : Character Networks Final.ipynb
+Update the path to json directory before execution. 
+Pickle files containing the topic overlap features is generated.
+Sample Output
+
+### Character Interaction Network
 
 ## License
 
