@@ -50,7 +50,7 @@ Update the path to json directory before execution.
 Pickle files containing the topic overlap features are generated.
 
 Sample Output
-<img src="https://raw.githubusercontent.com/njordsir/Movie-Script-Analysis/master/Images/dist1.jpg" height="200px">
+<img src="https://raw.githubusercontent.com/njordsir/Movie-Script-Analysis/master/Images/dist1.png" height="200px">
 
 
 ### Character Interaction Network
