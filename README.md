@@ -24,26 +24,19 @@ until finished
 # Movie emotion/sentiment analysis
 
 script: sentiment_bin.py
-The script extracts sentiment/emotion from movie script in .txt format and 
-provides sentiment/emotion quotient for the movie.
-
--------------------------------------INPUT----------------------------------
-dirpath:    Directory where movie scripts are stored. (.txt format)
-nrc_lex:    NRC lexicon for sentiment/emotion keywords (.csv format)
-            Link to webpage: http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
-N:          Number of bins in which movie script is to be divided
-------------------------------------OUTPUT----------------------------------
-emotion_dict:   Dictionary with movie names as keys and doctionary of 
-                sentiment/emotion quotient as values
-
-The code first breaks script into N bins of equal number of lines. These bins 
-are then processed for sentiment/emotion quotient based on keywords
-
 Emotion quotient is obtained by normalizing word count by total word count of 
 emotion words. Similarly for sentiment word count is normalized by total word 
 count of sentiment keywords.
+-------------------------------------INPUT----------------------------------
 
-NB: Code fragment for pickling as has been commented. It can be used as desired
+dirpath:    Directory where movie scripts are stored. (.txt format)
+nrc_lex:    NRC lexicon for sentiment/emotion keywords (.csv format)
+N:          Number of bins in which movie script is to be divided
+------------------------------------OUTPUT----------------------------------
+
+emotion_dict:   Dictionary with movie names as keys and doctionary of 
+                sentiment/emotion quotient as values
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
