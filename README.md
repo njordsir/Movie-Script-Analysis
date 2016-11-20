@@ -27,9 +27,7 @@ script: sentiment_bin.py
 Emotion quotient is obtained by normalizing word count by total word count of 
 emotion words. Similarly for sentiment word count is normalized by total word 
 count of sentiment keywords.
-
 -------------------------------------INPUT----------------------------------
-
 dirpath:    Directory where movie scripts are stored. (.txt format)
 nrc_lex:    NRC lexicon for sentiment/emotion keywords (.csv format)
 N:          Number of bins in which movie script is to be divided
