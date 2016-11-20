@@ -7,7 +7,7 @@ This project involves advanced feature extraction from movie scripts and their a
 ### Python Dependencies
 
 ```
-jupyter, networkx, gensim, scikit-learn, pandas, imdbpy
+jupyter, networkx, gensim, scikit-learn (0.18), pandas, imdbpy
 ```
 
 ### Usage
