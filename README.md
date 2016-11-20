@@ -30,7 +30,9 @@ count of sentiment keywords.
 #### INPUT
 
 dirpath:    Directory where movie scripts are stored. (.txt format)
+
 nrc_lex:    NRC lexicon for sentiment/emotion keywords (.csv format)
+
 N:          Number of bins in which movie script is to be divided
 
 #### OUTPUT
@@ -40,12 +42,26 @@ emotion_dict:   Dictionary with movie names as keys and doctionary of
                 
 
 ### Theme Centralization
+
 corresponding script : Character Networks Final.ipynb
+
 Update the path to json directory before execution. 
-Pickle files containing the topic overlap features is generated.
+
+Pickle files containing the topic overlap features are generated.
+
 Sample Output
 
 ### Character Interaction Network
+
+corresponding script :
+
+Update the path to json directory before execution. 
+
+Pickle files containing the metrics obtained for two methods of graph formation are generated.
+
+Sample Output
+ 
+
 
 ## License
 
