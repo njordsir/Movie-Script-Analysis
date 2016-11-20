@@ -12,22 +12,14 @@ jupyter, networkx, gensim, sklearn, imdbpy
 
 ### Usage
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
+Download the movie scripts from http://www.imsdb.com/ as shown below or directly download the database from [link].
 ```
-Give the example
+@naman instruction for using the scraper
 ```
-
-And repeat
-
+Extract scene and character details and store as jsons.
 ```
 until finished
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
