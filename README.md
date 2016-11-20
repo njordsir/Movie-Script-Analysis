@@ -22,7 +22,7 @@ until finished
 ```
 ### Movie emotion/sentiment analysis
 
-corresponding script: sentiment_bin.py
+corresponding script : sentiment_bin.py
 
 Emotion quotient is obtained by normalizing word count by total word count of 
 emotion words. Similarly for sentiment word count is normalized by total word 
@@ -43,7 +43,7 @@ emotion_dict:   Dictionary with movie names as keys and doctionary of
 
 ### Theme Centralization
 
-corresponding script : Character Networks Final.ipynb
+corresponding script : Theme Centralization Final.ipynb
 
 Update the path to json directory before execution. 
 
@@ -56,13 +56,16 @@ Sample Output
 
 ### Character Interaction Network
 
-corresponding script :
+corresponding script : Character Networks Final.ipynb
 
 Update the path to json directory before execution. 
 
 Pickle files containing the metrics obtained for two methods of graph formation are generated.
 
 Sample Output
+
+<img src="https://raw.githubusercontent.com/njordsir/Movie-Script-Analysis/master/Images/char_n1.png" height="200px">
+
  
 
 
